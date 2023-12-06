@@ -1,0 +1,4804 @@
+title,year,sentiment_analysis,recommend
+Counter-Strike,2011.0,2,1
+Counter-Strike,2012.0,4,3
+Counter-Strike,2013.0,9,8
+Counter-Strike,2014.0,37,23
+Counter-Strike,2015.0,32,18
+Team Fortress Classic,2012.0,1,1
+Team Fortress Classic,2014.0,7,4
+Team Fortress Classic,2015.0,9,6
+Day of Defeat,2013.0,2,1
+Day of Defeat,2014.0,2,1
+Day of Defeat,2015.0,2,1
+Deathmatch Classic,2014.0,2,1
+Half-Life: Opposing Force,2013.0,2,1
+Half-Life: Opposing Force,2014.0,2,1
+Half-Life: Opposing Force,2015.0,2,1
+Ricochet,2013.0,2,1
+Ricochet,2014.0,6,3
+Ricochet,2015.0,5,3
+Half-Life,2011.0,2,1
+Half-Life,2012.0,5,3
+Half-Life,2013.0,16,8
+Half-Life,2014.0,41,23
+Half-Life,2015.0,28,15
+Counter-Strike: Condition Zero,2011.0,1,1
+Counter-Strike: Condition Zero,2013.0,2,1
+Counter-Strike: Condition Zero,2014.0,1,1
+Counter-Strike: Condition Zero,2015.0,7,4
+Half-Life: Blue Shift,2015.0,7,4
+Half-Life 2,2011.0,9,5
+Half-Life 2,2012.0,20,11
+Half-Life 2,2013.0,66,38
+Half-Life 2,2014.0,139,80
+Half-Life 2,2015.0,74,46
+Counter-Strike: Source,2010.0,4,2
+Counter-Strike: Source,2011.0,13,7
+Counter-Strike: Source,2012.0,25,15
+Counter-Strike: Source,2013.0,65,38
+Counter-Strike: Source,2014.0,164,94
+Counter-Strike: Source,2015.0,88,51
+Half-Life: Source,2013.0,4,2
+Half-Life: Source,2014.0,5,3
+Half-Life: Source,2015.0,2,1
+Day of Defeat: Source,2010.0,2,1
+Day of Defeat: Source,2011.0,3,2
+Day of Defeat: Source,2012.0,10,6
+Day of Defeat: Source,2013.0,8,5
+Day of Defeat: Source,2014.0,14,7
+Day of Defeat: Source,2015.0,12,7
+Half-Life 2: Deathmatch,2011.0,6,3
+Half-Life 2: Deathmatch,2013.0,10,5
+Half-Life 2: Deathmatch,2014.0,2,1
+Half-Life 2: Deathmatch,2015.0,1,1
+Half-Life 2: Lost Coast,2013.0,5,3
+Half-Life 2: Lost Coast,2014.0,6,4
+Half-Life Deathmatch: Source,2013.0,2,1
+Half-Life 2: Episode One,2011.0,2,1
+Half-Life 2: Episode One,2012.0,2,1
+Half-Life 2: Episode One,2013.0,6,3
+Half-Life 2: Episode One,2014.0,6,3
+Half-Life 2: Episode One,2015.0,10,7
+Portal,2010.0,4,2
+Portal,2011.0,20,11
+Portal,2012.0,12,7
+Portal,2013.0,29,17
+Portal,2014.0,62,35
+Portal,2015.0,29,17
+Half-Life 2: Episode Two,2011.0,3,3
+Half-Life 2: Episode Two,2013.0,2,1
+Half-Life 2: Episode Two,2014.0,12,6
+Half-Life 2: Episode Two,2015.0,9,6
+Team Fortress 2,2010.0,15,8
+Team Fortress 2,2011.0,133,76
+Team Fortress 2,2012.0,423,241
+Team Fortress 2,2013.0,1339,778
+Team Fortress 2,2014.0,2586,1510
+Team Fortress 2,2015.0,1185,682
+Left 4 Dead,2011.0,1,1
+Left 4 Dead,2012.0,8,5
+Left 4 Dead,2013.0,14,9
+Left 4 Dead,2014.0,18,10
+Left 4 Dead,2015.0,5,3
+Left 4 Dead 2,2010.0,2,1
+Left 4 Dead 2,2011.0,14,8
+Left 4 Dead 2,2012.0,51,29
+Left 4 Dead 2,2013.0,362,215
+Left 4 Dead 2,2014.0,425,256
+Left 4 Dead 2,2015.0,176,104
+Portal 2,2010.0,2,1
+Portal 2,2011.0,47,25
+Portal 2,2012.0,49,29
+Portal 2,2013.0,118,67
+Portal 2,2014.0,243,138
+Portal 2,2015.0,140,83
+Alien Swarm,2010.0,8,4
+Alien Swarm,2011.0,10,6
+Alien Swarm,2012.0,15,8
+Alien Swarm,2013.0,24,14
+Alien Swarm,2014.0,62,34
+Alien Swarm,2015.0,22,13
+Counter-Strike: Global Offensive,2010.0,2,1
+Counter-Strike: Global Offensive,2011.0,8,5
+Counter-Strike: Global Offensive,2012.0,68,42
+Counter-Strike: Global Offensive,2013.0,409,240
+Counter-Strike: Global Offensive,2014.0,2007,1172
+Counter-Strike: Global Offensive,2015.0,2599,1517
+Red Orchestra: Ostfront 41-45,2012.0,1,1
+Red Orchestra: Ostfront 41-45,2013.0,1,1
+Killing Floor,2010.0,9,5
+Killing Floor,2011.0,27,14
+Killing Floor,2012.0,13,9
+Killing Floor,2013.0,126,74
+Killing Floor,2014.0,212,127
+Killing Floor,2015.0,54,35
+Darkest Hour: Europe '44-'45,2014.0,2,1
+Uplink,2011.0,2,1
+Uplink,2012.0,2,1
+Uplink,2014.0,3,2
+Uplink,2015.0,4,2
+DEFCON,2012.0,2,1
+DEFCON,2013.0,2,1
+DEFCON,2014.0,6,3
+DEFCON,2015.0,2,1
+Space Empires V,2013.0,2,1
+Space Empires V,2015.0,2,1
+Source Filmmaker,2012.0,9,5
+Source Filmmaker,2013.0,26,15
+Source Filmmaker,2014.0,102,59
+Source Filmmaker,2015.0,44,24
+Two Worlds Epic Edition,2013.0,2,1
+Two Worlds Epic Edition,2014.0,2,1
+Quake III Arena,2011.0,2,1
+Quake III Arena,2015.0,2,1
+Wolfenstein 3D,2012.0,1,1
+Wolfenstein 3D,2014.0,2,1
+Wolfenstein 3D,2015.0,4,2
+Ultimate Doom,2014.0,4,2
+Ultimate Doom,2015.0,6,3
+Final DOOM,2014.0,2,1
+DOOM II,2010.0,2,1
+DOOM II,2015.0,2,1
+QUAKE,2012.0,1,1
+QUAKE,2014.0,2,1
+QUAKE II,2013.0,2,1
+The Ship: Murder Party,2013.0,4,2
+The Ship: Murder Party,2014.0,19,10
+The Ship: Murder Party,2015.0,7,4
+The Ship: Single Player,2014.0,4,2
+Bloody Good Time,2012.0,2,1
+Bloody Good Time,2014.0,4,2
+Shadowgrounds,2014.0,2,1
+Alpha Prime,2015.0,2,1
+Vampire: The Masquerade - Bloodlines,2012.0,3,2
+Vampire: The Masquerade - Bloodlines,2014.0,6,3
+Vampire: The Masquerade - Bloodlines,2015.0,1,1
+GUN™,2015.0,2,1
+Call of Duty®,2012.0,1,1
+Call of Duty®,2015.0,2,1
+Call of Duty® 2,2014.0,1,1
+Call of Duty: United Offensive,2013.0,2,1
+Call of Duty: United Offensive,2015.0,2,1
+RollerCoaster Tycoon® 3: Platinum,2013.0,4,2
+RollerCoaster Tycoon® 3: Platinum,2014.0,2,1
+RollerCoaster Tycoon® 3: Platinum,2015.0,7,4
+X3: Reunion,2015.0,2,1
+X3: Terran Conflict,2015.0,2,1
+X Rebirth,2013.0,2,1
+X Rebirth,2015.0,4,2
+FlatOut 2™,2014.0,5,3
+FlatOut 2™,2015.0,4,2
+Xpand Rally Xtreme,2014.0,2,1
+King's Bounty: Armored Princess,2015.0,2,1
+Safecracker: The Ultimate Puzzle Adventure,2014.0,2,1
+Insaniquarium Deluxe,2012.0,2,1
+Insaniquarium Deluxe,2015.0,3,2
+Feeding Frenzy 2 Deluxe,2014.0,2,2
+Feeding Frenzy 2 Deluxe,2015.0,2,1
+Typer Shark! Deluxe,2015.0,1,1
+Peggle Deluxe,2013.0,4,2
+Peggle Deluxe,2014.0,4,2
+Peggle Extreme,2011.0,2,1
+Peggle Extreme,2013.0,5,3
+Peggle Extreme,2014.0,3,2
+Peggle Extreme,2015.0,1,1
+Plants vs. Zombies GOTY Edition,2014.0,2,1
+Plants vs. Zombies GOTY Edition,2015.0,8,5
+Zuma's Revenge!,2014.0,3,2
+Sniper Elite,2012.0,2,1
+Sniper Elite,2015.0,1,1
+Judge Dredd: Dredd vs. Death,2015.0,2,1
+Evil Genius,2013.0,2,1
+Evil Genius,2014.0,2,1
+Aliens versus Predator Classic 2000,2013.0,2,1
+Aliens versus Predator Classic 2000,2014.0,8,4
+Aliens versus Predator Classic 2000,2015.0,2,1
+Advent Rising,2014.0,2,1
+Psychonauts,2011.0,2,1
+Psychonauts,2012.0,2,1
+Psychonauts,2013.0,10,5
+Psychonauts,2014.0,10,5
+Psychonauts,2015.0,2,1
+Sid Meier's Civilization® IV,2013.0,4,2
+Sid Meier's Civilization® IV,2014.0,2,1
+Sid Meier's Civilization® IV,2015.0,4,2
+Sid Meier's Civilization® III Complete,2010.0,2,1
+Sid Meier's Civilization® III Complete,2014.0,4,2
+Sid Meier's Pirates!,2014.0,2,1
+Sid Meier's Pirates!,2015.0,2,1
+Garry's Mod,2010.0,7,4
+Garry's Mod,2011.0,37,21
+Garry's Mod,2012.0,68,37
+Garry's Mod,2013.0,571,325
+Garry's Mod,2014.0,1277,744
+Garry's Mod,2015.0,614,360
+S.T.A.L.K.E.R.: Shadow of Chernobyl,2011.0,2,1
+S.T.A.L.K.E.R.: Shadow of Chernobyl,2012.0,2,1
+S.T.A.L.K.E.R.: Shadow of Chernobyl,2014.0,4,2
+S.T.A.L.K.E.R.: Shadow of Chernobyl,2015.0,2,2
+Company of Heroes - Legacy Edition,2011.0,6,3
+Company of Heroes - Legacy Edition,2012.0,4,2
+Company of Heroes - Legacy Edition,2013.0,10,5
+Company of Heroes - Legacy Edition,2014.0,12,8
+Company of Heroes - Legacy Edition,2015.0,7,4
+"Warhammer® 40,000: Dawn of War® - Game of the Year Edition",2013.0,5,3
+"Warhammer® 40,000: Dawn of War® - Game of the Year Edition",2014.0,8,4
+"Warhammer® 40,000: Dawn of War® - Game of the Year Edition",2015.0,6,3
+"Warhammer® 40,000: Dawn of War® - Dark Crusade",2012.0,1,1
+"Warhammer® 40,000: Dawn of War® - Dark Crusade",2014.0,11,6
+"Warhammer® 40,000: Dawn of War® - Dark Crusade",2015.0,7,4
+Medieval II: Total War™,2011.0,2,1
+Medieval II: Total War™,2013.0,5,3
+Medieval II: Total War™,2014.0,12,6
+Medieval II: Total War™,2015.0,16,9
+Condemned: Criminal Origins,2013.0,2,1
+Rome: Total War™ - Collection,2011.0,2,1
+Rome: Total War™ - Collection,2012.0,1,1
+Rome: Total War™ - Collection,2013.0,6,4
+Rome: Total War™ - Collection,2014.0,7,4
+Rome: Total War™ - Collection,2015.0,7,4
+Medieval II: Total War™ Kingdoms,2014.0,2,1
+Cossacks: Back to War,2013.0,2,1
+Natural Selection 2,2012.0,1,1
+Natural Selection 2,2013.0,22,13
+Natural Selection 2,2014.0,38,23
+Natural Selection 2,2015.0,6,5
+STAR WARS™ Republic Commando™,2013.0,4,2
+STAR WARS™ Republic Commando™,2014.0,5,3
+STAR WARS™ Republic Commando™,2015.0,12,7
+STAR WARS™ Jedi Knight - Jedi Academy™,2012.0,2,1
+STAR WARS™ Jedi Knight - Jedi Academy™,2014.0,10,6
+STAR WARS™ Jedi Knight - Jedi Academy™,2015.0,4,2
+STAR WARS™ Jedi Knight II - Jedi Outcast™,2011.0,2,1
+STAR WARS™ Jedi Knight II - Jedi Outcast™,2014.0,1,1
+STAR WARS™ Jedi Knight II - Jedi Outcast™,2015.0,2,1
+"Star Wars: Battlefront 2 (Classic, 2005)",2011.0,2,1
+"Star Wars: Battlefront 2 (Classic, 2005)",2012.0,4,2
+"Star Wars: Battlefront 2 (Classic, 2005)",2013.0,17,10
+"Star Wars: Battlefront 2 (Classic, 2005)",2014.0,74,42
+"Star Wars: Battlefront 2 (Classic, 2005)",2015.0,46,26
+Vegas: Make It Big™,2014.0,2,1
+FlatOut,2013.0,4,2
+FlatOut,2014.0,2,1
+FlatOut,2015.0,2,1
+The Longest Journey,2013.0,1,1
+The Longest Journey,2015.0,2,1
+Bloodline Champions,2015.0,2,1
+Nexus - The Jupiter Incident,2013.0,2,1
+Devil May Cry® 3 Special Edition,2014.0,3,2
+Commandos: Behind Enemy Lines,2015.0,2,1
+Commandos 2: Men of Courage,2014.0,2,1
+Hitman 2: Silent Assassin,2013.0,1,1
+Hitman: Blood Money,2011.0,1,1
+Hitman: Blood Money,2012.0,1,1
+Hitman: Blood Money,2013.0,2,1
+Hitman: Blood Money,2014.0,3,2
+Hitman: Blood Money,2015.0,14,7
+Just Cause,2011.0,2,1
+Just Cause,2014.0,4,3
+Just Cause,2015.0,2,1
+Deus Ex: Game of the Year Edition,2011.0,2,1
+Deus Ex: Game of the Year Edition,2012.0,3,2
+Deus Ex: Game of the Year Edition,2013.0,2,1
+Deus Ex: Game of the Year Edition,2014.0,10,6
+Deus Ex: Game of the Year Edition,2015.0,5,3
+Thief: Deadly Shadows,2014.0,2,1
+Thief: Deadly Shadows,2015.0,2,1
+Tomb Raider: Legend,2012.0,2,1
+Tomb Raider: Legend,2014.0,2,1
+Rogue Trooper,2014.0,2,1
+Trackmania United Forever Star Edition,2010.0,2,1
+Trackmania United Forever Star Edition,2014.0,2,1
+X-Blades,2013.0,3,2
+X-Blades,2015.0,2,1
+Two Worlds II HD,2012.0,2,1
+Two Worlds II HD,2013.0,2,1
+Two Worlds II HD,2014.0,2,1
+Sid Meier's Railroads!,2015.0,2,1
+X-COM: Apocalypse,2012.0,2,1
+BioShock™,2011.0,2,1
+BioShock™,2012.0,4,2
+BioShock™,2013.0,20,10
+BioShock™,2014.0,55,29
+BioShock™,2015.0,25,14
+X-COM: Interceptor,2013.0,2,1
+X-COM: UFO Defense,2011.0,2,1
+X-COM: UFO Defense,2014.0,2,1
+Men of War™,2011.0,2,1
+Men of War™,2012.0,2,1
+Death Track®: Resurrection,2013.0,1,1
+NecroVision,2014.0,1,1
+Call of Duty® 4: Modern Warfare®,2012.0,3,2
+Call of Duty® 4: Modern Warfare®,2013.0,3,2
+Call of Duty® 4: Modern Warfare®,2014.0,9,6
+Call of Duty® 4: Modern Warfare®,2015.0,7,4
+Tomb Raider: Anniversary,2015.0,2,1
+Kane and Lynch: Dead Men™,2015.0,4,2
+Battlestations Pacific,2014.0,2,1
+Battlestations Pacific,2015.0,1,1
+Just Cause 2,2011.0,7,4
+Just Cause 2,2012.0,17,9
+Just Cause 2,2013.0,68,37
+Just Cause 2,2014.0,119,66
+Just Cause 2,2015.0,43,27
+Sam &amp; Max 104: Abe Lincoln Must Die!,2014.0,2,1
+Bone: Out From Boneville,2014.0,2,1
+Strong Bad's Cool Game for Attractive People: Season 1,2013.0,2,1
+Geometry Wars: Retro Evolved,2014.0,6,4
+EVE Online,2011.0,2,1
+EVE Online,2013.0,5,3
+EVE Online,2014.0,1,1
+EVE Online,2015.0,8,4
+RACE 07,2013.0,4,2
+RACE 07,2014.0,1,1
+Civilization IV: Beyond the Sword,2010.0,2,1
+Civilization IV: Beyond the Sword,2013.0,2,1
+BioShock® 2,2012.0,2,1
+BioShock® 2,2013.0,2,1
+BioShock® 2,2014.0,11,6
+BioShock® 2,2015.0,6,3
+BioShock Infinite,2012.0,1,1
+BioShock Infinite,2013.0,112,61
+BioShock Infinite,2014.0,212,118
+BioShock Infinite,2015.0,94,53
+Freedom Force,2014.0,2,1
+Sid Meier's Civilization® V,2010.0,2,1
+Sid Meier's Civilization® V,2011.0,4,2
+Sid Meier's Civilization® V,2012.0,6,4
+Sid Meier's Civilization® V,2013.0,93,50
+Sid Meier's Civilization® V,2014.0,277,152
+Sid Meier's Civilization® V,2015.0,129,71
+Borderlands,2011.0,9,5
+Borderlands,2012.0,15,9
+Borderlands,2013.0,17,9
+Borderlands,2014.0,16,10
+Borderlands,2015.0,15,8
+Borderlands: The Zombie Island of Dr. Ned,2012.0,1,1
+DOOM 3,2011.0,2,1
+DOOM 3,2015.0,2,1
+Commander Keen,2011.0,2,1
+Commander Keen,2013.0,2,1
+Commander Keen,2015.0,2,1
+RAGE,2011.0,3,2
+RAGE,2013.0,10,5
+RAGE,2014.0,4,2
+RAGE,2015.0,3,2
+Supreme Commander,2013.0,2,1
+Supreme Commander,2014.0,4,2
+Supreme Commander: Forged Alliance,2012.0,2,1
+Supreme Commander: Forged Alliance,2013.0,3,2
+Supreme Commander: Forged Alliance,2014.0,10,5
+Supreme Commander: Forged Alliance,2015.0,6,3
+"Warhammer® 40,000: Dawn of War® - Soulstorm",2014.0,4,2
+"Warhammer® 40,000: Dawn of War® - Soulstorm",2015.0,10,6
+Frontlines™: Fuel of War™,2014.0,2,1
+Saints Row 2,2011.0,8,4
+Saints Row 2,2013.0,6,3
+Saints Row 2,2014.0,23,13
+Saints Row 2,2015.0,17,10
+Gish,2013.0,2,1
+Champions Online,2011.0,2,1
+Champions Online,2014.0,2,1
+Champions Online,2015.0,2,1
+Star Trek Online,2013.0,8,5
+Star Trek Online,2014.0,16,10
+Star Trek Online,2015.0,10,5
+Test Drive Unlimited 2,2014.0,4,2
+Test Drive Unlimited 2,2015.0,6,3
+Blade Kitten,2014.0,1,1
+Call of Duty: World at War,2012.0,1,1
+Call of Duty: World at War,2013.0,14,8
+Call of Duty: World at War,2014.0,31,17
+Call of Duty: World at War,2015.0,37,19
+TimeShift™,2014.0,2,1
+TimeShift™,2015.0,2,1
+Prototype™,2010.0,2,1
+Prototype™,2012.0,2,1
+Prototype™,2013.0,2,1
+Prototype™,2014.0,9,5
+Call of Duty®: Modern Warfare® 2,2011.0,6,4
+Call of Duty®: Modern Warfare® 2,2012.0,11,6
+Call of Duty®: Modern Warfare® 2,2013.0,18,10
+Call of Duty®: Modern Warfare® 2,2014.0,49,29
+Call of Duty®: Modern Warfare® 2,2015.0,39,24
+Postal III,2014.0,2,1
+Empire: Total War™,2011.0,2,1
+Empire: Total War™,2012.0,2,1
+Empire: Total War™,2013.0,14,9
+Empire: Total War™,2014.0,17,11
+Empire: Total War™,2015.0,18,9
+Empire: Total War™ - Elite Units of the West,2015.0,2,1
+Aliens vs. Predator™,2011.0,4,2
+Aliens vs. Predator™,2012.0,4,2
+Aliens vs. Predator™,2013.0,4,2
+Aliens vs. Predator™,2014.0,15,8
+Aliens vs. Predator™,2015.0,15,8
+TrackMania Nations Forever,2012.0,2,1
+TrackMania Nations Forever,2013.0,4,2
+TrackMania Nations Forever,2014.0,13,7
+TrackMania Nations Forever,2015.0,7,4
+Sherlock Holmes: The Awakened - Remastered Edition,2014.0,2,1
+Gumboy Tournament,2012.0,1,1
+Space Trader: Merchant Marine,2014.0,2,1
+Penguins Arena: Sedna's World,2014.0,9,5
+Penguins Arena: Sedna's World,2015.0,2,1
+Obulis,2014.0,2,1
+Larva Mortus,2014.0,2,1
+Chains,2013.0,2,1
+Overlord™,2011.0,2,1
+Overlord™,2014.0,4,2
+Overlord™,2015.0,2,2
+Hospital Tycoon,2014.0,2,1
+Hospital Tycoon,2015.0,2,1
+Dragon Nest,2013.0,6,3
+Dragon Nest,2014.0,13,7
+Dragon Nest,2015.0,17,9
+Grand Theft Auto III,2013.0,2,1
+Grand Theft Auto III,2014.0,8,4
+Grand Theft Auto III,2015.0,5,3
+Grand Theft Auto: Vice City,2013.0,3,2
+Grand Theft Auto: Vice City,2014.0,9,6
+Grand Theft Auto: Vice City,2015.0,12,7
+Grand Theft Auto: San Andreas,2012.0,4,2
+Grand Theft Auto: San Andreas,2013.0,10,5
+Grand Theft Auto: San Andreas,2014.0,23,16
+Grand Theft Auto: San Andreas,2015.0,12,8
+Max Payne,2013.0,2,1
+Max Payne,2014.0,2,1
+Midnight Club 2,2015.0,2,1
+Bully: Scholarship Edition,2012.0,1,1
+Bully: Scholarship Edition,2013.0,9,5
+Bully: Scholarship Edition,2014.0,20,11
+Bully: Scholarship Edition,2015.0,12,6
+Grand Theft Auto: Episodes from Liberty City,2011.0,2,1
+Grand Theft Auto: Episodes from Liberty City,2013.0,4,2
+Grand Theft Auto: Episodes from Liberty City,2014.0,6,3
+Grand Theft Auto: Episodes from Liberty City,2015.0,2,1
+Darkstar One,2015.0,2,1
+Jack Keane,2014.0,2,1
+FlatOut: Ultimate Carnage,2012.0,2,1
+FlatOut: Ultimate Carnage,2013.0,2,1
+FlatOut: Ultimate Carnage,2014.0,2,1
+PuzzleQuest: Challenge of the Warlords,2011.0,4,2
+Sprint Cars Road to Knoxville,2014.0,2,1
+Overlord II,2015.0,2,1
+Operation Flashpoint: Dragon Rising,2011.0,2,1
+Operation Flashpoint: Dragon Rising,2014.0,2,1
+AudioSurf,2010.0,2,1
+AudioSurf,2011.0,10,5
+AudioSurf,2012.0,6,3
+AudioSurf,2013.0,18,10
+AudioSurf,2014.0,17,9
+AudioSurf,2015.0,9,5
+Unreal Tournament 3 Black,2012.0,2,1
+Unreal Tournament 3 Black,2013.0,2,1
+Unreal Tournament 3 Black,2014.0,4,2
+Unreal Tournament 2004: Editor's Choice Edition,2012.0,2,1
+Unreal Tournament 2004: Editor's Choice Edition,2013.0,1,1
+Unreal Tournament 2004: Editor's Choice Edition,2014.0,2,1
+Unreal Tournament 2004: Editor's Choice Edition,2015.0,6,3
+Unreal Gold,2015.0,2,1
+Prince of Persia: Warrior Within™,2014.0,2,1
+Far Cry®,2012.0,2,1
+Far Cry®,2014.0,2,1
+Far Cry®,2015.0,2,1
+Tom Clancy's Splinter Cell Chaos Theory®,2010.0,2,1
+Tom Clancy's Splinter Cell Chaos Theory®,2014.0,3,2
+Tom Clancy's Splinter Cell Chaos Theory®,2015.0,4,2
+Prince of Persia®: The Sands of Time,2011.0,2,1
+Prince of Persia®: The Sands of Time,2014.0,4,2
+Assassin's Creed™: Director's Cut Edition,2014.0,3,2
+Assassin's Creed™: Director's Cut Edition,2015.0,2,1
+Tom Clancy's Rainbow Six® Vegas 2,2013.0,4,2
+Tom Clancy's Rainbow Six® Vegas 2,2014.0,2,1
+Beyond Good and Evil™,2013.0,2,1
+Beyond Good and Evil™,2014.0,2,1
+Heroes of Might &amp; Magic V,2015.0,2,1
+Silent Hunter®: Wolves of the Pacific,2014.0,2,1
+Tom Clancy's Ghost Recon®,2014.0,2,1
+IL-2 Sturmovik: 1946,2010.0,2,1
+IL-2 Sturmovik: 1946,2012.0,2,1
+IL-2 Sturmovik: 1946,2014.0,5,3
+IL-2 Sturmovik: 1946,2015.0,4,2
+Brothers in Arms: Hell's Highway™,2014.0,2,1
+Brothers in Arms: Hell's Highway™,2015.0,2,1
+AaAaAA!!! - A Reckless Disregard for Gravity,2011.0,2,1
+AaAaAA!!! - A Reckless Disregard for Gravity,2015.0,2,1
+"Warhammer 40,000: Dawn of War II",2011.0,5,3
+"Warhammer 40,000: Dawn of War II",2012.0,1,1
+"Warhammer 40,000: Dawn of War II",2013.0,2,1
+"Warhammer 40,000: Dawn of War II",2014.0,5,3
+"Warhammer 40,000: Dawn of War II",2015.0,7,4
+Oddworld: Abe's Oddysee®,2011.0,2,1
+Oddworld: Abe's Oddysee®,2012.0,2,1
+Oddworld: Abe's Oddysee®,2013.0,4,2
+Oddworld: Abe's Oddysee®,2014.0,16,8
+Oddworld: Abe's Oddysee®,2015.0,8,5
+Oddworld: Abe's Exoddus®,2011.0,2,1
+Oddworld: Abe's Exoddus®,2014.0,2,1
+Oddworld: Abe's Exoddus®,2015.0,6,3
+Oddworld: Stranger's Wrath HD,2014.0,2,1
+Oddworld: Stranger's Wrath HD,2015.0,6,3
+Plant Tycoon,2014.0,2,1
+Trials 2: Second Edition,2012.0,2,1
+Insecticide Part 1,2014.0,2,2
+Velvet Assassin,2014.0,5,3
+Sid Meier's Civilization V: Gods and Kings,2012.0,2,1
+Sid Meier's Civilization V: Gods and Kings,2014.0,1,1
+Tribes: Ascend,2012.0,14,8
+Tribes: Ascend,2013.0,28,19
+Tribes: Ascend,2014.0,25,15
+Tribes: Ascend,2015.0,17,9
+Children of the Nile: Enhanced Edition,2014.0,2,1
+Crysis,2014.0,6,3
+Crysis,2015.0,2,1
+Crysis Warhead®,2012.0,2,1
+Crysis Warhead®,2013.0,1,1
+Crysis Warhead®,2015.0,1,1
+SPORE™,2012.0,2,1
+SPORE™,2013.0,6,4
+SPORE™,2014.0,38,21
+SPORE™,2015.0,9,6
+Mirror's Edge™,2012.0,11,6
+Mirror's Edge™,2013.0,16,10
+Mirror's Edge™,2014.0,57,31
+Mirror's Edge™,2015.0,21,12
+SPORE™ Creepy &amp; Cute Parts Pack,2013.0,1,1
+SPORE™ Creepy &amp; Cute Parts Pack,2015.0,2,1
+Dragon Age: Origins,2010.0,2,1
+Dragon Age: Origins,2013.0,2,1
+Dragon Age: Origins,2014.0,4,2
+Mass Effect,2011.0,2,1
+Mass Effect,2012.0,4,2
+Mass Effect,2013.0,8,4
+Mass Effect,2014.0,14,8
+Mass Effect,2015.0,2,1
+Dead Space,2013.0,11,7
+Dead Space,2014.0,9,5
+Dead Space,2015.0,3,2
+Command &amp; Conquer: Red Alert 3,2012.0,2,1
+Command &amp; Conquer: Red Alert 3,2013.0,6,3
+Command &amp; Conquer: Red Alert 3,2014.0,1,1
+Command &amp; Conquer: Red Alert 3,2015.0,9,6
+Zombie Panic! Source,2012.0,6,5
+Zombie Panic! Source,2013.0,17,11
+Zombie Panic! Source,2014.0,22,13
+Zombie Panic! Source,2015.0,3,2
+Age of Chivalry,2011.0,2,1
+Age of Chivalry,2012.0,4,2
+Age of Chivalry,2013.0,2,1
+Age of Chivalry,2014.0,4,2
+Synergy,2012.0,1,1
+Synergy,2013.0,7,4
+Synergy,2014.0,21,13
+Synergy,2015.0,15,9
+D.I.P.R.I.P. Warm Up,2015.0,1,1
+Eternal Silence,2014.0,2,1
+"Pirates, Vikings, and Knights II",2012.0,1,1
+"Pirates, Vikings, and Knights II",2013.0,2,1
+"Pirates, Vikings, and Knights II",2014.0,6,3
+"Pirates, Vikings, and Knights II",2015.0,7,4
+Dystopia,2013.0,3,2
+Dystopia,2014.0,2,1
+INSURGENCY: Modern Infantry Combat,2013.0,2,1
+INSURGENCY: Modern Infantry Combat,2014.0,2,2
+Nuclear Dawn,2011.0,2,1
+Nuclear Dawn,2013.0,2,1
+Empires Mod,2014.0,2,1
+Empires Mod,2015.0,2,1
+"Precipice of Darkness, Episode One",2013.0,2,1
+"Precipice of Darkness, Episode Two",2012.0,2,1
+Unstoppable Gorg,2013.0,2,1
+Defense Grid: The Awakening,2014.0,2,1
+Defense Grid: The Awakening,2015.0,2,1
+And Yet It Moves,2015.0,2,1
+Zero Gear,2014.0,3,2
+Zero Gear,2015.0,2,1
+Silent Hill Homecoming,2015.0,1,1
+Tom Clancy's Rainbow Six® 3 Gold,2014.0,2,1
+Far Cry® 2: Fortune's Edition,2013.0,5,3
+Far Cry® 2: Fortune's Edition,2014.0,3,2
+Far Cry® 2: Fortune's Edition,2015.0,2,1
+Red Faction Guerrilla Steam Edition,2012.0,2,1
+Red Faction Guerrilla Steam Edition,2014.0,3,2
+Red Faction Guerrilla Steam Edition,2015.0,11,6
+S.T.A.L.K.E.R.: Clear Sky,2011.0,2,1
+S.T.A.L.K.E.R.: Clear Sky,2012.0,2,1
+S.T.A.L.K.E.R.: Clear Sky,2014.0,3,2
+S.T.A.L.K.E.R.: Clear Sky,2015.0,5,3
+Red Faction,2013.0,2,1
+Red Faction,2014.0,2,1
+Company of Heroes: Tales of Valor,2015.0,2,2
+"Warhammer® 40,000: Dawn of War® II Chaos Rising",2011.0,4,2
+"Warhammer® 40,000: Dawn of War® II Chaos Rising",2013.0,2,1
+"Warhammer® 40,000: Dawn of War® II Chaos Rising",2014.0,2,1
+"Warhammer® 40,000: Dawn of War® II Chaos Rising",2015.0,1,1
+The Witcher: Enhanced Edition Director's Cut,2011.0,4,2
+The Witcher: Enhanced Edition Director's Cut,2013.0,2,1
+The Witcher: Enhanced Edition Director's Cut,2014.0,13,8
+The Witcher: Enhanced Edition Director's Cut,2015.0,15,8
+The Witcher 2: Assassins of Kings Enhanced Edition,2011.0,2,1
+The Witcher 2: Assassins of Kings Enhanced Edition,2012.0,2,1
+The Witcher 2: Assassins of Kings Enhanced Edition,2013.0,9,5
+The Witcher 2: Assassins of Kings Enhanced Edition,2014.0,29,16
+The Witcher 2: Assassins of Kings Enhanced Edition,2015.0,11,6
+LEGO Batman,2014.0,4,2
+LEGO Batman,2015.0,1,1
+F.E.A.R.,2014.0,3,2
+F.E.A.R.,2015.0,5,3
+F.E.A.R. 3,2013.0,2,1
+F.E.A.R. 3,2014.0,6,3
+F.E.A.R. 3,2015.0,2,1
+Street Fighter® IV,2011.0,2,1
+Street Fighter® IV,2014.0,2,1
+Resident Evil™ 5/ Biohazard 5®,2013.0,2,1
+Resident Evil™ 5/ Biohazard 5®,2014.0,2,1
+Resident Evil™ 5/ Biohazard 5®,2015.0,3,2
+Driver® Parallel Lines,2013.0,2,1
+World of Goo,2012.0,2,1
+World of Goo,2013.0,4,2
+World of Goo,2014.0,6,3
+Mount &amp; Blade,2011.0,2,1
+Mount &amp; Blade,2013.0,4,2
+Mount &amp; Blade,2014.0,2,1
+Mount &amp; Blade,2015.0,2,1
+Penumbra: Black Plague Gold Edition,2014.0,2,1
+Penumbra: Black Plague Gold Edition,2015.0,2,1
+Penumbra Overture,2013.0,2,1
+Penumbra Overture,2014.0,2,1
+Penumbra Overture,2015.0,2,1
+Zeno Clash,2011.0,6,3
+Zeno Clash,2012.0,2,1
+Zeno Clash,2013.0,1,1
+Rock of Ages,2014.0,2,2
+Fallout 3,2013.0,5,3
+Fallout 3,2014.0,19,11
+Fallout 3,2015.0,19,11
+The Elder Scrolls III: Morrowind® Game of the Year Edition,2012.0,2,1
+The Elder Scrolls III: Morrowind® Game of the Year Edition,2013.0,4,2
+The Elder Scrolls III: Morrowind® Game of the Year Edition,2014.0,12,6
+The Elder Scrolls III: Morrowind® Game of the Year Edition,2015.0,6,3
+The Elder Scrolls IV: Oblivion® Game of the Year Edition,2011.0,4,2
+The Elder Scrolls IV: Oblivion® Game of the Year Edition,2013.0,3,2
+The Elder Scrolls IV: Oblivion® Game of the Year Edition,2014.0,14,7
+The Elder Scrolls IV: Oblivion® Game of the Year Edition,2015.0,11,6
+Call of Cthulhu®: Dark Corners of the Earth,2014.0,2,1
+BRINK,2011.0,4,2
+BRINK,2014.0,1,1
+Fallout 3: Game of the Year Edition,2011.0,4,2
+Fallout 3: Game of the Year Edition,2012.0,5,3
+Fallout 3: Game of the Year Edition,2013.0,13,7
+Fallout 3: Game of the Year Edition,2014.0,33,19
+Fallout 3: Game of the Year Edition,2015.0,41,22
+Fallout: New Vegas,2010.0,2,1
+Fallout: New Vegas,2011.0,8,4
+Fallout: New Vegas,2012.0,9,5
+Fallout: New Vegas,2013.0,36,19
+Fallout: New Vegas,2014.0,117,65
+Fallout: New Vegas,2015.0,105,61
+Hunted: The Demon’s Forge™,2015.0,2,1
+Worms Reloaded,2010.0,3,2
+Worms Reloaded,2011.0,2,1
+Worms Reloaded,2012.0,2,1
+Worms Reloaded,2013.0,2,1
+Worms Reloaded,2014.0,4,2
+Worms Reloaded,2015.0,4,3
+Alien Breed: Impact,2013.0,2,1
+The Last Remnant™,2013.0,2,1
+Grand Ages: Rome,2014.0,3,2
+Tropico 3,2015.0,1,1
+Earth Defense Force: Insect Armageddon,2014.0,2,1
+Train Simulator,2010.0,2,1
+Train Simulator,2012.0,3,2
+Train Simulator,2013.0,7,4
+Train Simulator,2014.0,9,5
+Train Simulator,2015.0,13,8
+DC Universe™ Online,2011.0,4,2
+DC Universe™ Online,2012.0,9,5
+DC Universe™ Online,2013.0,19,11
+DC Universe™ Online,2014.0,57,30
+DC Universe™ Online,2015.0,17,11
+PAYDAY™ The Heist,2011.0,4,2
+PAYDAY™ The Heist,2012.0,11,8
+PAYDAY™ The Heist,2013.0,37,21
+PAYDAY™ The Heist,2014.0,114,68
+PAYDAY™ The Heist,2015.0,34,20
+Trainz™ Simulator 12,2014.0,4,2
+SPORE™ Galactic Adventures,2015.0,4,2
+Burnout Paradise: The Ultimate Box,2011.0,2,1
+Burnout Paradise: The Ultimate Box,2012.0,2,1
+Burnout Paradise: The Ultimate Box,2013.0,12,6
+Burnout Paradise: The Ultimate Box,2014.0,30,16
+Burnout Paradise: The Ultimate Box,2015.0,6,3
+SimCity™ 4 Deluxe Edition,2014.0,3,2
+SimCity™ 4 Deluxe Edition,2015.0,5,3
+Command &amp; Conquer 3: Tiberium Wars,2012.0,2,1
+Command &amp; Conquer 3: Tiberium Wars,2014.0,3,2
+Command &amp; Conquer 3: Tiberium Wars,2015.0,2,1
+Command &amp; Conquer: Red Alert 3 - Uprising,2013.0,2,1
+Command &amp; Conquer: Red Alert 3 - Uprising,2015.0,1,1
+Command &amp; Conquer 3: Kane's Wrath,2014.0,4,2
+Medal of Honor: Airborne,2014.0,8,4
+Medal of Honor: Airborne,2015.0,2,1
+Battlefield: Bad Company™ 2,2011.0,6,3
+Battlefield: Bad Company™ 2,2013.0,5,3
+Battlefield: Bad Company™ 2,2014.0,28,17
+Battlefield: Bad Company™ 2,2015.0,13,7
+Mass Effect 2,2011.0,6,3
+Mass Effect 2,2012.0,4,2
+Mass Effect 2,2013.0,10,5
+Mass Effect 2,2014.0,6,3
+Mass Effect 2,2015.0,4,2
+Overgrowth,2013.0,8,4
+Overgrowth,2014.0,20,11
+Overgrowth,2015.0,7,4
+Lugaru HD,2011.0,2,1
+Cricket Revolution,2013.0,2,1
+Europa Universalis III Complete,2011.0,2,1
+Europa Universalis III Complete,2012.0,2,1
+Knights of Honor,2015.0,2,1
+Hearts of Iron III,2013.0,3,2
+Hearts of Iron III,2014.0,9,5
+Hearts of Iron III,2015.0,4,2
+King's Bounty: The Legend,2010.0,2,1
+Supreme Ruler 2020 Gold,2015.0,2,1
+Majesty Gold HD,2015.0,2,1
+Cogs,2011.0,4,2
+Braid,2011.0,4,2
+Braid,2012.0,2,1
+Braid,2014.0,2,1
+Braid,2015.0,4,2
+Crayon Physics Deluxe,2011.0,2,1
+The Graveyard,2015.0,1,1
+Kane &amp; Lynch 2: Dog Days,2015.0,2,1
+Osmos,2010.0,2,1
+Osmos,2014.0,1,1
+Caster,2015.0,15,8
+Poker Night at the Inventory,2011.0,2,1
+Poker Night at the Inventory,2012.0,10,5
+Poker Night at the Inventory,2013.0,12,7
+Poker Night at the Inventory,2014.0,26,14
+Poker Night at the Inventory,2015.0,11,8
+Back to the Future: The Game,2012.0,2,1
+Back to the Future: The Game,2013.0,2,1
+Back to the Future: The Game,2014.0,5,3
+Back to the Future: The Game,2015.0,2,1
+Iron Grip: Warlord,2015.0,2,1
+Nancy Drew®: Legend of the Crystal Skull,2014.0,1,1
+Nancy Drew®: The White Wolf of Icicle Creek,2014.0,2,1
+Metal Drift,2013.0,2,1
+LEGO® Indiana Jones™: The Original Adventures,2015.0,2,1
+LOOM™,2012.0,2,1
+The Secret of Monkey Island: Special Edition,2013.0,6,3
+STAR WARS™ - Knights of the Old Republic™,2010.0,2,1
+STAR WARS™ - Knights of the Old Republic™,2011.0,1,1
+STAR WARS™ - Knights of the Old Republic™,2012.0,2,1
+STAR WARS™ - Knights of the Old Republic™,2013.0,5,3
+STAR WARS™ - Knights of the Old Republic™,2014.0,10,6
+STAR WARS™ - Knights of the Old Republic™,2015.0,15,9
+STAR WARS™ Jedi Knight: Dark Forces II,2014.0,2,1
+STAR WARS™ Jedi Knight: Dark Forces II,2015.0,2,1
+STAR WARS™ - Dark Forces,2013.0,2,1
+STAR WARS™ - Dark Forces,2014.0,2,1
+STAR WARS™ - Dark Forces,2015.0,6,3
+STAR WARS™ - The Force Unleashed™ Ultimate Sith Edition,2014.0,2,1
+STAR WARS™ - The Force Unleashed™ Ultimate Sith Edition,2015.0,3,2
+LEGO® Star Wars™ - The Complete Saga,2011.0,2,1
+LEGO® Star Wars™ - The Complete Saga,2013.0,2,1
+LEGO® Star Wars™ - The Complete Saga,2014.0,2,1
+LEGO® Star Wars™ - The Complete Saga,2015.0,8,4
+STAR WARS™ Empire at War - Gold Pack,2010.0,2,1
+STAR WARS™ Empire at War - Gold Pack,2014.0,4,2
+STAR WARS™ Empire at War - Gold Pack,2015.0,2,1
+STAR WARS™: The Force Unleashed™ II,2011.0,2,1
+STAR WARS™: The Force Unleashed™ II,2013.0,2,1
+STAR WARS™: The Force Unleashed™ II,2014.0,5,3
+Delta Force 2,2015.0,1,1
+Joint Operations: Combined Arms Gold,2015.0,2,1
+Lord of the Rings: War in the North,2012.0,6,3
+Lord of the Rings: War in the North,2013.0,8,4
+Lord of the Rings: War in the North,2014.0,7,4
+Lord of the Rings: War in the North,2015.0,2,2
+Dawn of Discovery™,2014.0,2,1
+Assassin's Creed 2 Deluxe Edition,2013.0,6,3
+Assassin's Creed 2 Deluxe Edition,2014.0,31,17
+Assassin's Creed 2 Deluxe Edition,2015.0,11,7
+From Dust,2011.0,2,1
+From Dust,2014.0,6,3
+Disciples III - Renaissance Steam Special Edition,2015.0,2,1
+eversion,2010.0,2,1
+eversion,2013.0,2,1
+eversion,2014.0,1,1
+18 Wheels of Steel: Extreme Trucker,2015.0,2,1
+Arma 2,2013.0,4,2
+Arma 2,2014.0,6,3
+Arma 2: Operation Arrowhead,2011.0,4,2
+Arma 2: Operation Arrowhead,2012.0,17,10
+Arma 2: Operation Arrowhead,2013.0,34,19
+Arma 2: Operation Arrowhead,2014.0,58,30
+Arma 2: Operation Arrowhead,2015.0,31,17
+Alpha Protocol™,2013.0,2,1
+Alpha Protocol™,2014.0,1,1
+Alpha Protocol™,2015.0,6,3
+Napoleon: Total War™,2011.0,2,1
+Napoleon: Total War™,2012.0,2,1
+Napoleon: Total War™,2013.0,3,2
+Napoleon: Total War™,2014.0,18,10
+Napoleon: Total War™,2015.0,5,3
+Sniper: Ghost Warrior,2014.0,3,2
+Sniper: Ghost Warrior,2015.0,2,1
+Sniper: Ghost Warrior 2,2013.0,4,3
+Sniper: Ghost Warrior 2,2014.0,6,3
+Sniper: Ghost Warrior 2,2015.0,2,1
+Bad Rats: the Rats' Revenge,2013.0,8,4
+Bad Rats: the Rats' Revenge,2014.0,36,20
+Bad Rats: the Rats' Revenge,2015.0,71,43
+Bad Rats: the Rats' Revenge Demo,2014.0,2,1
+Batman: Arkham Asylum Game of the Year Edition,2012.0,2,1
+Batman: Arkham Asylum Game of the Year Edition,2013.0,11,7
+Batman: Arkham Asylum Game of the Year Edition,2014.0,15,8
+Batman: Arkham Asylum Game of the Year Edition,2015.0,26,15
+Defence Alliance 2,2013.0,2,1
+Defence Alliance 2,2015.0,2,1
+Red Orchestra 2: Heroes of Stalingrad with Rising Storm,2011.0,6,3
+Red Orchestra 2: Heroes of Stalingrad with Rising Storm,2012.0,10,5
+Red Orchestra 2: Heroes of Stalingrad with Rising Storm,2013.0,38,21
+Red Orchestra 2: Heroes of Stalingrad with Rising Storm,2014.0,64,38
+Red Orchestra 2: Heroes of Stalingrad with Rising Storm,2015.0,28,16
+Dwarfs!?,2011.0,2,1
+Dwarfs!?,2013.0,6,3
+Dwarfs!?,2015.0,1,1
+Trine Enchanted Edition,2011.0,2,1
+Trine Enchanted Edition,2012.0,4,2
+Trine Enchanted Edition,2013.0,2,1
+Trine Enchanted Edition,2014.0,2,1
+Trine Enchanted Edition,2015.0,4,2
+Trine 2: Complete Story,2013.0,15,8
+Trine 2: Complete Story,2014.0,28,14
+Trine 2: Complete Story,2015.0,8,5
+Foreign Legion: Buckets of Blood,2011.0,2,1
+Westward Collection,2012.0,2,1
+"Time Gentlemen, Please! and Ben There, Dan That! Special Edition  Double Pack",2014.0,1,1
+Windosill,2014.0,2,1
+Roogoo,2014.0,2,1
+Fallout: A Post Nuclear Role Playing Game,2012.0,2,1
+Fallout: A Post Nuclear Role Playing Game,2014.0,4,2
+Fallout: A Post Nuclear Role Playing Game,2015.0,2,1
+Fallout 2: A Post Nuclear Role Playing Game,2014.0,3,2
+Fallout 2: A Post Nuclear Role Playing Game,2015.0,9,5
+Fallout Tactics: Brotherhood of Steel,2015.0,2,1
+Sacrifice,2014.0,2,1
+MDK 2,2013.0,2,1
+Faerie Solitaire,2011.0,2,1
+Faerie Solitaire,2013.0,4,2
+Faerie Solitaire,2014.0,4,2
+Faerie Solitaire,2015.0,2,1
+Toki Tori,2014.0,3,2
+Toki Tori,2015.0,2,1
+RUSH,2013.0,4,2
+RUSH,2015.0,2,1
+EDGE,2013.0,4,2
+EDGE,2014.0,2,1
+RIFT,2011.0,6,3
+RIFT,2013.0,21,11
+RIFT,2014.0,19,10
+RIFT,2015.0,5,3
+FINAL FANTASY VII,2013.0,12,6
+FINAL FANTASY VII,2014.0,14,7
+FINAL FANTASY VII,2015.0,12,6
+FINAL FANTASY VIII,2013.0,6,3
+FINAL FANTASY VIII,2014.0,7,4
+FINAL FANTASY VIII,2015.0,6,3
+Dungeon Siege III,2012.0,2,1
+Dungeon Siege III,2013.0,2,1
+Dungeon Siege,2015.0,2,1
+Dungeon Siege II,2014.0,2,1
+FINAL FANTASY XIV Online,2012.0,2,1
+FINAL FANTASY XIV Online,2014.0,9,5
+FINAL FANTASY XIV Online,2015.0,10,5
+Chaser,2014.0,2,1
+Chaser,2015.0,2,1
+ArcaniA,2010.0,1,1
+Nation Red,2012.0,2,1
+Nation Red,2013.0,3,2
+Nation Red,2014.0,4,2
+Nation Red,2015.0,1,1
+Supreme Commander 2,2011.0,2,1
+Supreme Commander 2,2012.0,2,1
+Supreme Commander 2,2013.0,2,1
+Supreme Commander 2,2014.0,11,6
+Supreme Commander 2,2015.0,12,6
+Secret Files: Tunguska,2015.0,1,1
+Risen 2: Dark Waters,2012.0,2,1
+Risen 2: Dark Waters,2014.0,2,1
+AI War: Fleet Command,2014.0,4,2
+AI War: Fleet Command,2015.0,2,1
+Machinarium,2010.0,1,1
+Machinarium,2013.0,3,2
+Machinarium,2014.0,4,2
+Machinarium,2015.0,4,2
+Super Meat Boy,2010.0,1,1
+Super Meat Boy,2011.0,8,4
+Super Meat Boy,2012.0,6,3
+Super Meat Boy,2013.0,16,9
+Super Meat Boy,2014.0,32,19
+Super Meat Boy,2015.0,25,16
+The Misadventures of P.B. Winterbottom,2012.0,4,2
+Stronghold HD,2014.0,2,1
+Stronghold Crusader HD,2014.0,6,3
+Stronghold Crusader HD,2015.0,2,1
+Serious Sam HD: The First Encounter,2013.0,2,1
+Serious Sam HD: The First Encounter,2014.0,4,2
+Serious Sam HD: The First Encounter,2015.0,2,1
+Serious Sam Classic: The First Encounter,2014.0,2,1
+Serious Sam Classic: The Second Encounter,2013.0,1,1
+Hammerfight,2014.0,3,2
+Hammerfight,2015.0,2,1
+Altitude,2011.0,6,3
+Altitude,2014.0,3,2
+Altitude,2015.0,4,2
+Torchlight,2012.0,4,2
+Torchlight,2013.0,6,3
+Torchlight,2014.0,1,1
+Earthworm Jim 3D,2011.0,1,1
+S.T.A.L.K.E.R.: Call of Pripyat,2012.0,1,1
+S.T.A.L.K.E.R.: Call of Pripyat,2013.0,2,1
+S.T.A.L.K.E.R.: Call of Pripyat,2014.0,5,3
+S.T.A.L.K.E.R.: Call of Pripyat,2015.0,8,4
+Cargo! The Quest for Gravity,2013.0,2,1
+Cargo! The Quest for Gravity,2014.0,2,1
+Gratuitous Space Battles,2011.0,1,1
+Gratuitous Space Battles,2012.0,2,1
+Gratuitous Space Battles,2013.0,2,1
+Gratuitous Space Battles,2015.0,2,1
+Hamilton's Great Adventure,2013.0,2,1
+Krater,2013.0,1,1
+Call of Duty®: Black Ops,2011.0,6,3
+Call of Duty®: Black Ops,2012.0,3,2
+Call of Duty®: Black Ops,2013.0,6,3
+Call of Duty®: Black Ops,2014.0,24,13
+Call of Duty®: Black Ops,2015.0,14,8
+Call of Duty®: Black Ops - Rezurrection Content Pack,2014.0,2,1
+Call of Duty®: Black Ops - Rezurrection Content Pack,2015.0,2,1
+Sword of the Stars: Complete Collection,2014.0,2,1
+Magicka,2011.0,8,4
+Magicka,2012.0,1,1
+Magicka,2013.0,28,17
+Magicka,2014.0,58,36
+Magicka,2015.0,21,12
+Victoria II,2011.0,2,1
+Victoria II,2014.0,8,4
+Victoria II,2015.0,2,2
+Front Mission Evolved,2012.0,2,1
+GRID 2,2013.0,9,5
+GRID 2,2014.0,19,10
+GRID 2,2015.0,6,4
+Sol Survivor,2010.0,2,1
+Sol Survivor,2014.0,1,1
+Secret of the Magic Crystals,2013.0,5,3
+Secret of the Magic Crystals,2014.0,6,4
+Wings of Prey,2011.0,2,1
+Wings of Prey,2014.0,2,1
+Fortix,2013.0,2,1
+Devil May Cry 4,2014.0,5,3
+Devil May Cry 4,2015.0,3,2
+Dead Rising® 2,2013.0,2,1
+Dead Rising® 2,2014.0,2,1
+Dead Rising® 2,2015.0,2,1
+Lost Planet® 2,2014.0,2,1
+Ultra Street Fighter® IV,2013.0,4,2
+Ultra Street Fighter® IV,2014.0,16,10
+Ultra Street Fighter® IV,2015.0,10,6
+Dead Rising 2: Off the Record,2014.0,2,1
+Super Street Fighter IV: Arcade Edition - Arcade Challengers Pack,2015.0,2,1
+Star Wolves 3: Civil War,2015.0,2,1
+Star Wolves 2,2014.0,2,1
+Future Wars,2014.0,2,1
+Making History II: The War of the World,2015.0,2,1
+Stronghold 3 Gold,2015.0,4,2
+Stronghold Kingdoms,2013.0,6,3
+Stronghold Kingdoms,2014.0,9,5
+Stronghold Kingdoms,2015.0,8,4
+Command &amp; Conquer 4: Tiberian Twilight,2011.0,2,1
+Dead Space™ 2,2013.0,2,1
+Dead Space™ 2,2014.0,2,1
+Medal of Honor™,2013.0,6,4
+Medal of Honor™,2014.0,4,3
+Medal of Honor™,2015.0,3,2
+RISK™: Factions,2014.0,2,1
+Dragon Age: Origins - Ultimate Edition,2013.0,4,2
+Dragon Age: Origins - Ultimate Edition,2014.0,18,9
+Dragon Age: Origins - Ultimate Edition,2015.0,3,2
+Need For Speed: Hot Pursuit,2012.0,2,1
+Need For Speed: Hot Pursuit,2013.0,2,1
+Need For Speed: Hot Pursuit,2014.0,10,5
+Need For Speed: Hot Pursuit,2015.0,3,2
+The Sims™ 3,2013.0,5,3
+The Sims™ 3,2014.0,12,8
+The Sims™ 3,2015.0,10,5
+Shift 2 Unleashed,2013.0,2,1
+Shift 2 Unleashed,2014.0,2,1
+LIMBO,2012.0,1,1
+LIMBO,2013.0,18,10
+LIMBO,2014.0,21,12
+LIMBO,2015.0,9,5
+Silent Hunter 5®: Battle of the Atlantic,2014.0,1,1
+Assassin’s Creed® Brotherhood,2011.0,2,1
+Assassin’s Creed® Brotherhood,2014.0,14,7
+Might &amp; Magic: Heroes VI,2012.0,2,1
+Mount &amp; Blade: Warband,2010.0,2,1
+Mount &amp; Blade: Warband,2011.0,4,2
+Mount &amp; Blade: Warband,2012.0,18,10
+Mount &amp; Blade: Warband,2013.0,56,30
+Mount &amp; Blade: Warband,2014.0,136,78
+Mount &amp; Blade: Warband,2015.0,93,51
+Mount &amp; Blade: Warband - Napoleonic Wars,2013.0,2,1
+Mount &amp; Blade: Warband - Napoleonic Wars,2014.0,4,2
+Mount &amp; Blade: Warband - Napoleonic Wars,2015.0,5,3
+Mount &amp; Blade: With Fire &amp; Sword,2011.0,1,1
+Mount &amp; Blade: With Fire &amp; Sword,2012.0,1,1
+Mount &amp; Blade: With Fire &amp; Sword,2013.0,6,3
+Mount &amp; Blade: With Fire &amp; Sword,2014.0,5,3
+Mount &amp; Blade: With Fire &amp; Sword,2015.0,4,2
+Ship Simulator Extremes,2014.0,1,1
+Magic: The Gathering - Duels of the Planeswalkers 2012,2014.0,4,2
+Borderlands 2,2011.0,1,1
+Borderlands 2,2012.0,35,19
+Borderlands 2,2013.0,159,85
+Borderlands 2,2014.0,507,285
+Borderlands 2,2015.0,161,92
+Beat Hazard,2011.0,6,3
+Beat Hazard,2012.0,2,1
+Beat Hazard,2013.0,6,3
+Beat Hazard,2014.0,12,7
+Beat Hazard,2015.0,6,4
+Mafia II,2011.0,3,2
+Mafia II,2012.0,2,1
+Mafia II,2013.0,13,8
+Mafia II,2014.0,25,15
+Mafia II,2015.0,20,12
+Spec Ops: The Line,2012.0,4,2
+Spec Ops: The Line,2013.0,26,13
+Spec Ops: The Line,2014.0,33,18
+Spec Ops: The Line,2015.0,45,26
+Burn Zombie Burn!,2011.0,2,1
+Darksiders™,2012.0,2,1
+Darksiders™,2013.0,4,2
+Darksiders™,2014.0,2,1
+Darksiders™,2015.0,4,2
+Tactical Intervention,2013.0,30,18
+Tactical Intervention,2014.0,66,38
+Tactical Intervention,2015.0,37,21
+Atom Zombie Smasher,2011.0,4,2
+Atom Zombie Smasher,2012.0,2,1
+Homefront,2014.0,5,3
+Homefront,2015.0,6,3
+Red Faction®: Armageddon™,2012.0,2,1
+Red Faction®: Armageddon™,2014.0,4,2
+MX vs. ATV Reflex,2012.0,2,1
+MX vs. ATV Reflex,2013.0,6,3
+MX vs. ATV Reflex,2014.0,6,3
+MX vs. ATV Reflex,2015.0,2,1
+"Warhammer 40,000: Space Marine",2011.0,4,2
+"Warhammer 40,000: Space Marine",2012.0,2,1
+"Warhammer 40,000: Space Marine",2013.0,2,1
+"Warhammer 40,000: Space Marine",2014.0,3,2
+"Warhammer 40,000: Space Marine",2015.0,7,4
+Saints Row: The Third,2011.0,2,1
+Saints Row: The Third,2012.0,9,6
+Saints Row: The Third,2013.0,76,42
+Saints Row: The Third,2014.0,87,54
+Saints Row: The Third,2015.0,51,31
+Saints Row: The Third Initiation Station,2011.0,2,1
+Saints Row: The Third Initiation Station,2012.0,2,1
+Saints Row: The Third Initiation Station,2014.0,2,1
+Saints Row: The Third - Gangstas in Space,2015.0,1,1
+NyxQuest: Kindred Spirits,2011.0,2,1
+Amnesia: The Dark Descent,2010.0,1,1
+Amnesia: The Dark Descent,2012.0,4,2
+Amnesia: The Dark Descent,2013.0,8,5
+Amnesia: The Dark Descent,2014.0,20,12
+Amnesia: The Dark Descent,2015.0,9,6
+Tropico 3: Absolute Power,2012.0,2,1
+Tropico 3: Absolute Power,2014.0,2,1
+Broken Sword: Director's Cut,2014.0,2,1
+Broken Sword: Director's Cut,2015.0,2,1
+Tropico 4,2012.0,6,3
+Tropico 4,2013.0,4,2
+Tropico 4,2014.0,25,13
+Tropico 4,2015.0,11,6
+Duke Nukem Forever,2011.0,4,2
+Duke Nukem Forever,2013.0,2,1
+Duke Nukem Forever,2014.0,10,5
+Jolly Rover,2011.0,2,1
+MacGuffin's Curse,2015.0,2,1
+Wargame: European Escalation,2013.0,4,2
+Wargame: European Escalation,2014.0,1,1
+Wargame: European Escalation,2015.0,2,1
+Numen: Contest of Heroes,2014.0,2,1
+Fractal: Make Blooms Not War,2013.0,2,1
+Age of Wonders,2011.0,2,1
+Zen Bound 2,2011.0,2,1
+Zen Bound 2,2013.0,2,1
+Zen Bound 2,2014.0,2,1
+Flight Control HD,2011.0,2,1
+Chime,2010.0,2,1
+Chime,2014.0,1,1
+Monday Night Combat,2011.0,3,2
+Monday Night Combat,2013.0,1,1
+Sniper Elite V2,2013.0,4,2
+Sniper Elite V2,2014.0,64,38
+Sniper Elite V2,2015.0,22,12
+Swords and Soldiers HD,2011.0,2,1
+Swords and Soldiers HD,2015.0,2,1
+Riven: The Sequel to MYST,2014.0,2,1
+BIT.TRIP BEAT,2013.0,2,1
+BIT.TRIP RUNNER,2011.0,4,2
+BIT.TRIP RUNNER,2013.0,4,2
+BIT.TRIP RUNNER,2014.0,9,6
+BIT.TRIP RUNNER,2015.0,6,3
+Fantasy Wars,2011.0,2,1
+Men of War: Assault Squad,2012.0,2,1
+Men of War: Assault Squad,2013.0,1,1
+Men of War: Assault Squad,2014.0,9,5
+Men of War: Assault Squad,2015.0,4,2
+Dustforce DX,2013.0,2,1
+Dustforce DX,2014.0,4,2
+Dustforce DX,2015.0,4,2
+Take On Helicopters,2014.0,1,1
+Carrier Command: Gaea Mission,2014.0,2,1
+ARMA: Gold Edition,2015.0,2,1
+ARMA: Cold War Assault,2014.0,11,6
+ARMA: Cold War Assault,2015.0,2,1
+Dungeon Defenders,2011.0,2,1
+Dungeon Defenders,2012.0,13,7
+Dungeon Defenders,2013.0,16,9
+Dungeon Defenders,2014.0,23,13
+Dungeon Defenders,2015.0,15,8
+The Bureau: XCOM Declassified,2014.0,12,6
+The Bureau: XCOM Declassified,2015.0,6,3
+Sid Meier's Civilization®: Beyond Earth™,2013.0,3,2
+Sid Meier's Civilization®: Beyond Earth™,2014.0,22,12
+Sid Meier's Civilization®: Beyond Earth™,2015.0,25,13
+The Darkness II,2013.0,6,3
+The Darkness II,2014.0,12,6
+The Darkness II,2015.0,14,8
+Dino D-Day,2012.0,2,1
+Dino D-Day,2013.0,27,17
+Dino D-Day,2014.0,27,16
+Dino D-Day,2015.0,16,11
+Hacker Evolution,2014.0,2,1
+Hacker Evolution,2015.0,2,1
+VVVVVV,2011.0,2,1
+VVVVVV,2012.0,2,1
+VVVVVV,2013.0,2,1
+VVVVVV,2014.0,12,7
+VVVVVV,2015.0,1,1
+Recettear: An Item Shop's Tale,2010.0,2,1
+Recettear: An Item Shop's Tale,2013.0,1,1
+Recettear: An Item Shop's Tale,2014.0,10,5
+Recettear: An Item Shop's Tale,2015.0,10,5
+Worms Ultimate Mayhem,2014.0,2,1
+Worms Crazy Golf,2014.0,2,1
+Evochron Mercenary,2015.0,2,1
+Streets of Rage 2,2012.0,2,1
+Crazy Taxi,2014.0,5,3
+Crazy Taxi,2015.0,2,1
+Sonic Adventure DX,2014.0,2,1
+Sonic Generations Collection,2012.0,2,1
+Sonic Generations Collection,2014.0,2,1
+Sonic Generations Collection,2015.0,9,5
+Closure,2012.0,2,1
+Closure,2013.0,2,1
+Closure,2014.0,2,1
+Universe Sandbox,2013.0,2,1
+Universe Sandbox,2014.0,9,5
+Universe Sandbox,2015.0,2,1
+Fallout New Vegas: Dead Money,2014.0,2,1
+Fallout New Vegas: Old World Blues,2014.0,2,1
+Fallout New Vegas®: Gun Runners’ Arsenal™,2015.0,2,1
+Winter Voices,2015.0,2,1
+Cities in Motion,2012.0,2,1
+Majesty 2 Collection,2013.0,2,1
+Majesty 2 Collection,2014.0,2,1
+Darkest Hour: A Hearts of Iron Game,2013.0,2,1
+Sengoku,2011.0,2,1
+Supreme Ruler: Cold War,2014.0,2,1
+Bejeweled® 3,2014.0,2,1
+APOX,2011.0,2,1
+Gemini Rue,2015.0,2,1
+Iron Front: Digital War Edition,2013.0,2,1
+Sanctum,2014.0,15,9
+E.Y.E: Divine Cybermancy,2011.0,2,1
+E.Y.E: Divine Cybermancy,2012.0,5,3
+E.Y.E: Divine Cybermancy,2013.0,1,1
+E.Y.E: Divine Cybermancy,2014.0,6,4
+E.Y.E: Divine Cybermancy,2015.0,5,3
+Cloning Clyde,2015.0,2,1
+Post Apocalyptic Mayhem,2013.0,1,1
+Post Apocalyptic Mayhem,2014.0,3,2
+Post Apocalyptic Mayhem,2015.0,3,2
+Hydrophobia: Prophecy,2015.0,2,1
+DETOUR,2015.0,4,2
+A.R.E.S.: Extinction Agenda,2011.0,2,1
+A.R.E.S.: Extinction Agenda,2014.0,1,1
+SpaceChem,2011.0,4,2
+SpaceChem,2012.0,2,1
+SpaceChem,2013.0,1,1
+SpaceChem,2014.0,8,4
+Revenge of the Titans,2011.0,2,1
+Revenge of the Titans,2015.0,2,1
+Dinner Date,2012.0,2,1
+Dinner Date,2013.0,2,1
+Dinner Date,2014.0,2,1
+Jamestown,2011.0,2,1
+Jamestown,2013.0,2,1
+Jamestown,2015.0,2,1
+The Dream Machine: Chapter 1 &amp; 2,2015.0,2,1
+Nidhogg,2014.0,16,9
+Nidhogg,2015.0,19,10
+Puzzle Agent 2,2014.0,2,1
+Capsized,2013.0,2,1
+ibb &amp; obb,2014.0,1,1
+ibb &amp; obb,2015.0,10,5
+The Cat and the Coup,2015.0,2,1
+The Tiny Bang Story,2014.0,4,2
+Defy Gravity Extended,2014.0,10,6
+Defy Gravity Extended,2015.0,5,3
+Nexuiz,2013.0,2,1
+Solar 2,2012.0,2,1
+Solar 2,2013.0,4,2
+Solar 2,2014.0,6,3
+Section 8®: Prejudice™,2011.0,2,1
+Section 8®: Prejudice™,2012.0,2,1
+Magic: The Gathering - Duels of the Planeswalkers 2013,2013.0,1,1
+Magic: The Gathering - Duels of the Planeswalkers 2013,2014.0,2,1
+Frozen Synapse,2011.0,4,2
+Frozen Synapse,2014.0,10,5
+Frozen Synapse,2015.0,2,1
+Toy Soldiers,2012.0,2,1
+Hard Reset Extended Edition,2013.0,4,2
+Hard Reset Extended Edition,2014.0,4,2
+Hard Reset Extended Edition,2015.0,1,1
+Hard Reset: Exile DLC,2015.0,2,1
+Naval Warfare,2013.0,2,1
+Demolition Inc.,2012.0,2,1
+Demolition Inc.,2014.0,2,2
+Dungeons of Dredmor,2011.0,2,1
+Dungeons of Dredmor,2014.0,6,3
+Renegade Ops,2012.0,2,1
+Renegade Ops,2014.0,3,2
+NightSky,2011.0,4,2
+NightSky,2014.0,2,1
+Spiral Knights,2011.0,10,6
+Spiral Knights,2012.0,9,6
+Spiral Knights,2013.0,58,36
+Spiral Knights,2014.0,109,61
+Spiral Knights,2015.0,32,18
+Puzzle Pirates,2011.0,2,1
+Puzzle Pirates,2012.0,2,1
+Puzzle Pirates,2015.0,2,1
+Kingdoms of Amalur: Reckoning™,2013.0,2,1
+Kingdoms of Amalur: Reckoning™,2014.0,17,9
+Kingdoms of Amalur: Reckoning™,2015.0,9,5
+Orcs Must Die!,2011.0,3,2
+Orcs Must Die!,2012.0,2,1
+Orcs Must Die!,2013.0,2,1
+Orcs Must Die!,2014.0,2,1
+A.V.A. Alliance of Valiant Arms™,2013.0,2,1
+A.V.A. Alliance of Valiant Arms™,2015.0,4,2
+Shank 2,2013.0,3,2
+Shank 2,2015.0,2,1
+Warp,2012.0,2,1
+iBomber Defense,2013.0,2,1
+BEEP,2014.0,2,1
+Portal 2 - The Final Hours,2013.0,2,1
+Portal 2 - The Final Hours,2015.0,1,1
+Super MNC,2012.0,11,6
+Super MNC,2013.0,20,11
+Super MNC,2014.0,15,10
+Super MNC,2015.0,8,5
+ORION: Prelude,2013.0,4,2
+ORION: Prelude,2014.0,114,69
+ORION: Prelude,2015.0,56,32
+Critical Mass,2013.0,2,1
+Ms. Splosion Man,2014.0,2,1
+Age of Empires® III: Complete Collection,2011.0,2,1
+Age of Empires® III: Complete Collection,2013.0,8,4
+Age of Empires® III: Complete Collection,2014.0,28,15
+Age of Empires® III: Complete Collection,2015.0,18,10
+Terraria,2011.0,37,20
+Terraria,2012.0,68,38
+Terraria,2013.0,254,141
+Terraria,2014.0,434,240
+Terraria,2015.0,368,202
+Tobe's Vertical Adventure,2012.0,1,1
+PixelJunk™ Eden,2014.0,1,1
+Bastion,2011.0,13,7
+Bastion,2012.0,15,8
+Bastion,2013.0,30,15
+Bastion,2014.0,56,29
+Bastion,2015.0,21,12
+Space Pirates and Zombies,2011.0,2,1
+Space Pirates and Zombies,2013.0,2,1
+Space Pirates and Zombies,2014.0,4,2
+Space Pirates and Zombies,2015.0,1,1
+Breath of Death VII,2011.0,2,1
+Cthulhu Saves the World,2011.0,2,1
+Cthulhu Saves the World,2012.0,2,1
+Cthulhu Saves the World,2014.0,2,1
+Cthulhu Saves the World,2015.0,1,1
+Arma 3,2013.0,45,28
+Arma 3,2014.0,166,97
+Arma 3,2015.0,154,87
+Rochard,2012.0,2,1
+Rochard,2013.0,4,2
+Rochard,2014.0,2,1
+Ticket to Ride,2015.0,2,1
+Vessel,2015.0,2,1
+Project Zomboid,2013.0,7,4
+Project Zomboid,2014.0,47,24
+Project Zomboid,2015.0,10,5
+Alan Wake,2012.0,9,5
+Alan Wake,2013.0,15,8
+Alan Wake,2014.0,13,7
+Alan Wake,2015.0,2,1
+Crysis 2 - Maximum Edition,2012.0,4,2
+Crysis 2 - Maximum Edition,2013.0,5,3
+Crysis 2 - Maximum Edition,2014.0,12,7
+Neverwinter,2013.0,29,15
+Neverwinter,2014.0,27,16
+Neverwinter,2015.0,24,13
+inMomentum,2015.0,2,1
+L.A. Noire,2013.0,8,4
+L.A. Noire,2014.0,4,2
+L.A. Noire,2015.0,11,6
+Serious Sam Double D XXL,2014.0,2,1
+Blocks That Matter,2011.0,2,1
+Blocks That Matter,2014.0,2,1
+Monaco: What's Yours Is Mine,2013.0,12,6
+Monaco: What's Yours Is Mine,2014.0,45,25
+Monaco: What's Yours Is Mine,2015.0,9,6
+The Binding of Isaac,2011.0,2,1
+The Binding of Isaac,2012.0,19,10
+The Binding of Isaac,2013.0,63,34
+The Binding of Isaac,2014.0,170,93
+The Binding of Isaac,2015.0,22,14
+Binding of Isaac: Wrath of the Lamb,2013.0,2,1
+Binding of Isaac: Wrath of the Lamb,2014.0,3,2
+Binding of Isaac: Wrath of the Lamb,2015.0,2,1
+APB Reloaded,2011.0,4,2
+APB Reloaded,2012.0,2,1
+APB Reloaded,2013.0,28,17
+APB Reloaded,2014.0,64,40
+APB Reloaded,2015.0,49,28
+Fallen Earth Free2Play,2012.0,6,3
+Fallen Earth Free2Play,2013.0,9,5
+Fallen Earth Free2Play,2014.0,17,9
+Fallen Earth Free2Play,2015.0,2,1
+Costume Quest,2014.0,2,1
+Costume Quest,2015.0,4,2
+Stacking,2014.0,2,1
+Prototype 2,2014.0,2,1
+Prototype 2,2015.0,2,1
+Quantum Conundrum,2012.0,6,3
+Quantum Conundrum,2014.0,1,1
+Battle Chess: Game of Kings™,2014.0,2,1
+Worms Revolution,2013.0,4,2
+Worms Revolution,2014.0,8,5
+Worms Revolution,2015.0,4,3
+Realm of the Mad God,2012.0,26,16
+Realm of the Mad God,2013.0,43,26
+Realm of the Mad God,2014.0,153,89
+Realm of the Mad God,2015.0,65,37
+Off-Road Drive,2014.0,2,1
+Batman: Arkham City - Game of the Year Edition,2013.0,37,20
+Batman: Arkham City - Game of the Year Edition,2014.0,54,32
+Batman: Arkham City - Game of the Year Edition,2015.0,33,18
+Oil Rush Tower Defense Map Pack,2015.0,2,1
+XCOM: Enemy Unknown,2012.0,2,1
+XCOM: Enemy Unknown,2013.0,36,18
+XCOM: Enemy Unknown,2014.0,77,43
+XCOM: Enemy Unknown,2015.0,44,22
+Torchlight II,2012.0,2,1
+Torchlight II,2013.0,37,21
+Torchlight II,2014.0,76,41
+Torchlight II,2015.0,23,13
+Before the Echo,2011.0,2,1
+Before the Echo,2015.0,2,1
+Sonic CD,2012.0,2,1
+Sonic CD,2014.0,1,1
+Pox Nora,2013.0,2,1
+Pox Nora,2014.0,1,1
+EverQuest® II Free-To-Play. Your Way.™,2015.0,4,2
+Toki Tori 2+,2013.0,2,1
+Toki Tori 2+,2014.0,2,1
+Serious Sam: The Random Encounter,2015.0,2,1
+Really Big Sky,2014.0,1,1
+Really Big Sky,2015.0,2,1
+Orcs Must Die! 2,2012.0,9,5
+Orcs Must Die! 2,2013.0,15,8
+Orcs Must Die! 2,2014.0,24,14
+Orcs Must Die! 2,2015.0,18,9
+Orcs Must Die! 2 - Family Ties Booster Pack,2015.0,1,1
+Wolfenstein: The New Order,2013.0,4,2
+Wolfenstein: The New Order,2014.0,36,19
+Wolfenstein: The New Order,2015.0,28,16
+Sleeping Dogs,2012.0,1,1
+Sleeping Dogs,2013.0,32,17
+Sleeping Dogs,2014.0,44,24
+Sleeping Dogs,2015.0,8,5
+Galactic Civilizations® II: Ultimate Edition,2012.0,2,1
+Galactic Civilizations® II: Ultimate Edition,2013.0,2,1
+Galactic Civilizations® II: Ultimate Edition,2014.0,2,1
+Ridge Racer™ Unbounded,2013.0,2,1
+Ridge Racer™ Unbounded,2014.0,2,1
+Dynamite Jack,2015.0,2,1
+Alan Wake's American Nightmare,2014.0,6,3
+Call of Duty®: Black Ops II,2012.0,1,1
+Call of Duty®: Black Ops II,2013.0,23,14
+Call of Duty®: Black Ops II,2014.0,94,51
+Call of Duty®: Black Ops II,2015.0,30,18
+Hitman: Absolution™,2012.0,1,1
+Hitman: Absolution™,2013.0,18,9
+Hitman: Absolution™,2014.0,56,31
+Hitman: Absolution™,2015.0,30,17
+Tomb Raider,2012.0,2,1
+Tomb Raider,2013.0,63,33
+Tomb Raider,2014.0,108,60
+Tomb Raider,2015.0,79,44
+Titan Attacks!,2014.0,4,2
+America's Army: Proving Grounds,2013.0,6,3
+America's Army: Proving Grounds,2014.0,20,11
+America's Army: Proving Grounds,2015.0,3,2
+King's Bounty: Warriors of the North,2015.0,2,1
+Warlock - Master of the Arcane,2012.0,2,1
+Warlock - Master of the Arcane,2015.0,1,1
+Sonic the Hedgehog 4 - Episode II,2013.0,2,1
+Sonic the Hedgehog 4 - Episode II,2014.0,2,1
+Binary Domain,2013.0,2,1
+Binary Domain,2014.0,4,2
+Crusader Kings II,2012.0,3,2
+Crusader Kings II,2013.0,16,9
+Crusader Kings II,2014.0,37,20
+Crusader Kings II,2015.0,19,11
+The Dark Eye: Chains of Satinav,2014.0,4,2
+Fable - The Lost Chapters,2013.0,1,1
+Fable - The Lost Chapters,2014.0,15,8
+Fable - The Lost Chapters,2015.0,6,3
+Superbrothers: Sword &amp; Sworcery EP,2014.0,4,2
+The Showdown Effect,2013.0,3,2
+The Showdown Effect,2014.0,3,2
+Max Payne 3,2012.0,8,4
+Max Payne 3,2013.0,13,7
+Max Payne 3,2014.0,34,20
+Max Payne 3,2015.0,9,5
+Waveform,2015.0,7,4
+The Bridge,2013.0,2,1
+The Bridge,2014.0,8,4
+The Bridge,2015.0,3,2
+Awesomenauts - the 2D moba,2012.0,8,4
+Awesomenauts - the 2D moba,2013.0,52,28
+Awesomenauts - the 2D moba,2014.0,132,73
+Awesomenauts - the 2D moba,2015.0,40,22
+Serious Sam 2,2014.0,7,4
+Serious Sam 2,2015.0,3,2
+Castle Crashers®,2012.0,6,3
+Castle Crashers®,2013.0,30,18
+Castle Crashers®,2014.0,148,82
+Castle Crashers®,2015.0,88,49
+Castle Crashers - Pink Knight Pack,2015.0,4,2
+Castle Crashers - Blacksmith Pack,2015.0,4,2
+Call of Juarez® Gunslinger,2013.0,12,6
+Call of Juarez® Gunslinger,2014.0,30,16
+Call of Juarez® Gunslinger,2015.0,22,13
+Infested Planet,2014.0,6,3
+Infested Planet,2015.0,2,1
+Retro City Rampage™ DX,2012.0,2,1
+Retro City Rampage™ DX,2014.0,11,6
+Sins of a Solar Empire®: Rebellion,2012.0,2,1
+Sins of a Solar Empire®: Rebellion,2013.0,6,4
+Sins of a Solar Empire®: Rebellion,2014.0,26,13
+Sins of a Solar Empire®: Rebellion,2015.0,10,5
+Dishonored,2012.0,12,6
+Dishonored,2013.0,35,20
+Dishonored,2014.0,79,44
+Dishonored,2015.0,57,33
+Rocksmith™,2014.0,4,2
+Hell Yeah! Wrath of the Dead Rabbit,2014.0,2,1
+Hell Yeah! Wrath of the Dead Rabbit,2015.0,1,1
+Port Royale 3,2012.0,2,1
+Tropico 4: Megalopolis DLC,2015.0,1,1
+The Testament of Sherlock Holmes,2014.0,2,1
+The Testament of Sherlock Holmes,2015.0,4,2
+Everquest ®,2012.0,2,1
+Auditorium,2014.0,1,1
+Chronicle: RuneScape Legends,2014.0,2,1
+Tiny and Big: Grandpa's Leftovers,2013.0,6,3
+Tiny and Big: Grandpa's Leftovers,2014.0,6,3
+Tiny and Big: Grandpa's Leftovers,2015.0,2,1
+Jet Set Radio,2014.0,3,2
+Jet Set Radio,2015.0,4,3
+Warlock 2: The Exiled,2015.0,2,1
+Gunpoint,2013.0,22,11
+Gunpoint,2014.0,54,29
+Gunpoint,2015.0,26,13
+Gotham City Impostors Free to Play,2012.0,9,5
+Gotham City Impostors Free to Play,2013.0,27,17
+Gotham City Impostors Free to Play,2014.0,71,42
+Gotham City Impostors Free to Play,2015.0,22,14
+Saints Row IV,2013.0,52,29
+Saints Row IV,2014.0,150,84
+Saints Row IV,2015.0,97,60
+To the Moon,2012.0,4,2
+To the Moon,2013.0,3,2
+To the Moon,2014.0,53,30
+To the Moon,2015.0,23,13
+Dungeons &amp; Dragons Online®,2012.0,2,2
+Dungeons &amp; Dragons Online®,2013.0,2,1
+Dungeons &amp; Dragons Online®,2014.0,3,2
+AirMech Strike,2012.0,3,2
+AirMech Strike,2013.0,24,14
+AirMech Strike,2014.0,57,31
+AirMech Strike,2015.0,24,13
+Spiral Knights: Operation Crimson Hammer,2014.0,2,1
+iBomber Defense Pacific,2013.0,2,1
+Indie Game: The Movie,2012.0,2,1
+Indie Game: The Movie,2013.0,2,1
+Indie Game: The Movie,2014.0,4,2
+Indie Game: The Movie,2015.0,1,1
+SpeedRunners,2013.0,14,7
+SpeedRunners,2014.0,43,25
+SpeedRunners,2015.0,68,39
+Legend of Grimrock,2013.0,2,1
+Legend of Grimrock,2014.0,4,2
+Legend of Grimrock,2015.0,1,1
+ArcheBlade™,2013.0,9,5
+ArcheBlade™,2014.0,19,11
+ArcheBlade™,2015.0,16,9
+Cubemen,2012.0,4,2
+Cubemen,2013.0,2,1
+Cubemen,2014.0,2,1
+Cubemen,2015.0,2,1
+Ys Origin,2014.0,6,3
+eXceed 3rd - Jade Penetrate Black Package,2013.0,2,1
+Wizorb,2013.0,2,1
+Rayman® Origins,2012.0,2,1
+Rayman® Origins,2013.0,2,1
+English Country Tune,2012.0,2,1
+The Walking Dead,2012.0,24,12
+The Walking Dead,2013.0,99,53
+The Walking Dead,2014.0,68,37
+The Walking Dead,2015.0,21,11
+The Walking Dead: 400 Days,2015.0,2,1
+A Virus Named TOM,2014.0,4,2
+Botanicula,2014.0,2,1
+Arena Wars 2,2014.0,4,2
+Symphony,2012.0,1,1
+Symphony,2014.0,2,1
+Jane's Advanced Strike Fighters,2015.0,2,1
+PAYDAY™ The Heist: Wolfpack DLC,2014.0,1,1
+PAYDAY: The Heist Soundtrack,2015.0,1,1
+Sacred Citadel,2013.0,2,1
+Loadout,2013.0,18,9
+Loadout,2014.0,444,255
+Loadout,2015.0,24,15
+Endless Space® - Collection,2012.0,4,2
+Endless Space® - Collection,2013.0,5,3
+Endless Space® - Collection,2014.0,4,2
+Endless Space® - Collection,2015.0,2,1
+Doom 3: BFG Edition,2012.0,2,1
+Doom 3: BFG Edition,2013.0,2,1
+Doom 3: BFG Edition,2014.0,4,2
+Doom 3: BFG Edition,2015.0,2,1
+Train Simulator: Southern Pacific GS-4 Loco Add-On,2015.0,1,1
+Assassin’s Creed® III,2012.0,2,2
+Assassin’s Creed® III,2013.0,17,10
+Assassin’s Creed® III,2014.0,12,7
+Assassin’s Creed® III,2015.0,3,2
+F1 2012™,2013.0,2,1
+Omerta - City of Gangsters,2013.0,2,1
+Omerta - City of Gangsters,2014.0,4,2
+STAR WARS™ Knights of the Old Republic™ II - The Sith Lords™,2013.0,6,3
+STAR WARS™ Knights of the Old Republic™ II - The Sith Lords™,2014.0,8,4
+STAR WARS™ Knights of the Old Republic™ II - The Sith Lords™,2015.0,10,5
+Batman™: Arkham Knight,2011.0,2,1
+Batman™: Arkham Knight,2013.0,2,1
+Batman™: Arkham Knight,2014.0,10,5
+Batman™: Arkham Knight,2015.0,61,31
+Blades of Time,2013.0,4,2
+Blades of Time,2015.0,4,2
+Borderlands 2: Creature Slaughterdome,2015.0,1,1
+Game of Thrones,2014.0,2,1
+Apotheon,2015.0,6,3
+Batman™: Arkham Origins,2013.0,27,14
+Batman™: Arkham Origins,2014.0,53,32
+Batman™: Arkham Origins,2015.0,19,11
+Drunken Robot Pornography,2013.0,2,1
+Drunken Robot Pornography,2014.0,10,5
+Guns of Icarus Online,2013.0,13,7
+Guns of Icarus Online,2014.0,73,38
+Guns of Icarus Online,2015.0,35,18
+Resident Evil: Operation Raccoon City,2014.0,2,1
+Street Fighter X Tekken,2015.0,2,1
+Call of Duty®: Ghosts,2013.0,24,12
+Call of Duty®: Ghosts,2014.0,46,26
+Call of Duty®: Ghosts,2015.0,10,6
+Hero Academy,2012.0,2,1
+Hero Academy,2014.0,2,1
+All Zombies Must Die!: Scorepocalypse,2015.0,2,1
+Analogue: A Hate Story,2013.0,2,1
+Analogue: A Hate Story,2014.0,4,2
+Analogue: A Hate Story,2015.0,2,1
+Mini Motor Racing EVO,2013.0,2,1
+Strike Suit Zero,2013.0,7,4
+Strike Suit Zero,2014.0,2,1
+Magrunner: Dark Pulse,2014.0,2,1
+Call of Duty®: Advanced Warfare - Gold Edition,2014.0,35,18
+Call of Duty®: Advanced Warfare - Gold Edition,2015.0,34,20
+Cortex Command,2013.0,2,1
+Cortex Command,2014.0,10,5
+Cortex Command,2015.0,2,1
+Fieldrunners,2012.0,1,1
+Splice,2013.0,1,1
+Lone Survivor: The Director's Cut,2013.0,2,1
+Blacklight: Retribution,2012.0,19,11
+Blacklight: Retribution,2013.0,46,25
+Blacklight: Retribution,2014.0,94,54
+Blacklight: Retribution,2015.0,38,21
+Spirits,2014.0,1,1
+Sanctum 2,2013.0,11,6
+Sanctum 2,2014.0,47,27
+Sanctum 2,2015.0,17,9
+Cloudberry Kingdom™,2014.0,2,1
+Crusader Kings II: Mediterranean Portraits,2014.0,2,1
+The Witness,2014.0,4,2
+The Witness,2015.0,2,1
+Unmechanical,2012.0,2,1
+They Bleed Pixels,2013.0,2,1
+They Bleed Pixels,2015.0,4,2
+Deadlight,2013.0,10,5
+Deadlight,2014.0,18,10
+DARK SOULS™: Prepare To Die™ Edition,2012.0,4,2
+DARK SOULS™: Prepare To Die™ Edition,2013.0,32,19
+DARK SOULS™: Prepare To Die™ Edition,2014.0,68,37
+DARK SOULS™: Prepare To Die™ Edition,2015.0,44,24
+Adventures of Shuggy,2014.0,3,2
+RaceRoom Racing Experience,2013.0,10,6
+RaceRoom Racing Experience,2014.0,8,4
+RaceRoom Racing Experience,2015.0,4,2
+Max Payne 3: Deathmatch Made In Heaven Pack,2014.0,2,1
+Thief™ Gold,2014.0,5,3
+Thief™ Gold,2015.0,5,3
+Thief™ II: The Metal Age,2014.0,2,1
+Conflict Desert Storm™,2015.0,2,1
+Starbound,2011.0,2,2
+Starbound,2012.0,3,2
+Starbound,2013.0,188,99
+Starbound,2014.0,250,138
+Starbound,2015.0,111,61
+Kung Fu Strike - The Warrior's Rise,2014.0,1,1
+Kung Fu Strike - The Warrior's Rise,2015.0,2,1
+Kung Fu Strike: The Warrior's Rise - Master Level,2014.0,1,1
+Star Conflict,2013.0,8,4
+Star Conflict,2014.0,32,16
+Star Conflict,2015.0,16,10
+Vindictus,2013.0,2,1
+Vindictus,2014.0,18,11
+Vindictus,2015.0,14,8
+Mabinogi,2014.0,2,1
+Mabinogi,2015.0,4,2
+Continent of the Ninth Seal,2014.0,2,1
+Inversion™,2013.0,2,1
+Sonic &amp; All-Stars Racing Transformed,2013.0,27,18
+Sonic &amp; All-Stars Racing Transformed,2014.0,17,9
+Sonic &amp; All-Stars Racing Transformed,2015.0,7,6
+The Lord of the Rings Online™,2012.0,2,1
+The Lord of the Rings Online™,2014.0,15,8
+The Lord of the Rings Online™,2015.0,7,4
+Tom Clancy's Ghost Recon: Future Soldier™,2013.0,2,1
+Tom Clancy's Ghost Recon: Future Soldier™,2015.0,1,1
+FTL: Faster Than Light,2012.0,12,7
+FTL: Faster Than Light,2013.0,44,23
+FTL: Faster Than Light,2014.0,118,62
+FTL: Faster Than Light,2015.0,41,21
+Super Crate Box,2012.0,2,1
+Super Crate Box,2013.0,11,7
+Super Crate Box,2014.0,38,21
+Super Crate Box,2015.0,10,5
+Dishonored - Void Walker Arsenal,2015.0,4,2
+Borderlands 2: Mr. Torgue’s Campaign of Carnage,2015.0,2,2
+Borderlands 2: Mechromancer Pack,2015.0,2,1
+LEGO® Batman 2 DC Super Heroes™,2012.0,2,1
+LEGO® Batman 2 DC Super Heroes™,2014.0,3,2
+LEGO® Batman 2 DC Super Heroes™,2015.0,2,1
+Sonic Adventure 2,2013.0,4,2
+Sonic Adventure 2,2014.0,4,2
+Sonic Adventure 2,2015.0,7,4
+Dwarfs - F2P,2013.0,6,3
+Dwarfs - F2P,2014.0,17,10
+Dwarfs - F2P,2015.0,5,3
+South Park™: The Stick of Truth™,2013.0,6,3
+South Park™: The Stick of Truth™,2014.0,109,59
+South Park™: The Stick of Truth™,2015.0,37,21
+Magic 2014 — Duels of the Planeswalkers,2013.0,5,3
+Magic 2014 — Duels of the Planeswalkers,2014.0,10,6
+Magic 2014 — Duels of the Planeswalkers,2015.0,2,1
+Aerofly FS 1 Flight Simulator,2014.0,1,1
+Minimum,2014.0,10,6
+Minimum,2015.0,10,5
+Deponia,2015.0,2,1
+Gear Up,2013.0,1,1
+Gear Up,2014.0,8,4
+Gear Up,2015.0,20,10
+Alien: Isolation,2014.0,38,22
+Alien: Isolation,2015.0,29,16
+LEGO The Lord of the Rings,2013.0,1,1
+LEGO The Lord of the Rings,2014.0,4,3
+Eets Munchies,2014.0,1,1
+Mark of the Ninja,2013.0,7,4
+Mark of the Ninja,2014.0,33,17
+Mark of the Ninja,2015.0,6,3
+Cherry Tree High Comedy Club,2014.0,2,1
+Call of Duty: Black Ops - Mac Edition,2013.0,2,1
+Call of Duty: Black Ops - Mac Edition,2014.0,2,1
+Call of Duty: Black Ops - Mac Edition,2015.0,2,1
+Thirty Flights of Loving,2014.0,3,2
+Guacamelee! Gold Edition,2014.0,16,8
+Guacamelee! Gold Edition,2015.0,1,1
+The Basement Collection,2013.0,2,1
+Half Minute Hero: Super Mega Neo Climax Ultimate Boy,2014.0,9,5
+Painkiller Hell &amp; Damnation,2015.0,3,2
+BioShock Infinite: Clash in the Clouds,2015.0,1,1
+BioShock Infinite: Burial at Sea - Episode One,2015.0,1,1
+BioShock Infinite - Season Pass,2015.0,2,1
+Total War™: ROME II - Emperor Edition,2013.0,31,17
+Total War™: ROME II - Emperor Edition,2014.0,52,28
+Total War™: ROME II - Emperor Edition,2015.0,23,13
+Intrusion 2,2013.0,2,1
+Intrusion 2,2014.0,2,1
+WAKFU,2014.0,9,5
+WAKFU,2015.0,4,2
+Ragnarok Online,2014.0,1,1
+Ragnarok Online,2015.0,4,2
+Sleeping Dogs: Nightmare in North Point,2015.0,2,1
+Secret World Legends,2013.0,4,2
+Secret World Legends,2014.0,2,1
+Secret World Legends,2015.0,4,2
+Primal Carnage,2012.0,4,2
+Primal Carnage,2013.0,12,6
+Primal Carnage,2014.0,14,7
+Primal Carnage,2015.0,6,3
+Rocketbirds: Hardboiled Chicken,2015.0,1,1
+The Incredible Adventures of Van Helsing,2013.0,4,3
+The Incredible Adventures of Van Helsing,2014.0,2,2
+The Incredible Adventures of Van Helsing,2015.0,1,1
+Demonicon,2014.0,2,1
+Home,2013.0,2,1
+Home,2014.0,2,1
+Home,2015.0,2,1
+Zeno Clash 2,2014.0,2,1
+Fieldrunners 2,2015.0,2,1
+Dungeon-Party,2013.0,2,1
+Tiny Troopers,2015.0,5,3
+MapleStory,2013.0,16,8
+MapleStory,2014.0,16,11
+MapleStory,2015.0,12,6
+AirMech® Soundtrack,2015.0,2,1
+Don Bradman Cricket 14,2014.0,2,1
+Don Bradman Cricket 14,2015.0,6,3
+Blood Bowl: Chaos Edition,2013.0,2,1
+Of Orcs And Men,2013.0,2,1
+Dementium II HD,2014.0,2,1
+Rise of the Triad,2013.0,7,4
+Rise of the Triad,2014.0,5,3
+Worms Armageddon,2013.0,2,1
+Worms Armageddon,2014.0,4,2
+Worms Armageddon,2015.0,4,3
+Anna - Extended Edition,2014.0,3,2
+Alien Rage - Unlimited,2014.0,2,1
+BIT.TRIP Presents... Runner2: Future Legend of Rhythm Alien,2013.0,6,3
+BIT.TRIP Presents... Runner2: Future Legend of Rhythm Alien,2014.0,15,8
+BIT.TRIP Presents... Runner2: Future Legend of Rhythm Alien,2015.0,3,2
+Unity of Command: Stalingrad Campaign,2014.0,2,1
+Dungeonland,2013.0,10,6
+Dungeonland,2014.0,9,5
+PlanetSide 2,2012.0,29,16
+PlanetSide 2,2013.0,144,81
+PlanetSide 2,2014.0,262,144
+PlanetSide 2,2015.0,85,46
+Defender's Quest: Valley of the Forgotten (DX edition),2013.0,4,2
+Defender's Quest: Valley of the Forgotten (DX edition),2014.0,2,1
+Borderlands 2: Tiny Tina's Assault on Dragon Keep,2015.0,4,2
+Borderlands 2 Season Pass,2015.0,2,1
+Lucius,2013.0,1,1
+Lucius,2014.0,4,2
+Lucius,2015.0,3,2
+Scribblenauts Unlimited,2013.0,11,6
+Scribblenauts Unlimited,2014.0,39,21
+Scribblenauts Unlimited,2015.0,8,4
+Pid,2014.0,8,4
+Mercenary Kings,2013.0,2,1
+Mercenary Kings,2014.0,2,1
+Call of Duty®: Black Ops II - Nuketown Zombies Map,2014.0,2,1
+Call of Duty®: Black Ops II - Apocalypse,2014.0,2,1
+Call of Duty®: Black Ops II - Apocalypse,2015.0,4,2
+Hotline Miami,2012.0,2,1
+Hotline Miami,2013.0,45,23
+Hotline Miami,2014.0,81,46
+Hotline Miami,2015.0,59,37
+Ultratron,2013.0,2,1
+Ultratron,2014.0,4,2
+The Banner Saga: Factions,2013.0,2,1
+Chivalry: Medieval Warfare,2012.0,7,4
+Chivalry: Medieval Warfare,2013.0,94,55
+Chivalry: Medieval Warfare,2014.0,100,61
+Chivalry: Medieval Warfare,2015.0,60,36
+Proteus,2014.0,7,5
+Proteus,2015.0,2,1
+Dogs of War Online,2014.0,2,1
+King Arthur's Gold,2013.0,18,9
+King Arthur's Gold,2014.0,21,11
+King Arthur's Gold,2015.0,12,6
+Antichamber,2013.0,39,20
+Antichamber,2014.0,33,17
+Antichamber,2015.0,12,6
+Edna &amp; Harvey: Harvey's New Eyes,2013.0,4,2
+Grim Dawn,2013.0,9,5
+Grim Dawn,2014.0,7,4
+Grim Dawn,2015.0,13,8
+The Journey Down: Chapter One,2015.0,1,1
+Trials Evolution: Gold Edition,2013.0,3,2
+Trials Evolution: Gold Edition,2014.0,8,5
+Trials Evolution: Gold Edition,2015.0,2,1
+Kerbal Space Program,2013.0,50,26
+Kerbal Space Program,2014.0,104,57
+Kerbal Space Program,2015.0,61,35
+Far Cry 3,2012.0,6,4
+Far Cry 3,2013.0,40,23
+Far Cry 3,2014.0,91,51
+Far Cry 3,2015.0,26,15
+Farming Simulator 2013 Titanium Edition,2013.0,14,8
+Farming Simulator 2013 Titanium Edition,2014.0,8,5
+Farming Simulator 2013 Titanium Edition,2015.0,2,1
+DmC: Devil May Cry,2013.0,7,4
+DmC: Devil May Cry,2014.0,4,2
+DmC: Devil May Cry,2015.0,11,6
+Cargo Commander,2013.0,2,1
+StarDrive,2015.0,2,1
+RPG Maker VX Ace,2013.0,8,4
+RPG Maker VX Ace,2014.0,8,4
+Chaos on Deponia,2014.0,1,1
+Thomas Was Alone,2013.0,10,6
+Thomas Was Alone,2014.0,26,13
+Thomas Was Alone,2015.0,2,2
+Zombie Driver HD,2014.0,2,2
+McPixel,2013.0,11,6
+McPixel,2014.0,11,6
+McPixel,2015.0,1,1
+Jack Lumber,2013.0,1,1
+FTL: Faster Than Light - Soundtrack,2015.0,2,1
+Towns,2014.0,2,1
+Towns,2015.0,2,1
+Resident Evil 6 / Biohazard 6,2012.0,2,1
+Resident Evil 6 / Biohazard 6,2013.0,2,2
+Resident Evil 6 / Biohazard 6,2014.0,10,6
+Resident Evil 6 / Biohazard 6,2015.0,10,6
+DayZ,2012.0,2,1
+DayZ,2013.0,110,62
+DayZ,2014.0,527,293
+DayZ,2015.0,138,76
+Eufloria HD,2014.0,2,1
+Little Inferno,2012.0,1,1
+Little Inferno,2013.0,19,12
+Little Inferno,2014.0,12,7
+Little Inferno,2015.0,14,8
+Age of Empires II HD,2012.0,4,2
+Age of Empires II HD,2013.0,23,14
+Age of Empires II HD,2014.0,59,32
+Age of Empires II HD,2015.0,52,31
+DG2: Defense Grid 2,2014.0,10,5
+DG2: Defense Grid 2,2015.0,2,1
+Super Hexagon,2012.0,2,1
+Super Hexagon,2013.0,56,30
+Super Hexagon,2014.0,112,67
+Super Hexagon,2015.0,20,14
+Rocksmith® 2014 Edition - Remastered,2013.0,6,3
+Rocksmith® 2014 Edition - Remastered,2014.0,8,4
+Rocksmith® 2014 Edition - Remastered,2015.0,8,4
+The Cave,2013.0,2,1
+The Cave,2014.0,2,1
+The Stanley Parable,2013.0,44,24
+The Stanley Parable,2014.0,96,53
+The Stanley Parable,2015.0,24,14
+Puddle,2014.0,2,1
+THE KING OF FIGHTERS 2002 UNLIMITED MATCH,2015.0,1,1
+Resident Evil Revelations / Biohazard Revelations,2014.0,2,1
+Champions of Regnum,2013.0,1,1
+Champions of Regnum,2014.0,6,4
+Champions of Regnum,2015.0,1,1
+Train Simulator: DB BR232 Loco Add-On,2015.0,2,1
+Retro/Grade,2014.0,2,1
+Reus,2013.0,13,7
+Reus,2014.0,8,5
+Reus,2015.0,2,1
+Wargame: Airland Battle,2013.0,12,7
+Wargame: Airland Battle,2014.0,8,5
+Wargame: Airland Battle,2015.0,3,2
+Insurgency,2012.0,2,1
+Insurgency,2013.0,15,8
+Insurgency,2014.0,167,93
+Insurgency,2015.0,123,70
+THE KING OF FIGHTERS XIII STEAM EDITION,2014.0,5,4
+THE KING OF FIGHTERS XIII STEAM EDITION,2015.0,4,2
+Dead Pixels,2012.0,2,1
+Dead Pixels,2013.0,4,2
+Dead Pixels,2014.0,4,3
+Dead Pixels,2015.0,3,2
+Homefront®: The Revolution,2014.0,2,1
+Miner Wars 2081,2015.0,2,1
+POSTAL 2,2013.0,12,7
+POSTAL 2,2014.0,43,26
+POSTAL 2,2015.0,43,26
+Miasmata,2013.0,2,1
+Cry of Fear,2012.0,2,1
+Cry of Fear,2013.0,27,16
+Cry of Fear,2014.0,46,32
+Cry of Fear,2015.0,30,21
+DCS: P-51D Mustang,2014.0,2,1
+Ys I &amp; II Chronicles+,2013.0,1,1
+Xenonauts,2014.0,4,2
+3DMark,2015.0,4,2
+No More Room in Hell,2012.0,2,1
+No More Room in Hell,2013.0,109,64
+No More Room in Hell,2014.0,188,109
+No More Room in Hell,2015.0,74,46
+Contrast,2014.0,9,5
+Contrast,2015.0,4,2
+Octodad: Dadliest Catch,2013.0,1,1
+Octodad: Dadliest Catch,2014.0,40,23
+Octodad: Dadliest Catch,2015.0,7,4
+Gnomoria,2013.0,4,2
+Gnomoria,2014.0,4,2
+Gnomoria,2015.0,2,1
+Ace of Spades: Battle Builder,2013.0,36,21
+Ace of Spades: Battle Builder,2014.0,79,47
+Ace of Spades: Battle Builder,2015.0,23,13
+Arma II: DayZ Mod,2013.0,18,9
+Arma II: DayZ Mod,2014.0,20,11
+Arma II: DayZ Mod,2015.0,2,1
+Defiance,2013.0,15,8
+Defiance,2014.0,37,21
+Defiance,2015.0,7,4
+FEZ,2013.0,11,6
+FEZ,2014.0,32,17
+FEZ,2015.0,14,7
+Super House of Dead Ninjas,2013.0,6,3
+Super House of Dead Ninjas,2014.0,2,1
+Super House of Dead Ninjas,2015.0,2,1
+Iron Sky: Invasion,2014.0,2,1
+Tomb Raider I,2013.0,2,1
+Tomb Raider I,2015.0,2,1
+Brothers - A Tale of Two Sons,2013.0,7,4
+Brothers - A Tale of Two Sons,2014.0,40,21
+Brothers - A Tale of Two Sons,2015.0,14,7
+Shadow Warrior Classic Redux,2013.0,2,1
+Shadow Warrior Classic Redux,2014.0,1,1
+Brutal Legend,2013.0,9,5
+Brutal Legend,2014.0,18,11
+Brutal Legend,2015.0,5,3
+Full Mojo Rampage,2014.0,2,1
+Full Mojo Rampage,2015.0,2,1
+Tomb Raider II,2014.0,2,1
+XCOM: Enemy Within,2014.0,2,1
+Cities in Motion 2,2013.0,4,2
+Cities in Motion 2,2014.0,4,2
+Just Cause™ 3,2012.0,2,1
+Just Cause™ 3,2013.0,3,2
+Just Cause™ 3,2014.0,14,8
+Just Cause™ 3,2015.0,65,35
+Blade Symphony,2013.0,2,1
+Blade Symphony,2014.0,17,9
+Sacred 2 Gold,2015.0,2,1
+Borderlands 2: Assassin Supremacy Pack,2014.0,2,1
+Sven Co-op,2013.0,9,5
+Sven Co-op,2014.0,14,9
+Sven Co-op,2015.0,9,6
+Escape Dead Island,2014.0,2,1
+F1 2014,2014.0,2,1
+F1 2014,2015.0,4,2
+Desktop Dungeons,2013.0,1,1
+Desktop Dungeons,2014.0,3,2
+LOST PLANET® 3,2014.0,3,2
+LOST PLANET® 3,2015.0,2,1
+Monster Loves You!,2013.0,4,2
+Monster Loves You!,2014.0,4,2
+Monster Loves You!,2015.0,2,1
+Galactic Civilizations III,2013.0,2,1
+Galactic Civilizations III,2014.0,4,2
+Galactic Civilizations III,2015.0,6,3
+Ironclad Tactics,2013.0,2,1
+Papo &amp; Yo,2014.0,4,2
+Sniper Elite: Nazi Zombie Army,2013.0,11,6
+Sniper Elite: Nazi Zombie Army,2014.0,4,2
+Sniper Elite: Nazi Zombie Army,2015.0,4,2
+Kinetic Void,2014.0,6,3
+Kingdom Wars,2013.0,2,1
+Kingdom Wars,2014.0,4,2
+Kingdom Wars,2015.0,10,5
+Waking Mars,2014.0,2,1
+Sang-Froid - Tales of Werewolves,2014.0,5,3
+DisplayFusion,2015.0,2,1
+Euro Truck Simulator 2,2012.0,1,1
+Euro Truck Simulator 2,2013.0,23,12
+Euro Truck Simulator 2,2014.0,96,52
+Euro Truck Simulator 2,2015.0,48,29
+Euro Truck Simulator 2 - Going East!,2014.0,2,1
+God Mode,2013.0,4,2
+God Mode,2014.0,8,4
+God Mode,2015.0,1,1
+Scourge: Outbreak,2014.0,2,1
+"10,000,000",2014.0,3,2
+"10,000,000",2015.0,2,1
+Castle of Illusion,2014.0,2,1
+Serious Sam Classics: Revolution,2014.0,1,1
+Serious Sam Classics: Revolution,2015.0,2,1
+Castle Story,2013.0,2,1
+Castle Story,2014.0,8,4
+Castle Story,2015.0,2,1
+Heroes &amp; Generals,2012.0,2,1
+Heroes &amp; Generals,2013.0,6,3
+Heroes &amp; Generals,2014.0,118,63
+Heroes &amp; Generals,2015.0,128,70
+Action! - Gameplay Recording and Streaming,2014.0,5,3
+Fallen Enchantress: Legendary Heroes,2013.0,4,2
+Fallen Enchantress: Legendary Heroes,2015.0,2,1
+Baldur's Gate: Enhanced Edition,2013.0,2,1
+Baldur's Gate: Enhanced Edition,2015.0,2,1
+Remember Me,2013.0,8,4
+Remember Me,2014.0,8,4
+Remember Me,2015.0,6,3
+Next Car Game: Wreckfest,2014.0,30,16
+Next Car Game: Wreckfest,2015.0,10,5
+Ace Combat Assault Horizon - Enhanced Edition,2014.0,7,4
+Cubemen 2,2015.0,2,1
+TrackMania² Canyon,2015.0,4,2
+Skulls of the Shogun,2014.0,2,1
+Skulls of the Shogun,2015.0,2,1
+Dream,2014.0,2,1
+DLC Quest,2011.0,1,1
+DLC Quest,2013.0,19,10
+DLC Quest,2014.0,19,10
+DLC Quest,2015.0,10,6
+The Age of Decadence,2014.0,2,1
+War for the Overworld,2014.0,4,2
+War for the Overworld,2015.0,5,3
+Divinity: Original Sin (Classic),2014.0,21,12
+Divinity: Original Sin (Classic),2015.0,6,3
+N++ (NPLUSPLUS),2013.0,1,1
+Akaneiro: Demon Hunters,2013.0,2,1
+Warframe,2012.0,8,4
+Warframe,2013.0,171,96
+Warframe,2014.0,438,250
+Warframe,2015.0,277,160
+La-Mulana,2015.0,2,1
+The Night of the Rabbit,2015.0,2,1
+Daylight,2014.0,2,1
+Beatbuddy: Tale of the Guardians,2014.0,2,1
+Ragnarok Online 2,2013.0,2,1
+Ragnarok Online 2,2014.0,2,1
+Ragnarok Online 2,2015.0,2,1
+Cities XL Platinum,2013.0,2,1
+Cities XL Platinum,2014.0,1,1
+Cities XL Platinum,2015.0,2,1
+The Swapper,2013.0,1,1
+The Swapper,2014.0,14,7
+MirrorMoon EP,2013.0,2,1
+MirrorMoon EP,2014.0,2,2
+Deadfall Adventures,2014.0,1,1
+Company of Heroes 2,2013.0,21,12
+Company of Heroes 2,2014.0,67,36
+Company of Heroes 2,2015.0,44,26
+Knights of Pen and Paper +1 Edition,2014.0,5,3
+Euro Truck Simulator,2013.0,2,1
+Euro Truck Simulator,2014.0,3,2
+Eador. Masters of the Broken World,2014.0,2,1
+Killing Floor 2,2013.0,6,4
+Killing Floor 2,2014.0,12,8
+Killing Floor 2,2015.0,137,81
+Gone Home,2013.0,14,8
+Gone Home,2014.0,33,17
+Gone Home,2015.0,13,7
+SolForge,2014.0,2,1
+Mars: War Logs,2013.0,1,1
+Mars: War Logs,2014.0,2,1
+POSTAL,2015.0,3,2
+Broken Age,2014.0,19,11
+Broken Age,2015.0,10,5
+Stronghold Crusader 2,2014.0,4,2
+Stronghold Crusader 2,2015.0,4,2
+TrackMania² Stadium,2011.0,2,1
+TrackMania² Stadium,2013.0,8,5
+TrackMania² Stadium,2014.0,1,1
+TrackMania² Stadium,2015.0,2,1
+Bridge Project,2014.0,2,1
+Thunder Wolves,2014.0,2,1
+Shadow Warrior,2013.0,13,8
+Shadow Warrior,2014.0,20,10
+Shadow Warrior,2015.0,14,7
+LUFTRAUSERS,2014.0,8,6
+LUFTRAUSERS,2015.0,4,2
+Final Exam,2014.0,2,1
+Far Cry 3 - Blood Dragon,2013.0,9,5
+Far Cry 3 - Blood Dragon,2014.0,17,10
+Far Cry 3 - Blood Dragon,2015.0,4,3
+Murdered: Soul Suspect,2014.0,6,3
+Murdered: Soul Suspect,2015.0,4,2
+Sudeki,2014.0,2,1
+The Raven - Legacy of a Master Thief,2013.0,2,1
+Prison Architect,2013.0,8,5
+Prison Architect,2014.0,64,33
+Prison Architect,2015.0,73,39
+Evoland,2013.0,2,1
+Evoland,2014.0,10,6
+Evoland,2015.0,5,3
+Another World – 20th Anniversary Edition,2014.0,2,1
+Sword of the Stars: The Pit,2014.0,2,1
+Sword of the Stars: The Pit,2015.0,2,1
+Surgeon Simulator,2013.0,41,23
+Surgeon Simulator,2014.0,62,36
+Surgeon Simulator,2015.0,18,13
+Organ Trail: Director's Cut,2014.0,6,3
+Worms Clan Wars,2013.0,2,2
+Worms Clan Wars,2014.0,2,1
+UnEpic,2013.0,4,2
+UnEpic,2014.0,4,2
+UnEpic,2015.0,2,1
+Castlevania: Lords of Shadow – Ultimate Edition,2013.0,2,1
+Mad Max,2013.0,5,3
+Mad Max,2014.0,11,6
+Mad Max,2015.0,56,30
+Strike Suit Infinity,2014.0,2,1
+Receiver,2013.0,2,1
+Receiver,2014.0,19,10
+Receiver,2015.0,7,4
+Marvel Puzzle Quest,2013.0,2,1
+Marvel Puzzle Quest,2014.0,6,3
+Teleglitch: Die More Edition,2014.0,4,3
+Teleglitch: Die More Edition,2015.0,2,1
+Rush Bros.,2014.0,4,3
+Shadowrun Returns,2013.0,6,3
+Shadowrun Returns,2014.0,6,3
+Shadowrun Returns,2015.0,2,1
+NARUTO SHIPPUDEN: Ultimate Ninja STORM 3 Full Burst HD,2014.0,39,21
+NARUTO SHIPPUDEN: Ultimate Ninja STORM 3 Full Burst HD,2015.0,5,4
+Poker Night 2,2013.0,17,9
+Poker Night 2,2014.0,16,8
+Poker Night 2,2015.0,14,8
+Call of Duty®: Black Ops II - Aqua Personalization Pack,2015.0,1,1
+Dyscourse,2014.0,2,1
+Dyscourse,2015.0,2,1
+Super Sanctum TD,2014.0,4,2
+Prime World: Defenders,2013.0,3,2
+King’s Bounty: Legions,2013.0,2,1
+King’s Bounty: Legions,2014.0,2,2
+METAL GEAR RISING: REVENGEANCE,2011.0,1,1
+METAL GEAR RISING: REVENGEANCE,2014.0,30,16
+METAL GEAR RISING: REVENGEANCE,2015.0,14,8
+Warhammer: End Times - Vermintide,2014.0,5,4
+Warhammer: End Times - Vermintide,2015.0,26,13
+Sid Meier's Civilization V: Brave New World,2013.0,2,1
+Sid Meier's Civilization V: Brave New World,2014.0,2,1
+Sid Meier's Civilization V: Brave New World,2015.0,6,3
+Tom Clancy’s Splinter Cell Blacklist,2013.0,4,2
+Tom Clancy’s Splinter Cell Blacklist,2014.0,22,11
+Tom Clancy’s Splinter Cell Blacklist,2015.0,8,4
+MINERVA,2012.0,2,1
+MINERVA,2013.0,1,1
+MINERVA,2014.0,2,1
+MINERVA,2015.0,8,4
+Audiosurf 2,2013.0,11,7
+Audiosurf 2,2014.0,14,7
+Audiosurf 2,2015.0,1,1
+Tetrobot and Co.,2013.0,2,1
+Dust: An Elysian Tail,2013.0,13,7
+Dust: An Elysian Tail,2014.0,42,22
+Dust: An Elysian Tail,2015.0,16,9
+Dungeon Defenders II,2010.0,2,1
+Dungeon Defenders II,2014.0,9,5
+Dungeon Defenders II,2015.0,55,30
+Starpoint Gemini 2,2014.0,4,2
+Starpoint Gemini 2,2015.0,3,2
+Interstellar Marines,2013.0,10,5
+Interstellar Marines,2014.0,18,9
+Interstellar Marines,2015.0,24,14
+DARK SOULS™ II,2013.0,3,2
+DARK SOULS™ II,2014.0,74,43
+DARK SOULS™ II,2015.0,17,10
+PAC-MAN™ Championship Edition DX+,2014.0,18,11
+PAC-MAN™ Championship Edition DX+,2015.0,12,6
+PAC-MAN MUSEUM™,2015.0,2,1
+Blood Bowl 2,2015.0,1,1
+Anomaly 2,2014.0,2,1
+Europa Universalis IV,2012.0,2,1
+Europa Universalis IV,2013.0,9,5
+Europa Universalis IV,2014.0,41,21
+Europa Universalis IV,2015.0,31,16
+HITMAN™,2013.0,2,1
+HITMAN™,2014.0,12,6
+HITMAN™,2015.0,9,5
+Mortal Kombat Komplete Edition,2013.0,3,2
+Mortal Kombat Komplete Edition,2014.0,14,9
+Mortal Kombat Komplete Edition,2015.0,10,8
+Elsword,2013.0,9,5
+Elsword,2014.0,16,10
+Elsword,2015.0,15,8
+PlayClaw 5 - Game Recording and Streaming,2014.0,2,1
+DuckTales: Remastered,2013.0,4,2
+DuckTales: Remastered,2014.0,4,2
+Angry Video Game Nerd Adventures,2013.0,2,1
+Angry Video Game Nerd Adventures,2014.0,8,5
+Dreamfall Chapters,2014.0,6,3
+Dreamfall Chapters,2015.0,2,1
+Planet Explorers,2014.0,5,3
+Planet Explorers,2015.0,6,3
+Agarest: Generations of War,2014.0,6,3
+Agarest: Generations of War,2015.0,2,1
+Transistor,2013.0,2,1
+Transistor,2014.0,41,22
+Transistor,2015.0,30,16
+The Banner Saga,2014.0,8,4
+The Banner Saga,2015.0,6,3
+Deus Ex: Human Revolution - Director's Cut,2013.0,3,2
+Deus Ex: Human Revolution - Director's Cut,2014.0,26,15
+Deus Ex: Human Revolution - Director's Cut,2015.0,12,6
+Sniper Elite 3,2013.0,4,2
+Sniper Elite 3,2014.0,11,6
+Sniper Elite 3,2015.0,14,8
+System Shock 2,2014.0,2,1
+System Shock 2,2015.0,6,3
+Edge of Space,2014.0,9,5
+Pinball Arcade,2013.0,4,3
+Pinball Arcade,2015.0,2,1
+Saints Row IV: Commander-In-Chief Pack,2015.0,3,2
+Outlast,2013.0,14,9
+Outlast,2014.0,59,33
+Outlast,2015.0,24,15
+Magicka 2,2014.0,3,2
+Magicka 2,2015.0,2,1
+Contagion,2012.0,2,1
+Contagion,2013.0,8,5
+Contagion,2014.0,47,25
+BattleBlock Theater®,2013.0,3,2
+BattleBlock Theater®,2014.0,159,90
+BattleBlock Theater®,2015.0,63,38
+Might &amp; Magic X - Legacy,2014.0,4,2
+Skyward Collapse,2014.0,2,1
+Bionic Dues,2015.0,4,2
+"Papers, Please",2012.0,2,1
+"Papers, Please",2013.0,22,11
+"Papers, Please",2014.0,67,36
+"Papers, Please",2015.0,25,13
+Hammerwatch,2013.0,3,2
+Hammerwatch,2014.0,11,6
+Hammerwatch,2015.0,3,2
+FINAL FANTASY III,2014.0,2,1
+FINAL FANTASY III,2015.0,2,1
+Dying Light,2013.0,3,2
+Dying Light,2014.0,12,7
+Dying Light,2015.0,106,57
+Thief,2014.0,25,14
+Thief,2015.0,2,1
+Amnesia: A Machine for Pigs,2014.0,4,2
+Amnesia: A Machine for Pigs,2015.0,4,2
+Castlevania: Lords of Shadow 2,2014.0,2,1
+Castlevania: Lords of Shadow 2,2015.0,2,1
+Spelunky,2013.0,13,7
+Spelunky,2014.0,14,8
+Spelunky,2015.0,13,7
+Soldier Front 2,2013.0,19,10
+Soldier Front 2,2014.0,24,13
+Soldier Front 2,2015.0,10,5
+Hate Plus,2013.0,2,1
+PAC-MAN™ and the Ghostly Adventures,2014.0,2,1
+Bleed,2013.0,4,2
+Bleed,2014.0,6,3
+Bleed,2015.0,2,1
+Game Dev Tycoon,2013.0,35,19
+Game Dev Tycoon,2014.0,74,39
+Game Dev Tycoon,2015.0,42,22
+Dead State: Reanimated,2014.0,4,2
+Quadrilateral Cowboy,2014.0,4,2
+MotoGP™13,2015.0,2,1
+Wanderlust Adventures,2015.0,2,1
+Wasteland 2: Director's Cut,2013.0,2,1
+Wasteland 2: Director's Cut,2014.0,4,2
+Wasteland 2: Director's Cut,2015.0,2,1
+Half Minute Hero: The Second Coming,2015.0,4,2
+Contraption Maker,2014.0,2,1
+Contraption Maker,2015.0,4,2
+Sherlock Holmes: Crimes and Punishments,2014.0,4,2
+Sherlock Holmes: Crimes and Punishments,2015.0,1,1
+Ittle Dew,2014.0,2,1
+Ittle Dew,2015.0,1,1
+CastleStorm,2014.0,2,1
+State of Decay,2013.0,23,12
+State of Decay,2014.0,79,42
+State of Decay,2015.0,14,8
+The Crew™,2014.0,10,6
+The Crew™,2015.0,6,4
+Rogue Legacy,2013.0,23,12
+Rogue Legacy,2014.0,42,22
+Rogue Legacy,2015.0,13,7
+Guncraft,2013.0,4,2
+Guncraft,2014.0,2,1
+Goodbye Deponia,2014.0,2,1
+Middle-earth™: Shadow of Mordor™,2012.0,2,1
+Middle-earth™: Shadow of Mordor™,2014.0,92,49
+Middle-earth™: Shadow of Mordor™,2015.0,53,28
+Assassin’s Creed® IV Black Flag™,2012.0,2,1
+Assassin’s Creed® IV Black Flag™,2013.0,30,19
+Assassin’s Creed® IV Black Flag™,2014.0,36,20
+Assassin’s Creed® IV Black Flag™,2015.0,7,4
+Rayman® Legends,2013.0,2,1
+Space Hulk,2013.0,4,2
+Space Hulk,2014.0,3,2
+Saints Row IV: Inauguration Station,2014.0,2,1
+Styx: Master of Shadows,2014.0,4,2
+Nuclear Throne,2013.0,2,1
+Nuclear Throne,2014.0,18,10
+Nuclear Throne,2015.0,29,18
+Injustice: Gods Among Us Ultimate Edition,2012.0,2,1
+Injustice: Gods Among Us Ultimate Edition,2013.0,3,2
+Injustice: Gods Among Us Ultimate Edition,2014.0,12,7
+Injustice: Gods Among Us Ultimate Edition,2015.0,6,3
+GunZ 2: The Second Duel,2014.0,45,28
+GunZ 2: The Second Duel,2015.0,6,3
+The Forest,2012.0,2,1
+The Forest,2013.0,10,5
+The Forest,2014.0,191,106
+The Forest,2015.0,76,41
+Day One : Garry's Incident,2013.0,2,1
+140,2014.0,6,3
+140,2015.0,2,1
+Verdun,2011.0,2,1
+Verdun,2013.0,11,6
+Verdun,2014.0,49,26
+Verdun,2015.0,69,39
+"Sir, You Are Being Hunted",2013.0,6,3
+"Sir, You Are Being Hunted",2014.0,16,9
+"Sir, You Are Being Hunted",2015.0,2,1
+Banished,2014.0,56,31
+Banished,2015.0,22,11
+Anachronox,2015.0,2,1
+Betrayer,2013.0,2,1
+Memoria,2015.0,2,1
+Poöf,2014.0,2,1
+TrackMania² Valley,2015.0,2,1
+Urban Trial Freestyle,2014.0,7,4
+Watch_Dogs™,2012.0,2,1
+Watch_Dogs™,2014.0,39,21
+Watch_Dogs™,2015.0,15,8
+PixelJunk™ Monsters Ultimate,2014.0,2,1
+Gas Guzzlers Extreme,2014.0,2,1
+Gas Guzzlers Extreme,2015.0,4,2
+"Invisible, Inc.",2014.0,4,2
+"Invisible, Inc.",2015.0,4,2
+Rise of Flight United,2013.0,2,1
+Homeworld Remastered Collection,2012.0,2,1
+Homeworld Remastered Collection,2015.0,12,7
+Supreme Ruler 1936,2015.0,1,1
+Men of War: Assault Squad 2,2014.0,2,1
+Men of War: Assault Squad 2,2015.0,11,7
+Epigenesis,2014.0,4,2
+Epigenesis,2015.0,4,2
+NEOTOKYO,2014.0,6,3
+Shelter,2014.0,8,4
+Shelter,2015.0,2,1
+Divekick,2013.0,1,1
+Divekick,2014.0,4,2
+Divekick,2015.0,2,2
+StarMade,2015.0,6,3
+Foul Play,2014.0,2,1
+Electronic Super Joy,2013.0,12,6
+Electronic Super Joy,2014.0,13,7
+Velocity®Ultra,2015.0,2,1
+SNOW,2010.0,2,1
+SNOW,2011.0,4,2
+SNOW,2013.0,4,2
+SNOW,2014.0,15,8
+SNOW,2015.0,23,12
+Skullgirls,2012.0,2,1
+Skullgirls,2013.0,11,7
+Skullgirls,2014.0,36,22
+Skullgirls,2015.0,45,26
+Skullgirls: Big Band,2015.0,2,1
+Skullgirls: Eliza,2014.0,1,1
+Skullgirls: Eliza,2015.0,1,1
+ENSLAVED™: Odyssey to the West™ Premium Edition,2014.0,5,3
+ENSLAVED™: Odyssey to the West™ Premium Edition,2015.0,5,3
+Etherium,2015.0,4,2
+"I Have No Mouth, and I Must Scream",2014.0,2,1
+"I Have No Mouth, and I Must Scream",2015.0,1,1
+Democracy 3,2014.0,26,14
+Democracy 3,2015.0,4,3
+Trials Fusion™,2014.0,6,3
+Free to Play,2014.0,82,48
+Free to Play,2015.0,6,4
+Tropico 5,2014.0,12,6
+Tropico 5,2015.0,12,6
+Borderlands 2: Headhunter 2: Wattle Gobbler,2014.0,2,1
+Hack 'n' Slash,2014.0,2,1
+Spacebase DF-9,2014.0,4,2
+Spacebase DF-9,2015.0,2,1
+MASSIVE CHALICE,2015.0,1,1
+Pac-Man Championship Edition DX+: Pac is Back Skin,2015.0,2,1
+Paranormal,2013.0,2,1
+Kingdom Rush,2013.0,2,1
+Kingdom Rush,2014.0,22,11
+Kingdom Rush,2015.0,5,3
+The Typing of The Dead: Overkill,2014.0,6,3
+The Typing of The Dead: Overkill,2015.0,4,2
+Plague Inc: Evolved,2013.0,2,1
+Plague Inc: Evolved,2014.0,46,26
+Plague Inc: Evolved,2015.0,18,10
+TorqueL prototype,2014.0,1,1
+Strike Vector,2014.0,19,11
+FATE,2014.0,2,1
+Talisman: Digital Edition,2014.0,8,4
+Talisman: Digital Edition,2015.0,11,6
+"Cook, Serve, Delicious!",2014.0,9,6
+"Cook, Serve, Delicious!",2015.0,8,4
+Crypt of the NecroDancer,2013.0,2,1
+Crypt of the NecroDancer,2014.0,11,6
+Crypt of the NecroDancer,2015.0,12,7
+Portal 2 Sixense Perceptual Pack,2014.0,2,1
+Soundodger+,2014.0,2,1
+Volgarr the Viking,2014.0,5,3
+Saints Row IV: Dubstep Gun (Remix) Pack,2015.0,2,1
+Saints Row IV - The Super Saints Pack,2015.0,2,1
+Hitman: Contracts,2015.0,1,1
+Deadly Premonition: The Director's Cut,2015.0,2,1
+Nether: Resurrected,2013.0,8,4
+Nether: Resurrected,2014.0,46,24
+Nether: Resurrected,2015.0,11,6
+Sniper Elite: Nazi Zombie Army 2,2013.0,1,1
+Sniper Elite: Nazi Zombie Army 2,2014.0,10,6
+Sniper Elite: Nazi Zombie Army 2,2015.0,2,1
+Sacred 3,2015.0,2,1
+Clickteam Fusion 2.5,2014.0,2,1
+Clickteam Fusion 2.5,2015.0,4,2
+Freedom Planet,2014.0,8,4
+Freedom Planet,2015.0,8,4
+Omegalodon,2013.0,2,1
+Omegalodon,2014.0,2,1
+Omegalodon,2015.0,1,1
+Craft The World,2014.0,6,4
+Craft The World,2015.0,2,1
+Legends of Aethereus,2014.0,1,1
+Depth Hunter 2: Deep Dive,2015.0,2,1
+Megabyte Punch,2014.0,2,1
+Toribash,2013.0,2,1
+Toribash,2014.0,67,38
+Toribash,2015.0,43,24
+Door Kickers,2014.0,8,4
+Door Kickers,2015.0,6,3
+Kingdoms Rise,2013.0,4,2
+Kingdoms Rise,2014.0,2,1
+Draw a Stickman: EPIC,2013.0,4,2
+Draw a Stickman: EPIC,2014.0,1,1
+Dysfunctional Systems: Learning to Manage Chaos,2013.0,2,1
+Dysfunctional Systems: Learning to Manage Chaos,2014.0,6,3
+Risk of Rain,2013.0,33,18
+Risk of Rain,2014.0,91,49
+Risk of Rain,2015.0,53,30
+NEO Scavenger,2014.0,8,4
+NEO Scavenger,2015.0,2,1
+Vector,2014.0,2,1
+Dungeon of the Endless™,2013.0,6,3
+Dungeon of the Endless™,2014.0,8,4
+Dungeon of the Endless™,2015.0,6,3
+LEGO® Marvel™ Super Heroes,2013.0,11,6
+LEGO® Marvel™ Super Heroes,2014.0,37,21
+LEGO® Marvel™ Super Heroes,2015.0,15,8
+Risen 3 - Titan Lords,2015.0,2,1
+Unholy Heights,2014.0,2,1
+The Castle Doctrine,2014.0,2,1
+Delver,2014.0,8,4
+Delver,2015.0,2,1
+Blackguards,2015.0,2,1
+Marlow Briggs and the Mask of Death,2014.0,4,2
+Scribblenauts Unmasked: A DC Comics Adventure,2013.0,5,3
+Scribblenauts Unmasked: A DC Comics Adventure,2014.0,3,2
+Scribblenauts Unmasked: A DC Comics Adventure,2015.0,2,1
+Forge Quest,2013.0,2,1
+Forge Quest,2014.0,4,2
+FORCED: Slightly Better Edition,2015.0,1,1
+Life Goes On: Done to Death,2014.0,2,1
+Assault Android Cactus,2015.0,6,3
+METAL SLUG 3,2014.0,18,11
+METAL SLUG 3,2015.0,3,2
+Jazzpunk: Director's Cut,2014.0,20,11
+Jazzpunk: Director's Cut,2015.0,14,7
+The Wolf Among Us,2013.0,20,10
+The Wolf Among Us,2014.0,78,42
+The Wolf Among Us,2015.0,12,6
+Blockland,2013.0,6,3
+Blockland,2014.0,12,8
+Blockland,2015.0,3,2
+Knock-knock,2013.0,2,1
+How to Survive,2013.0,6,3
+How to Survive,2014.0,24,13
+How to Survive,2015.0,18,12
+8BitMMO,2013.0,19,10
+8BitMMO,2014.0,16,9
+8BitMMO,2015.0,5,3
+Bridge Constructor,2014.0,4,2
+Bridge Constructor,2015.0,1,1
+Super Amazing Wagon Adventure,2013.0,3,2
+Super Amazing Wagon Adventure,2014.0,11,6
+Super Amazing Wagon Adventure,2015.0,5,3
+UnderRail,2014.0,4,2
+Paranautical Activity: Deluxe Atonement Edition,2013.0,2,1
+Paranautical Activity: Deluxe Atonement Edition,2014.0,2,1
+Paranautical Activity: Deluxe Atonement Edition,2015.0,4,2
+The Plan,2013.0,5,3
+The Plan,2014.0,88,52
+The Plan,2015.0,15,9
+Among the Sleep - Enhanced Edition,2012.0,2,1
+Among the Sleep - Enhanced Edition,2014.0,8,4
+Among the Sleep - Enhanced Edition,2015.0,5,3
+Shovel Knight: Treasure Trove,2014.0,16,9
+Shovel Knight: Treasure Trove,2015.0,11,6
+The Binding of Isaac: Rebirth,2012.0,2,1
+The Binding of Isaac: Rebirth,2013.0,1,1
+The Binding of Isaac: Rebirth,2014.0,103,56
+The Binding of Isaac: Rebirth,2015.0,101,59
+Wargame: Red Dragon,2014.0,17,9
+Wargame: Red Dragon,2015.0,10,5
+Chroma Squad,2015.0,2,1
+The Legend of Heroes: Trails in the Sky,2015.0,4,2
+Damned,2014.0,3,2
+Damned,2015.0,10,5
+The Legend of Heroes: Trails in the Sky SC,2014.0,2,1
+Eleusis,2015.0,1,1
+Escape Goat,2013.0,2,1
+The Inner World,2014.0,2,1
+The Inner World,2015.0,4,2
+TowerFall Ascension,2013.0,2,1
+TowerFall Ascension,2015.0,2,2
+The Impossible Game,2014.0,4,2
+The Impossible Game,2015.0,2,1
+Legend of Grimrock 2,2015.0,2,1
+Go! Go! Nippon! ~My First Trip to Japan~,2014.0,11,6
+Go! Go! Nippon! ~My First Trip to Japan~,2015.0,14,7
+Long Live The Queen,2013.0,4,2
+Long Live The Queen,2014.0,12,6
+Valdis Story: Abyssal City,2014.0,2,1
+Gimbal,2015.0,2,1
+Grimm,2014.0,5,3
+Maia,2014.0,3,2
+Slender: The Arrival,2013.0,1,1
+Slender: The Arrival,2014.0,10,6
+Slender: The Arrival,2015.0,2,1
+Double Dragon: Neon,2014.0,4,2
+Double Dragon: Neon,2015.0,4,2
+The Shivah,2015.0,1,1
+SteamWorld Dig,2013.0,2,1
+SteamWorld Dig,2014.0,2,1
+SteamWorld Dig,2015.0,2,1
+StarDrive 2,2015.0,2,1
+Rust,2011.0,1,1
+Rust,2012.0,6,3
+Rust,2013.0,95,51
+Rust,2014.0,654,368
+Rust,2015.0,262,156
+OMSI 2: Steam Edition,2014.0,2,1
+OMSI 2: Steam Edition,2015.0,6,3
+Eldritch,2014.0,4,2
+Eldritch,2015.0,1,1
+Nihilumbra,2014.0,2,1
+Skyscraper Simulator,2015.0,2,1
+Rocket League®,2011.0,6,3
+Rocket League®,2012.0,2,1
+Rocket League®,2013.0,17,10
+Rocket League®,2014.0,98,53
+Rocket League®,2015.0,273,157
+The Cat Lady,2014.0,2,1
+The Cat Lady,2015.0,2,1
+Stonehearth,2014.0,4,2
+Stonehearth,2015.0,11,6
+Tiny Barbarian DX,2014.0,2,1
+Axis Game Factory's AGFPRO v3,2015.0,2,1
+WARMACHINE: Tactics,2014.0,2,1
+Wrack,2013.0,2,1
+Sparkle 2 Evo,2014.0,4,2
+Tiny Brains,2014.0,2,1
+Tiny Brains,2015.0,2,1
+theHunter Classic,2014.0,26,15
+theHunter Classic,2015.0,20,12
+Bus-Simulator 2012,2013.0,2,1
+Gorky 17,2014.0,1,1
+Enclave,2014.0,5,3
+Enclave,2015.0,4,3
+FortressCraft Evolved!,2014.0,2,1
+FortressCraft Evolved!,2015.0,2,1
+PAYDAY 2: The Official Soundtrack,2014.0,2,1
+Pool Nation,2013.0,2,1
+Pool Nation,2014.0,5,3
+Obscure,2015.0,3,2
+Obscure II (Obscure: The Aftermath),2014.0,2,1
+resident evil 4 / biohazard 4,2012.0,2,1
+resident evil 4 / biohazard 4,2014.0,4,3
+resident evil 4 / biohazard 4,2015.0,2,1
+GRID Autosport,2014.0,2,1
+GRID Autosport,2015.0,8,4
+Pro Cycling Manager 2014,2014.0,4,2
+Journey of a Roach,2014.0,2,1
+Max: The Curse of Brotherhood,2014.0,2,1
+Magic 2015 - Duels of the Planeswalkers,2014.0,6,3
+Magic 2015 - Duels of the Planeswalkers,2015.0,2,1
+Cities: Skylines,2012.0,2,1
+Cities: Skylines,2013.0,6,3
+Cities: Skylines,2014.0,10,6
+Cities: Skylines,2015.0,105,58
+Jagged Alliance Flashback,2014.0,2,1
+Truck Racer,2014.0,2,1
+Child of Light,2014.0,11,6
+Child of Light,2015.0,2,1
+WRC 4 FIA World Rally Championship,2014.0,4,2
+MXGP - The Official Motocross Videogame,2015.0,2,1
+Project Nimbus,2012.0,2,1
+Not The Robots,2014.0,2,1
+Rebuild 3: Gangs of Deadsville,2014.0,2,1
+Rebuild 3: Gangs of Deadsville,2015.0,2,1
+South Park™: The Stick of Truth™ - Ultimate Fellowship Pack,2015.0,1,1
+Fuse,2013.0,2,1
+Fuse,2015.0,4,2
+The Talos Principle,2014.0,2,1
+The Talos Principle,2015.0,23,12
+Max Gentlemen,2014.0,13,8
+Max Gentlemen,2015.0,2,1
+Infinity Wars: Animated Trading Card Game,2014.0,10,5
+Bloody Trapland,2013.0,4,2
+Bloody Trapland,2014.0,8,4
+Bloody Trapland,2015.0,6,3
+Violett Remastered,2015.0,1,1
+Hyper Light Drifter,2014.0,8,4
+Hyper Light Drifter,2015.0,1,1
+Loren The Amazon Princess,2014.0,2,1
+Ring Runner: Flight of the Sages,2015.0,2,1
+Survivor Squad,2014.0,2,1
+99 Spirits,2014.0,1,1
+Deus Ex: The Fall,2014.0,6,3
+Talisman: Prologue,2013.0,2,1
+The Vanishing of Ethan Carter,2014.0,6,3
+The Vanishing of Ethan Carter,2015.0,4,2
+Adventure Time: Finn and Jake's Epic Quest,2014.0,2,1
+Scania Truck Driving Simulator,2014.0,1,1
+Professional Farmer 2014,2014.0,1,1
+Gauntlet™ Slayer Edition,2014.0,11,6
+Dominions 4: Thrones of Ascension,2015.0,2,1
+Just Cause 2: Multiplayer Mod,2013.0,60,34
+Just Cause 2: Multiplayer Mod,2014.0,41,24
+Just Cause 2: Multiplayer Mod,2015.0,26,15
+PAYDAY 2: Gage Sniper Pack,2015.0,2,1
+PAYDAY 2: Gage Mod Courier,2014.0,2,1
+Ballpoint Universe - Infinite,2013.0,2,1
+Ballpoint Universe - Infinite,2014.0,2,1
+Sneaky Sneaky,2015.0,1,1
+Drifter,2015.0,2,1
+Savant - Ascent,2013.0,4,2
+Savant - Ascent,2014.0,4,2
+Savant - Ascent,2015.0,5,3
+Hero of the Kingdom,2014.0,2,1
+Finding Teddy,2014.0,3,2
+3079 -- Block Action RPG,2014.0,4,2
+Tales of Maj'Eyal,2014.0,5,3
+Tales of Maj'Eyal,2015.0,2,1
+Dead Sky,2013.0,2,1
+Fading Hearts,2014.0,4,2
+Fading Hearts,2015.0,2,1
+Nightmares from the Deep: The Cursed Heart,2014.0,3,2
+Nimble Quest,2014.0,2,1
+Total War: ROME II - Blood &amp; Gore,2014.0,2,1
+Total War: ROME II - Blood &amp; Gore,2015.0,2,1
+Agarest: Generations of War Zero,2015.0,2,1
+The Last Tinker™: City of Colors,2014.0,4,2
+Assassin’s Creed® Liberation HD,2014.0,3,2
+Valiant Hearts: The Great War™ / Soldats Inconnus : Mémoires de la Grande Guerre™,2013.0,2,1
+Valiant Hearts: The Great War™ / Soldats Inconnus : Mémoires de la Grande Guerre™,2014.0,22,12
+Valiant Hearts: The Great War™ / Soldats Inconnus : Mémoires de la Grande Guerre™,2015.0,16,8
+Get Off My Lawn!,2014.0,1,1
+The Four Kings Casino and Slots,2015.0,1,1
+The Walking Dead: Season 2,2013.0,38,24
+The Walking Dead: Season 2,2014.0,99,54
+The Walking Dead: Season 2,2015.0,20,13
+Killer is Dead - Nightmare Edition,2014.0,2,1
+Killer is Dead - Nightmare Edition,2015.0,4,2
+Lethal League,2013.0,2,1
+Lethal League,2014.0,19,11
+Lethal League,2015.0,15,9
+Tesla Effect: A Tex Murphy Adventure,2015.0,2,1
+Lifeless Planet Premier Edition,2014.0,2,1
+Ori and the Blind Forest,2013.0,2,1
+Ori and the Blind Forest,2014.0,4,2
+Ori and the Blind Forest,2015.0,53,28
+Borderlands: The Pre-Sequel,2014.0,50,28
+Borderlands: The Pre-Sequel,2015.0,54,32
+Eryi's Action,2013.0,2,1
+Eryi's Action,2014.0,7,4
+Lichdom: Battlemage,2014.0,12,6
+Estranged: Act I,2014.0,39,22
+Estranged: Act I,2015.0,7,4
+Corporate Lifestyle Simulator,2014.0,2,1
+Catzilla 4K - Advanced,2014.0,1,1
+Half-Life: Before,2013.0,6,3
+Half-Life: Before,2015.0,2,1
+Darkest Dungeon®,2013.0,2,1
+Darkest Dungeon®,2014.0,3,2
+Darkest Dungeon®,2015.0,24,13
+Toy Soldiers: Complete,2014.0,4,2
+Jets'n'Guns Gold,2014.0,2,1
+Dungeons 2,2015.0,1,1
+World of Guns: Gun Disassembly,2014.0,37,20
+World of Guns: Gun Disassembly,2015.0,12,6
+Manga Maker Comipo,2015.0,2,1
+Gunman Clive,2014.0,3,2
+Gunman Clive,2015.0,4,2
+GoD Factory: Wingmen,2015.0,2,1
+Crimsonland,2015.0,2,1
+The Journey Down: Chapter Two,2015.0,1,1
+Smooth Operators,2015.0,4,2
+Broken Sword 5 - the Serpent's Curse,2013.0,2,1
+STARWHAL,2014.0,8,4
+Blockstorm,2013.0,2,1
+Blockstorm,2014.0,9,6
+Blockstorm,2015.0,11,6
+9.03m,2013.0,1,1
+9.03m,2014.0,1,1
+9.03m,2015.0,2,1
+Squirt's Adventure,2014.0,1,1
+Signs of Life,2014.0,2,1
+SPINTIRES™,2013.0,2,1
+SPINTIRES™,2014.0,38,20
+SPINTIRES™,2015.0,18,10
+BlazBlue: Calamity Trigger,2014.0,10,6
+BlazBlue: Calamity Trigger,2015.0,2,1
+Saturday Morning RPG,2014.0,4,2
+Saturday Morning RPG,2015.0,2,1
+Continue?9876543210,2014.0,2,1
+3089 -- Futuristic Action RPG,2014.0,5,3
+3089 -- Futuristic Action RPG,2015.0,1,1
+Driftmoon,2014.0,2,1
+War of the Human Tanks,2014.0,3,2
+War of the Human Tanks,2015.0,2,1
+Probably Archery,2014.0,1,1
+Final Rush,2014.0,2,1
+Dragons and Titans,2014.0,6,4
+Villagers and Heroes,2014.0,9,5
+Paper Sorcerer,2014.0,2,1
+Unearthed: Trail of Ibn Battuta - Episode 1 - Gold Edition,2014.0,6,3
+FootLOL: Epic Fail League,2014.0,4,2
+FootLOL: Epic Fail League,2015.0,2,1
+Turbo Dismount™,2014.0,32,17
+Turbo Dismount™,2015.0,5,3
+Wyv and Keep: The Temple of the Lost Idol,2014.0,2,1
+Out There Somewhere,2013.0,2,1
+Out There Somewhere,2015.0,10,6
+Victory: The Age of Racing,2014.0,4,2
+Victory: The Age of Racing,2015.0,2,1
+Pixel Piracy,2013.0,8,4
+Pixel Piracy,2014.0,27,16
+Pixel Piracy,2015.0,5,3
+One Finger Death Punch,2013.0,2,1
+One Finger Death Punch,2014.0,41,23
+One Finger Death Punch,2015.0,32,18
+CONSORTIUM,2014.0,2,1
+CONSORTIUM,2015.0,2,2
+Narcissu 1st &amp; 2nd,2014.0,15,8
+Narcissu 1st &amp; 2nd,2015.0,7,5
+PAYDAY 2: Armored Transport,2015.0,2,1
+FORCED SHOWDOWN,2014.0,2,1
+Meridian: New World,2014.0,2,1
+Lords Of The Fallen™,2014.0,2,1
+Lords Of The Fallen™,2015.0,4,2
+Gomo,2014.0,2,1
+Dead Rising 3 Apocalypse Edition,2014.0,19,10
+Dead Rising 3 Apocalypse Edition,2015.0,2,1
+Epic Battle Fantasy 4,2014.0,9,5
+Epic Battle Fantasy 4,2015.0,6,3
+Fistful of Frags,2013.0,1,1
+Fistful of Frags,2014.0,114,70
+Fistful of Frags,2015.0,62,39
+NaissanceE,2014.0,2,1
+Secret Ponchos,2014.0,4,2
+Secret Ponchos,2015.0,4,2
+The Sandbox,2014.0,2,2
+Hexcells,2014.0,2,1
+Hexcells,2015.0,6,3
+Goat Simulator,2013.0,2,1
+Goat Simulator,2014.0,311,179
+Goat Simulator,2015.0,59,37
+LYNE,2014.0,14,7
+LYNE,2015.0,15,9
+City of Steam: Arkadia,2014.0,5,3
+Tower of Guns,2014.0,2,1
+Tower of Guns,2015.0,6,3
+Breach &amp; Clear,2014.0,4,2
+Breach &amp; Clear,2015.0,4,2
+One Way Heroics,2014.0,4,2
+One Way Heroics,2015.0,4,2
+Farm for your Life,2014.0,2,1
+Farm for your Life,2015.0,2,1
+Anarchy Arcade,2013.0,1,1
+Anarchy Arcade,2014.0,10,6
+Anarchy Arcade,2015.0,10,5
+Lili: Child of Geos - Complete Edition,2014.0,2,1
+Hand of Fate,2013.0,2,1
+Hand of Fate,2014.0,6,3
+Hand of Fate,2015.0,10,5
+AGFPPROV3 Premium,2015.0,2,1
+Star Swarm Stress Test,2014.0,4,2
+PAYDAY 2: Gage Weapon Pack #01,2015.0,2,1
+PAYDAY 2: A Merry Payday Christmas Soundtrack,2015.0,2,1
+The LEGO® Movie - Videogame,2014.0,2,1
+The LEGO® Movie - Videogame,2015.0,9,5
+Airport Simulator 2014,2014.0,2,1
+Airport Simulator 2014,2015.0,2,1
+The Evil Within,2014.0,2,1
+The Evil Within,2015.0,1,1
+Starbound - Soundtrack,2015.0,2,1
+Let's Sing,2014.0,2,1
+Grapple,2015.0,2,1
+Panzer Corps,2015.0,2,1
+Aura Kingdom,2014.0,23,13
+Aura Kingdom,2015.0,17,9
+XCOM® 2,2012.0,4,2
+XCOM® 2,2013.0,4,2
+XCOM® 2,2014.0,22,12
+XCOM® 2,2015.0,21,11
+From the Depths,2014.0,2,1
+From the Depths,2015.0,10,6
+Magicite,2014.0,51,27
+Magicite,2015.0,16,8
+EVGA Precision XOC,2015.0,2,1
+Satellite Reign,2014.0,2,1
+You Are Not The Hero,2015.0,2,1
+The Yawhg,2014.0,3,2
+Year Walk,2014.0,4,2
+Year Walk,2015.0,5,3
+Hero Siege,2013.0,1,1
+Hero Siege,2014.0,12,6
+Hero Siege,2015.0,12,7
+WORLD END ECONOMiCA episode.01,2015.0,3,2
+LOVE,2014.0,5,3
+LOVE,2015.0,2,1
+liteCam Game: 100 FPS Game Capture,2014.0,1,1
+liteCam Game: 100 FPS Game Capture,2015.0,2,1
+Infectonator: Survivors,2014.0,4,2
+Chronology,2015.0,1,1
+Bardbarian,2015.0,4,2
+GTGD S1: More Than a Gamer,2015.0,2,1
+Secrets of Grindea,2013.0,2,1
+Secrets of Grindea,2014.0,2,1
+Secrets of Grindea,2015.0,4,2
+DreadOut,2015.0,2,1
+//N.P.P.D. RUSH//- The milk of Ultraviolet,2015.0,2,1
+RUNNING WITH RIFLES,2015.0,4,3
+Depression Quest,2014.0,12,7
+Depression Quest,2015.0,2,1
+Melody's Escape,2014.0,12,6
+Melody's Escape,2015.0,4,2
+Lambda Wars Beta,2013.0,2,1
+Lambda Wars Beta,2014.0,5,3
+Lambda Wars Beta,2015.0,4,2
+Robot Roller-Derby Disco Dodgeball,2014.0,6,3
+Robot Roller-Derby Disco Dodgeball,2015.0,10,5
+The Forest of Doom,2015.0,4,2
+EPOCH,2014.0,2,1
+Yet Another Zombie Defense,2012.0,2,1
+Yet Another Zombie Defense,2013.0,6,3
+Yet Another Zombie Defense,2014.0,48,25
+Yet Another Zombie Defense,2015.0,30,16
+Reversion - The Escape (1st Chapter),2014.0,4,2
+Haunt the House: Terrortown,2014.0,1,1
+Haunt the House: Terrortown,2015.0,2,1
+American Truck Simulator,2012.0,2,1
+American Truck Simulator,2013.0,6,3
+American Truck Simulator,2014.0,10,6
+American Truck Simulator,2015.0,11,6
+Axis Game Factory's AGFPRO Zombie FPS Player DLC,2015.0,2,1
+Axis Game Factory's AGFPRO Fantasy Side-Scroller Player,2015.0,2,1
+Axis Game Factory's AGFPRO BattleMat Multi-Player DLC,2015.0,2,1
+Offworld Trading Company,2014.0,2,1
+Offworld Trading Company,2015.0,6,3
+Industry Giant 2,2015.0,2,1
+Sniper Art of Victory,2014.0,3,2
+Loadout Steam Launch Starter Pack,2014.0,1,1
+Space Farmers,2014.0,3,2
+Grand Theft Auto V,2011.0,2,1
+Grand Theft Auto V,2013.0,13,9
+Grand Theft Auto V,2014.0,30,19
+Grand Theft Auto V,2015.0,344,203
+Super Killer Hornet: Resurrection,2015.0,1,1
+Hexcells Plus,2014.0,2,1
+Hexcells Plus,2015.0,2,1
+DARK SOULS™ II Crown of the Ivory King,2014.0,1,1
+Serena,2014.0,9,5
+Serena,2015.0,2,1
+NARUTO SHIPPUDEN: Ultimate Ninja STORM Revolution,2014.0,10,6
+NARUTO SHIPPUDEN: Ultimate Ninja STORM Revolution,2015.0,8,4
+Detective Grimoire,2013.0,2,1
+Detective Grimoire,2014.0,2,1
+Detective Grimoire,2015.0,2,1
+Vertiginous Golf,2014.0,2,1
+Vertiginous Golf,2015.0,5,3
+The Last Federation,2015.0,1,1
+Counter-Strike Nexon: Zombies,2014.0,22,12
+Counter-Strike Nexon: Zombies,2015.0,21,12
+Outlast: Whistleblower DLC,2014.0,2,1
+Evolve Stage 2,2011.0,3,2
+Evolve Stage 2,2013.0,6,3
+Evolve Stage 2,2014.0,50,29
+Evolve Stage 2,2015.0,58,33
+Over 9000 Zombies!,2014.0,2,1
+Stock Car Extreme,2015.0,1,1
+Hotline Miami 2: Wrong Number,2014.0,7,4
+Hotline Miami 2: Wrong Number,2015.0,18,12
+Broforce,2013.0,1,1
+Broforce,2014.0,62,36
+Broforce,2015.0,51,31
+RONIN,2015.0,2,1
+OlliOlli,2014.0,3,2
+NOT A HERO,2015.0,2,1
+Gods Will Be Watching,2013.0,1,1
+Gods Will Be Watching,2014.0,3,2
+Gods Will Be Watching,2015.0,1,1
+Always Sometimes Monsters,2014.0,10,5
+Dropsy,2015.0,2,1
+Brigador: Up-Armored Edition,2014.0,2,1
+Brigador: Up-Armored Edition,2015.0,2,1
+Murder Miners,2014.0,6,3
+Murder Miners,2015.0,14,7
+FaceRig,2013.0,2,1
+FaceRig,2014.0,13,7
+FaceRig,2015.0,3,2
+Depth,2013.0,4,2
+Depth,2014.0,24,12
+Depth,2015.0,57,35
+Influent,2014.0,6,3
+Shelter 2,2015.0,2,1
+Costume Quest 2,2014.0,2,1
+Westerado: Double Barreled,2015.0,8,4
+Guacamelee! Super Turbo Championship Edition,2015.0,2,1
+Canyon Capers,2014.0,3,2
+Z Steel Soldiers,2015.0,2,1
+Z,2014.0,4,2
+PAYDAY 2: Gage Weapon Pack #02,2015.0,2,1
+"Warhammer 40,000: Kill Team",2014.0,2,1
+Space Run,2014.0,2,1
+Handsome Jack Doppelganger Pack,2015.0,2,1
+Arma 3 Zeus,2015.0,2,1
+No Man's Sky,2012.0,2,1
+No Man's Sky,2013.0,11,6
+No Man's Sky,2014.0,30,17
+No Man's Sky,2015.0,38,20
+My Riding Stables: Life with Horses,2014.0,2,1
+My Riding Stables: Life with Horses,2015.0,2,1
+Mordheim: City of the Damned,2014.0,4,2
+Mordheim: City of the Damned,2015.0,2,1
+VIDEOBALL,2015.0,1,1
+Halo: Spartan Assault,2014.0,26,13
+Halo: Spartan Assault,2015.0,7,4
+Imperial Glory,2015.0,2,1
+Praetorians,2014.0,2,1
+Albedo: Eyes from Outer Space,2015.0,2,1
+Assassin's Creed Freedom Cry,2015.0,4,2
+TUG,2014.0,1,1
+TUG,2015.0,2,1
+DYNASTY WARRIORS 8: Xtreme Legends Complete Edition / 真・三國無双７ with 猛将伝,2014.0,5,3
+DYNASTY WARRIORS 8: Xtreme Legends Complete Edition / 真・三國無双７ with 猛将伝,2015.0,4,2
+A Story About My Uncle,2012.0,2,1
+A Story About My Uncle,2013.0,2,1
+A Story About My Uncle,2014.0,7,4
+A Story About My Uncle,2015.0,13,7
+0RBITALIS,2014.0,2,1
+Skyborn,2014.0,2,1
+TinyKeep,2014.0,4,2
+Interplanetary,2014.0,6,3
+Digger Online,2015.0,1,1
+Ultionus: A Tale of Petty Revenge,2014.0,2,1
+Gardens Inc. – From Rakes to Riches,2014.0,2,1
+The I of the Dragon,2015.0,2,1
+Gunjitsu,2015.0,2,1
+A Wizard's Lizard,2015.0,2,1
+Hover,2014.0,2,1
+Hover,2015.0,4,2
+Creeper World 3: Arc Eternal,2014.0,2,1
+Creeper World 3: Arc Eternal,2015.0,2,1
+Crea,2014.0,2,1
+BloodLust Shadowhunter,2015.0,2,1
+Aperture Tag: The Paint Gun Testing Initiative,2014.0,8,4
+Aperture Tag: The Paint Gun Testing Initiative,2015.0,6,3
+T.E.C. 3001,2014.0,1,1
+Battlepillars Gold Edition,2014.0,3,2
+Vanguard Princess Director's Cut,2014.0,2,1
+Real Horror Stories Ultimate Edition,2014.0,2,2
+Real Horror Stories Ultimate Edition,2015.0,2,1
+Homeworld: Deserts of Kharak,2013.0,2,1
+Explodemon,2014.0,2,1
+Stellaris,2013.0,2,1
+Stellaris,2014.0,8,4
+Stellaris,2015.0,11,6
+Carmageddon Max Pack,2014.0,1,1
+MX vs. ATV Supercross Encore,2015.0,2,1
+This War of Mine,2013.0,2,1
+This War of Mine,2014.0,15,8
+This War of Mine,2015.0,34,20
+SOMA,2015.0,11,6
+SuperPower 2 Steam Edition,2015.0,2,1
+Quake Live™,2012.0,2,1
+Quake Live™,2014.0,30,18
+Quake Live™,2015.0,16,9
+Don't Starve: Reign of Giants,2014.0,6,3
+RollerCoaster Tycoon World™,2014.0,2,1
+EasyAntiCheat eSports,2015.0,6,3
+Organic Panic,2014.0,2,1
+Circuits,2014.0,2,1
+Stick 'Em Up 2: Paper Adventures,2015.0,2,1
+100% Orange Juice,2014.0,7,4
+100% Orange Juice,2015.0,6,4
+Hyperdimension Neptunia Re;Birth1 / 超次次元ゲイム ネプテューヌRe;Birth1 / 超次次元遊戲戰機少女重生1,2014.0,3,2
+Hyperdimension Neptunia Re;Birth1 / 超次次元ゲイム ネプテューヌRe;Birth1 / 超次次元遊戲戰機少女重生1,2015.0,46,25
+Super Chibi Knight,2015.0,2,1
+Spoiler Alert,2014.0,2,1
+Spoiler Alert,2015.0,2,1
+Nosferatu: The Wrath of Malachi,2014.0,1,1
+Nosferatu: The Wrath of Malachi,2015.0,2,1
+Litil Divil,2015.0,2,1
+Salt and Sanctuary,2013.0,2,1
+Salt and Sanctuary,2014.0,2,1
+Rabbit Hole 3D: Steam Edition,2014.0,1,1
+Astebreed: Definitive Edition,2014.0,2,1
+Heroine's Quest: The Herald of Ragnarok,2014.0,4,2
+Freddi Fish and The Case of the Missing Kelp Seeds,2014.0,3,2
+Pajama Sam: No Need to Hide When It's Dark Outside,2014.0,1,1
+Pajama Sam: No Need to Hide When It's Dark Outside,2015.0,2,1
+"Spy Fox in ""Dry Cereal""",2014.0,2,1
+"Spy Fox in ""Dry Cereal""",2015.0,1,1
+Majestic Nights,2015.0,2,1
+BeamNG.drive,2014.0,6,3
+BeamNG.drive,2015.0,12,7
+The Last Door - Collector's Edition,2015.0,2,1
+DeadCore,2014.0,2,1
+DeadCore,2015.0,4,2
+Pixel Puzzles: Japan,2015.0,2,1
+Showtime!,2015.0,2,1
+LEGO® The Hobbit™,2014.0,2,1
+LEGO® The Hobbit™,2015.0,2,1
+RollerCoaster Tycoon®: Deluxe,2014.0,2,1
+RollerCoaster Tycoon®: Deluxe,2015.0,2,1
+RollerCoaster Tycoon® 2: Triple Thrill Pack,2014.0,2,1
+Crimzon Clover WORLD IGNITION,2014.0,1,1
+Hard Truck Apocalypse / Ex Machina,2015.0,1,1
+ACE - Arena: Cyber Evolution,2014.0,4,2
+Kitty Powers' Matchmaker,2015.0,2,1
+Action Henk,2015.0,2,1
+Gang Beasts,2012.0,2,1
+Gang Beasts,2013.0,2,1
+Gang Beasts,2014.0,10,6
+Gang Beasts,2015.0,19,11
+TerraTech,2015.0,13,7
+Dead Effect,2014.0,2,1
+Dead Effect,2015.0,2,1
+Thinking with Time Machine,2014.0,28,16
+Thinking with Time Machine,2015.0,5,3
+You Have to Win the Game,2014.0,22,12
+You Have to Win the Game,2015.0,10,5
+ReignMaker,2014.0,2,1
+fault - milestone one,2015.0,2,1
+FarSky,2014.0,14,8
+FarSky,2015.0,2,1
+Shadows on the Vatican Act I: Greed,2015.0,2,1
+"House of 1,000 Doors: Family Secrets Collector's Edition",2014.0,2,1
+"House of 1,000 Doors: Family Secrets Collector's Edition",2015.0,2,1
+F1 2015,2015.0,4,2
+Avoid - Sensory Overload,2015.0,2,1
+Metro 2033 Redux,2014.0,4,2
+Metro 2033 Redux,2015.0,9,5
+S.K.I.L.L. - Special Force 2 (Shooter),2014.0,1,1
+Influent DLC - 한국어 [Learn Korean],2013.0,2,1
+Ionball 2: Ionstorm,2015.0,2,1
+Resident Evil Revelations 2 / Biohazard Revelations 2,2013.0,2,1
+Resident Evil Revelations 2 / Biohazard Revelations 2,2015.0,8,5
+Colin McRae Rally,2015.0,2,1
+Metro: Last Light Redux,2011.0,2,1
+Metro: Last Light Redux,2014.0,7,4
+Metro: Last Light Redux,2015.0,25,15
+Rise of Nations: Extended Edition,2014.0,22,12
+Rise of Nations: Extended Edition,2015.0,7,4
+Pandora: First Contact,2015.0,2,1
+METAL GEAR SOLID V: THE PHANTOM PAIN,2013.0,4,2
+METAL GEAR SOLID V: THE PHANTOM PAIN,2014.0,10,6
+METAL GEAR SOLID V: THE PHANTOM PAIN,2015.0,70,44
+TY the Tasmanian Tiger 4,2014.0,2,1
+TY the Tasmanian Tiger 4,2015.0,2,1
+Mortal Online,2015.0,6,3
+Mini Metro,2014.0,8,4
+Mini Metro,2015.0,19,10
+The Room,2015.0,5,3
+Super Game Jam,2014.0,2,1
+Strike Suit Zero: Director's Cut,2014.0,2,1
+Fable Anniversary,2014.0,14,7
+Fable Anniversary,2015.0,5,3
+Ampu-Tea,2015.0,1,1
+Endless Legend™,2014.0,18,10
+Endless Legend™,2015.0,14,9
+RC Cars,2014.0,2,1
+Marauder,2014.0,2,1
+Assassin's Creed® Unity,2013.0,2,1
+Assassin's Creed® Unity,2014.0,26,13
+Assassin's Creed® Unity,2015.0,7,4
+LARA CROFT AND THE TEMPLE OF OSIRIS™,2014.0,2,1
+ROCKETSROCKETSROCKETS,2013.0,2,1
+ROCKETSROCKETSROCKETS,2014.0,6,3
+ROCKETSROCKETSROCKETS,2015.0,2,1
+TransOcean: The Shipping Company,2014.0,2,1
+TransOcean: The Shipping Company,2015.0,2,1
+DubWars,2014.0,2,1
+LogicBots,2014.0,2,1
+Life is Feudal: Your Own,2011.0,2,1
+Life is Feudal: Your Own,2014.0,21,11
+Life is Feudal: Your Own,2015.0,8,4
+Echo of Soul,2015.0,8,4
+Volt,2014.0,2,1
+Rebel Galaxy,2013.0,2,1
+Rebel Galaxy,2014.0,2,1
+Rebel Galaxy,2015.0,1,1
+Armello,2014.0,2,1
+Armello,2015.0,8,4
+The Flock,2015.0,1,1
+Clandestine,2014.0,2,1
+My Lands: Black Gem Hunting,2014.0,2,1
+My Lands: Black Gem Hunting,2015.0,1,1
+The Fall,2014.0,4,2
+The Fall,2015.0,6,3
+Grey Goo,2014.0,2,1
+Grey Goo,2015.0,6,3
+You Must Build A Boat,2015.0,3,2
+Half-Life 2: Update,2012.0,1,1
+Half-Life 2: Update,2015.0,5,3
+Flower Shop: Summer In Fairbrook,2014.0,2,1
+The Hat Man: Shadow Ward,2015.0,3,2
+Jumpdrive,2015.0,2,1
+Undead Overlord,2015.0,2,1
+Duelyst,2013.0,2,1
+Duelyst,2014.0,2,1
+Duelyst,2015.0,4,2
+Warface,2013.0,4,2
+Warface,2014.0,34,18
+Warface,2015.0,32,19
+Brawlhalla,2012.0,1,1
+Brawlhalla,2013.0,7,4
+Brawlhalla,2014.0,31,17
+Brawlhalla,2015.0,79,43
+Pillars of Eternity,2014.0,2,1
+Pillars of Eternity,2015.0,6,4
+Firefighters 2014,2014.0,2,1
+FINAL FANTASY® XIII,2014.0,8,5
+FINAL FANTASY® XIII,2015.0,5,3
+FINAL FANTASY® XIII-2,2014.0,2,1
+FINAL FANTASY® XIII-2,2015.0,4,2
+X-Plane 10 Global - 64 Bit,2014.0,2,1
+"Spy Fox 2 ""Some Assembly Required""",2014.0,4,2
+Racer 8,2015.0,1,1
+Realms of the Haunting,2013.0,2,1
+Duet,2014.0,2,1
+Uriel's Chasm,2013.0,1,1
+Uriel's Chasm,2015.0,3,2
+Pajama Sam 2: Thunder and Lightning Aren't So Frightening,2014.0,2,1
+Overcast - Walden and the Werewolf,2015.0,2,1
+Cosmochoria,2014.0,2,1
+Cosmochoria,2015.0,2,1
+Card Hunter,2013.0,2,1
+Card Hunter,2014.0,2,1
+Card Hunter,2015.0,10,6
+Coma: Mortuary,2014.0,2,1
+Coma: Mortuary,2015.0,1,1
+Amazing World™,2014.0,7,4
+Amazing World™,2015.0,3,2
+Guns and Robots,2014.0,2,1
+Road Not Taken,2014.0,1,1
+Automation - The Car Company Tycoon Game,2015.0,6,3
+Crawl,2014.0,6,3
+Crawl,2015.0,2,1
+White Noise Online,2014.0,2,1
+Pivvot,2014.0,4,2
+Spirited Heart Deluxe,2014.0,2,1
+RimWorld,2013.0,4,2
+RimWorld,2014.0,8,4
+RimWorld,2015.0,12,6
+They Breathe,2014.0,2,1
+Galcon 2: Galactic Conquest,2014.0,3,2
+Galcon 2: Galactic Conquest,2015.0,3,2
+Millie,2015.0,1,1
+Freddi Fish 3: The Case of the Stolen Conch Shell,2014.0,2,1
+Freddi Fish 5: The Case of the Creature of Coral Cove,2015.0,2,1
+Putt-Putt® Goes to the Moon,2015.0,2,1
+Putt-Putt® Travels Through Time,2014.0,2,1
+Valkyria Chronicles™,2014.0,14,8
+Valkyria Chronicles™,2015.0,13,7
+Call of Duty®: Ghosts - Squad Pack - Resistance,2014.0,2,1
+Schrödinger’s Cat And The Raiders Of The Lost Quark,2015.0,2,1
+Royal Quest,2014.0,8,4
+Royal Quest,2015.0,2,1
+PARTICLE MACE,2015.0,3,2
+Darkwind: War on Wheels,2015.0,2,1
+Sweezy Gunner,2014.0,2,1
+Rogue Shooter: The FPS Roguelike,2014.0,2,1
+Battlepaths,2014.0,2,1
+The Promised Land,2014.0,4,2
+Ballistic Overkill,2011.0,2,1
+Mount Your Friends,2012.0,2,1
+Mount Your Friends,2014.0,12,7
+Mount Your Friends,2015.0,17,11
+GemCraft - Chasing Shadows,2014.0,2,1
+GemCraft - Chasing Shadows,2015.0,4,2
+Lords of Xulima,2015.0,2,1
+The Great Jitters: Pudding Panic,2014.0,2,1
+Real Boxing™,2015.0,2,1
+8BitBoy™,2015.0,2,1
+Renowned Explorers: International Society,2014.0,2,1
+Renowned Explorers: International Society,2015.0,2,1
+Cosmic DJ,2014.0,3,2
+Heavy Bullets,2014.0,2,1
+Titan Souls,2014.0,2,1
+Titan Souls,2015.0,2,1
+Famaze,2015.0,1,1
+Arcadecraft,2015.0,2,1
+The Old City: Leviathan,2014.0,2,1
+The Old City: Leviathan,2015.0,2,1
+Spy Chameleon - RGB Agent,2014.0,2,1
+Spy Chameleon - RGB Agent,2015.0,3,2
+CoH 2 - US Forces Commander: Rifle Company,2015.0,2,1
+Monsters Ate My Birthday Cake,2013.0,2,1
+Total Annihilation,2012.0,2,1
+Total Annihilation,2015.0,4,2
+Master of Orion,2013.0,2,1
+Master of Orion,2015.0,2,1
+Far Cry® 4,2014.0,18,11
+Far Cry® 4,2015.0,20,11
+Eldevin,2014.0,8,4
+Eldevin,2015.0,2,1
+The Desolate Hope,2015.0,2,1
+Red Crucible®: Firestorm,2015.0,17,9
+Only If,2014.0,12,7
+Only If,2015.0,4,2
+FLASHOUT 2,2014.0,2,1
+Victory At Sea,2015.0,2,1
+Orbital Gear,2014.0,2,1
+Orbital Gear,2015.0,10,5
+Lovely Planet,2013.0,2,1
+Lovely Planet,2014.0,7,4
+The Escapists,2013.0,1,1
+The Escapists,2014.0,16,8
+The Escapists,2015.0,52,31
+European Ship Simulator,2015.0,2,1
+Commando Jack,2015.0,2,1
+Block N Load,2014.0,13,8
+Block N Load,2015.0,29,16
+Woodle Tree Adventures,2015.0,8,5
+Heroes Rise: The Prodigy,2014.0,2,1
+Heroes Rise: The Prodigy,2015.0,2,1
+6180 the moon,2014.0,4,2
+Tengami,2015.0,2,1
+Terrorhedron Tower Defense,2015.0,1,1
+Miscreated,2014.0,6,3
+Miscreated,2015.0,12,6
+Noir Syndrome,2014.0,2,1
+Divine Souls F2P MMO,2014.0,4,2
+Total War Battles: KINGDOM,2015.0,6,3
+Victim of Xen,2015.0,3,2
+Ichi,2015.0,1,1
+Lemma,2015.0,1,1
+Road Redemption,2014.0,10,5
+Road Redemption,2015.0,5,3
+Unpossible,2015.0,2,1
+Shadowrun: Dragonfall - Director's Cut,2015.0,6,3
+Infinifactory,2015.0,6,3
+Epsilon,2014.0,2,1
+Hippocampal: The White Sofa,2014.0,1,1
+Fiesta Online NA,2014.0,1,1
+Frederic: Evil Strikes Back,2014.0,2,1
+Electronic Super Joy: Groove City,2015.0,2,1
+Robocraft,2012.0,4,2
+Robocraft,2013.0,7,4
+Robocraft,2014.0,228,125
+Robocraft,2015.0,177,98
+Zombie Army Trilogy,2015.0,15,8
+RADical ROACH Remastered,2015.0,5,3
+Disney•Pixar Cars 2: The Video Game,2014.0,1,1
+Submerged,2015.0,2,1
+Saints Row: Gat out of Hell,2014.0,2,1
+Saints Row: Gat out of Hell,2015.0,18,9
+Screencheat,2014.0,10,5
+Screencheat,2015.0,1,1
+The Blue Flamingo,2014.0,2,1
+Bus Driver,2014.0,2,1
+Bus Driver,2015.0,2,1
+Dungeon Defenders Eternity,2014.0,5,3
+Dungeon Defenders Eternity,2015.0,2,1
+Floating Point,2014.0,17,9
+Floating Point,2015.0,6,4
+Ryse: Son of Rome,2014.0,4,2
+Ryse: Son of Rome,2015.0,13,7
+Of Guards And Thieves,2015.0,2,1
+Call to Arms,2014.0,2,1
+Call to Arms,2015.0,8,4
+BLOCKADE 3D,2014.0,4,3
+BLOCKADE 3D,2015.0,49,27
+Radiant Defense,2014.0,2,1
+The Beginner's Guide,2014.0,5,3
+The Beginner's Guide,2015.0,58,32
+Dead Bits,2014.0,8,5
+Dead Bits,2015.0,11,6
+The Witcher Adventure Game,2015.0,2,1
+ArcheAge,2014.0,10,5
+ArcheAge,2015.0,10,5
+Trove,2012.0,1,1
+Trove,2013.0,6,3
+Trove,2014.0,20,11
+Trove,2015.0,163,93
+Euro Truck Simulator 2 - Scandinavia,2014.0,2,1
+Resident Evil / biohazard HD REMASTER,2013.0,2,1
+Resident Evil / biohazard HD REMASTER,2015.0,7,4
+Wildlife Park 2,2015.0,1,1
+Hexcells Infinite,2015.0,6,3
+SUNLESS SEA,2014.0,6,3
+SUNLESS SEA,2015.0,2,1
+Aeon Command,2014.0,2,1
+Aeon Command,2015.0,2,1
+Train Fever,2014.0,2,1
+Train Fever,2015.0,5,3
+Sky Gamblers: Storm Raiders,2015.0,2,1
+Unturned,2012.0,4,2
+Unturned,2013.0,18,11
+Unturned,2014.0,919,530
+Unturned,2015.0,485,285
+Castaway Paradise - Town Building Sim,2015.0,2,1
+Outland,2014.0,2,1
+FIST OF AWESOME,2014.0,4,2
+Battle Islands,2014.0,8,5
+Battle Islands,2015.0,2,1
+Blue Estate The Game,2015.0,2,1
+The Long Dark,2013.0,2,1
+The Long Dark,2014.0,30,16
+The Long Dark,2015.0,32,18
+Bloons TD 5,2014.0,7,4
+Bloons TD 5,2015.0,10,6
+The Howler,2015.0,2,1
+The Elder Scrolls® Online: Tamriel Unlimited™,2012.0,1,1
+The Elder Scrolls® Online: Tamriel Unlimited™,2014.0,8,4
+The Elder Scrolls® Online: Tamriel Unlimited™,2015.0,37,19
+Unturned - Permanent Gold Upgrade,2013.0,5,3
+Unturned - Permanent Gold Upgrade,2014.0,5,3
+Unturned - Permanent Gold Upgrade,2015.0,17,9
+Runers,2014.0,2,1
+Ultimate General: Gettysburg,2014.0,2,1
+Ultimate General: Gettysburg,2015.0,2,1
+Fractured Soul,2015.0,2,1
+Memories of a Vagabond,2014.0,2,1
+Memories of a Vagabond,2015.0,3,2
+Asteria,2015.0,2,1
+Borealis,2015.0,1,1
+Velvet Sundown,2014.0,2,1
+Velvet Sundown,2015.0,3,2
+Platypus,2015.0,4,2
+Stick RPG 2: Director's Cut,2014.0,2,1
+Hard West,2015.0,4,2
+Sleeping Dogs: Definitive Edition,2013.0,2,1
+Sleeping Dogs: Definitive Edition,2015.0,13,7
+Mortal Kombat X,2012.0,1,1
+Mortal Kombat X,2014.0,1,1
+Mortal Kombat X,2015.0,24,13
+Savage Lands,2014.0,2,1
+Savage Lands,2015.0,12,6
+Wildlife Park 2 - Fantasy,2014.0,2,1
+Buzz Aldrin's Space Program Manager,2015.0,2,1
+Ziggurat,2014.0,10,5
+Ziggurat,2015.0,3,2
+Expansion - Europa Universalis IV: Art of War,2014.0,1,1
+The Nightmare Cooperative,2014.0,1,1
+Hatoful Boyfriend,2014.0,2,1
+Hatoful Boyfriend,2015.0,11,6
+Higurashi When They Cry Hou - Ch.1 Onikakushi,2015.0,1,1
+The Way of Life Free Edition,2014.0,3,2
+The Way of Life Free Edition,2015.0,39,21
+Fractured Space,2013.0,2,1
+Fractured Space,2014.0,6,4
+Fractured Space,2015.0,30,15
+Grand Ages: Medieval,2015.0,2,1
+Super Win the Game,2014.0,2,1
+NEON STRUCT,2015.0,2,1
+Geometry Wars™ 3: Dimensions Evolved,2015.0,4,2
+Breach &amp; Clear: Deadline Rebirth (2016),2015.0,2,1
+Street Fighter V,2015.0,5,3
+Super Panda Adventures,2015.0,1,1
+Call of Duty®: Black Ops III,2014.0,28,16
+Call of Duty®: Black Ops III,2015.0,100,56
+Naval Action,2013.0,2,1
+Naval Action,2014.0,1,1
+METAL GEAR SOLID V: GROUND ZEROES,2013.0,2,1
+METAL GEAR SOLID V: GROUND ZEROES,2014.0,18,9
+METAL GEAR SOLID V: GROUND ZEROES,2015.0,16,9
+OCEAN CITY RACING: Redux,2015.0,2,1
+Assassin’s Creed® Rogue,2014.0,2,1
+Assassin’s Creed® Rogue,2015.0,10,5
+Enter the Gungeon,2014.0,1,1
+Enter the Gungeon,2015.0,4,2
+DEAD OR ALIVE 5 Last Round: Core Fighters,2015.0,3,2
+Super Trench Attack!,2015.0,2,1
+Bird Assassin,2014.0,2,1
+Wild Warfare,2014.0,5,3
+Wild Warfare,2015.0,4,2
+The Fifth Day,2014.0,4,2
+Simply Chess,2015.0,5,3
+Duck Game,2013.0,2,2
+Duck Game,2014.0,2,1
+Duck Game,2015.0,19,11
+OTTTD,2014.0,2,1
+OTTTD,2015.0,4,2
+Khet 2.0,2014.0,1,1
+FINAL FANTASY IV,2014.0,2,1
+FINAL FANTASY IV,2015.0,2,1
+Way of the Samurai 4,2015.0,2,1
+Rugby League Live 3 Demo,2014.0,2,1
+Rugby League Live 3 Demo,2015.0,2,1
+The Expendabros,2014.0,42,24
+The Expendabros,2015.0,19,14
+Soul Gambler,2015.0,2,2
+The Masterplan,2015.0,2,1
+Stranded Deep,2015.0,85,47
+Farming Simulator 15,2014.0,19,11
+Farming Simulator 15,2015.0,12,6
+Mountain,2014.0,29,16
+Mountain,2015.0,23,13
+Middle-earth: Shadow of Mordor - The Dark Ranger Character Skin,2015.0,2,1
+Middle-earth: Shadow of Mordor - Test of Power,2015.0,2,1
+Middle-earth: Shadow of Mordor - Flame of Anor Rune,2014.0,2,1
+Boo Bunny Plague,2014.0,2,1
+LEGO® Batman™3: Beyond Gotham,2014.0,7,4
+LEGO® Batman™3: Beyond Gotham,2015.0,5,3
+Boid,2015.0,2,1
+Morphopolis,2015.0,3,2
+Double Dragon Trilogy,2015.0,1,1
+Microsoft Flight Simulator X: Steam Edition,2013.0,2,1
+Microsoft Flight Simulator X: Steam Edition,2014.0,9,5
+Microsoft Flight Simulator X: Steam Edition,2015.0,11,6
+Rodina,2014.0,2,1
+Rodina,2015.0,4,2
+RPG Tycoon,2014.0,2,1
+Rampage Knights,2013.0,1,1
+Rampage Knights,2015.0,2,1
+Euro Fishing,2015.0,2,1
+Oddworld: New 'n' Tasty,2015.0,5,3
+Age of Conquest IV,2014.0,2,1
+Supreme Ruler Ultimate,2014.0,2,1
+The Crew™ Season Pass,2014.0,2,1
+The Crew™ Season Pass,2015.0,2,1
+Polarity,2014.0,2,1
+Polarity,2015.0,9,5
+Ford Racing 3,2013.0,2,1
+Ford Racing 3,2015.0,3,2
+Trainz: A New Era,2015.0,2,1
+eden*,2015.0,4,2
+Celestian Tales: Old North,2015.0,2,1
+Magic Duels,2012.0,2,1
+Magic Duels,2013.0,4,2
+Magic Duels,2014.0,3,2
+Magic Duels,2015.0,27,14
+Disney Universe,2014.0,2,1
+sZone-Online,2010.0,2,1
+sZone-Online,2014.0,2,1
+sZone-Online,2015.0,4,2
+Battle of Empires : 1914-1918,2015.0,4,2
+planetarian ~the reverie of a little planet~,2015.0,8,4
+Grim Fandango Remastered,2013.0,2,1
+Grim Fandango Remastered,2015.0,7,4
+Kings of Kung Fu,2014.0,1,1
+The Original Strife: Veteran Edition,2015.0,2,1
+Republique,2015.0,2,1
+Double Action: Boogaloo,2012.0,1,1
+Double Action: Boogaloo,2014.0,30,19
+Double Action: Boogaloo,2015.0,35,21
+Portal Stories: Mel,2013.0,2,1
+Portal Stories: Mel,2014.0,6,3
+Portal Stories: Mel,2015.0,35,19
+Color Symphony,2014.0,4,2
+Quantum Rush Champions,2014.0,2,1
+Cubic Castles,2014.0,3,2
+Beyond Gravity,2015.0,2,1
+Space Hulk Ascension,2014.0,2,1
+Space Hulk Ascension,2015.0,2,1
+Call of Duty®: Advanced Warfare - Season Pass,2014.0,2,1
+Velocibox,2015.0,1,1
+Rexaura,2015.0,2,1
+Guild of Dungeoneering,2015.0,2,1
+Lovely Planet OST,2014.0,2,1
+Act of Aggression - Reboot Edition,2015.0,2,1
+AXYOS,2015.0,1,1
+Doom &amp; Destiny,2015.0,2,1
+Enforcer: Police Crime Action,2014.0,4,2
+Enforcer: Police Crime Action,2015.0,4,2
+Convoy,2015.0,4,2
+Middle-earth: Shadow of Mordor - The Bright Lord,2015.0,2,1
+Squishy the Suicidal Pig,2014.0,3,2
+Squishy the Suicidal Pig,2015.0,21,12
+Euro Truck Simulator 2 - Christmas Paint Jobs Pack,2014.0,2,1
+Wings of Vi,2014.0,5,3
+Wings of Vi,2015.0,7,4
+Middle-earth: Shadow of Mordor - GOTY Edition Upgrade,2014.0,1,1
+The Flame in the Flood,2014.0,2,1
+The Flame in the Flood,2015.0,2,1
+NARUTO SHIPPUDEN: Ultimate Ninja STORM Revolution - DLC10 Reanimation-Before Death Pack,2014.0,2,1
+Chaos Reborn,2014.0,2,1
+Chaos Reborn,2015.0,4,2
+Disney Princess: My Fairytale Adventure,2014.0,2,1
+Xeodrifter™,2015.0,2,1
+Magicmaker,2015.0,2,1
+Disney Winnie the Pooh,2014.0,2,1
+Chariot,2014.0,2,1
+Five Nights at Freddy's,2014.0,77,45
+Five Nights at Freddy's,2015.0,23,14
+The Collider,2014.0,2,1
+The Collider,2015.0,6,4
+Reprisal Universe,2013.0,1,1
+Reprisal Universe,2015.0,2,1
+Life is Strange - Episode 1,2010.0,4,2
+Life is Strange - Episode 1,2011.0,4,2
+Life is Strange - Episode 1,2012.0,6,3
+Life is Strange - Episode 1,2013.0,6,4
+Life is Strange - Episode 1,2014.0,46,25
+Life is Strange - Episode 1,2015.0,218,118
+There Came an Echo,2015.0,4,2
+Trine 3: The Artifacts of Power,2012.0,2,1
+Trine 3: The Artifacts of Power,2015.0,4,2
+The Detail,2015.0,2,1
+Moon Hunters,2014.0,4,2
+Absolute Drift,2014.0,3,2
+Absolute Drift,2015.0,9,5
+RER2 Episode Three: Judgment,2015.0,2,1
+Tokyo School Life,2015.0,2,1
+Gender Bender DNA Twister Extreme,2014.0,4,2
+Gender Bender DNA Twister Extreme,2015.0,2,1
+Mount &amp; Blade: Warband - Viking Conquest Reforged Edition,2014.0,6,4
+Mount &amp; Blade: Warband - Viking Conquest Reforged Edition,2015.0,4,2
+Primal Carnage: Extinction,2014.0,6,4
+Primal Carnage: Extinction,2015.0,5,3
+Supraball,2015.0,2,1
+Command: Modern Air / Naval Operations WOTY,2014.0,2,1
+Sigils of Elohim,2015.0,2,1
+Planetary Annihilation - Digital Deluxe Add-on,2015.0,2,1
+Cavern Kings,2014.0,4,2
+Rising Angels: Reborn,2014.0,2,1
+Might &amp; Magic® Heroes® VII,2015.0,2,1
+Hardland,2014.0,2,1
+Middle-earth: Shadow of Mordor - Power of Shadow,2014.0,2,1
+20XX,2015.0,4,2
+Geometry Dash,2013.0,12,7
+Geometry Dash,2014.0,11,7
+Geometry Dash,2015.0,95,52
+Don't Starve Together,2013.0,4,2
+Don't Starve Together,2014.0,38,22
+Don't Starve Together,2015.0,124,68
+SUPERHOT,2011.0,2,1
+SUPERHOT,2012.0,1,1
+SUPERHOT,2013.0,2,1
+SUPERHOT,2014.0,25,13
+SUPERHOT,2015.0,12,6
+"War, the Game",2015.0,2,1
+"Warhammer 40,000: Regicide",2015.0,4,2
+theHunter: Primal,2014.0,8,4
+theHunter: Primal,2015.0,11,6
+Gods vs Humans,2014.0,2,1
+Half-Life 2 Soundtrack,2015.0,2,1
+Portal 2 Soundtrack,2014.0,2,1
+Portal 2 Soundtrack,2015.0,4,2
+The World II: Hunting BOSS,2014.0,2,1
+TERA,2012.0,3,2
+TERA,2013.0,7,4
+TERA,2014.0,8,4
+TERA,2015.0,59,33
+The Magic Circle,2015.0,4,2
+Alphadia Genesis,2015.0,2,1
+DRAGON BALL XENOVERSE,2014.0,6,3
+DRAGON BALL XENOVERSE,2015.0,44,24
+PAYDAY 2: Hotline Miami,2013.0,2,1
+PAYDAY 2: Hotline Miami,2014.0,15,9
+PAYDAY 2: Hotline Miami,2015.0,1,1
+Jotun: Valhalla Edition,2015.0,2,1
+911: First Responders®,2014.0,2,1
+911: First Responders®,2015.0,6,3
+Decay: The Mare,2015.0,2,1
+Move or Die,2013.0,3,2
+Move or Die,2014.0,2,1
+Move or Die,2015.0,4,2
+SteamVR Performance Test,2015.0,3,2
+Rising World,2013.0,1,1
+Rising World,2014.0,2,1
+Rising World,2015.0,2,1
+Verde Station,2014.0,2,1
+CLANNAD,2015.0,1,1
+VoidExpanse,2015.0,2,1
+Boston Lockdown Campaign Book pdf,2015.0,2,1
+Bus Simulator 16,2015.0,4,2
+Halo: Spartan Strike,2015.0,2,1
+Impossible Creatures Steam Edition,2015.0,2,1
+TOXIKK™,2015.0,8,4
+Save the Furries,2015.0,2,1
+BEARZERKERS,2015.0,2,1
+Total War: ATTILA,2013.0,2,1
+Total War: ATTILA,2015.0,19,10
+Dying Light: The Following,2013.0,1,1
+Dying Light: The Following,2014.0,2,1
+Dying Light: The Following,2015.0,2,1
+Death Skid Marks,2015.0,2,1
+Shroud of the Avatar: Forsaken Virtues,2015.0,2,1
+Windward,2014.0,2,1
+Windward,2015.0,8,4
+ShellShock Live,2013.0,2,1
+ShellShock Live,2014.0,2,1
+ShellShock Live,2015.0,6,3
+If My Heart Had Wings,2015.0,8,5
+Warhammer Quest,2015.0,2,1
+Deep Eclipse: New Space Odyssey,2015.0,2,1
+Gloria Victis,2011.0,2,1
+Gloria Victis,2014.0,3,2
+Gloria Victis,2015.0,2,1
+Out of Reach,2015.0,2,1
+Anna's Quest,2015.0,2,1
+Total War: ROME II - Wrath of Sparta Campaign Pack,2014.0,2,1
+A Bird Story,2014.0,9,5
+A Bird Story,2015.0,8,4
+Zenzizenzic,2015.0,2,1
+Traverser,2015.0,2,1
+CaesarIA,2015.0,6,3
+Ironcast,2015.0,2,1
+Tron 2.0,2014.0,2,1
+Salt,2015.0,6,3
+I am Bread,2014.0,8,4
+I am Bread,2015.0,18,12
+Sword of the Samurai,2014.0,2,1
+Tales Runner,2015.0,2,1
+Reflex Arena,2014.0,2,1
+Reflex Arena,2015.0,4,2
+Wild Season,2015.0,2,1
+Potatoman Seeks the Troof,2014.0,1,1
+Potatoman Seeks the Troof,2015.0,1,1
+Rugby Union Team Manager 2015,2014.0,2,1
+The Deer God,2014.0,2,1
+The Deer God,2015.0,2,1
+Devil May Cry® 4 Special Edition,2015.0,2,2
+Gems of War - Puzzle RPG,2014.0,4,2
+Reassembly,2013.0,2,1
+Reassembly,2014.0,2,1
+Reassembly,2015.0,2,1
+State of Decay: YOSE,2015.0,2,1
+Sonic Lost World,2013.0,2,1
+Sonic Lost World,2014.0,2,1
+Sonic Lost World,2015.0,6,3
+Phantom Breaker: Battle Grounds,2015.0,2,1
+NAM,2014.0,1,1
+The Moon Sliver,2015.0,2,1
+VEGAS Movie Studio 13 Platinum - Steam Powered,2015.0,2,1
+BossConstructor,2015.0,2,1
+Robotex,2015.0,1,1
+Grandia® II Anniversary Edition,2015.0,2,1
+Noct,2014.0,2,1
+Noct,2015.0,2,1
+Shark Attack Deathmatch 2,2013.0,2,1
+Shark Attack Deathmatch 2,2015.0,2,1
+2064: Read Only Memories,2015.0,2,1
+Tales from the Borderlands,2012.0,2,1
+Tales from the Borderlands,2013.0,8,4
+Tales from the Borderlands,2014.0,39,22
+Tales from the Borderlands,2015.0,54,28
+Game of Thrones - A Telltale Games Series,2013.0,2,1
+Game of Thrones - A Telltale Games Series,2014.0,12,7
+Game of Thrones - A Telltale Games Series,2015.0,32,18
+Passing Pineview Forest,2015.0,2,1
+Disney•Pixar Cars,2013.0,2,1
+Master Spy,2015.0,4,2
+Grass Simulator,2013.0,3,2
+Grass Simulator,2014.0,4,2
+Grass Simulator,2015.0,6,3
+Thief Town,2015.0,2,1
+Everlasting Summer,2014.0,18,10
+Everlasting Summer,2015.0,12,6
+Executive Assault,2014.0,2,1
+Executive Assault,2015.0,7,4
+One Piece Pirate Warriors 3,2014.0,2,1
+One Piece Pirate Warriors 3,2015.0,1,1
+The Jackbox Party Pack,2015.0,6,3
+PAYDAY 2: Gage Historical Pack,2014.0,2,1
+PAYDAY 2: Gage Historical Pack,2015.0,1,1
+School of Dragons,2014.0,3,3
+School of Dragons,2015.0,2,1
+Axiom Verge,2015.0,2,1
+The Next Penelope,2015.0,2,1
+LEGO® Worlds,2015.0,17,10
+Arma 3 Marksmen,2015.0,6,3
+Girlfriend Rescue,2015.0,1,1
+GRAV,2015.0,10,5
+We Slay Monsters,2014.0,2,1
+Amazing Frog?,2015.0,3,2
+Five Nights at Freddy's 2,2014.0,40,25
+Five Nights at Freddy's 2,2015.0,43,24
+Forward to the Sky,2014.0,2,1
+Tales of Aravorn: Seasons Of The Wolf,2015.0,2,1
+Dirty Bomb®,2012.0,2,1
+Dirty Bomb®,2013.0,8,4
+Dirty Bomb®,2014.0,28,16
+Dirty Bomb®,2015.0,170,92
+Medieval Engineers,2015.0,17,9
+AKIBA'S TRIP: Undead ＆ Undressed,2014.0,2,1
+AKIBA'S TRIP: Undead ＆ Undressed,2015.0,8,4
+Hektor,2015.0,4,2
+Fortified,2015.0,2,1
+Town of Salem,2014.0,4,2
+Town of Salem,2015.0,46,23
+Project CARS - Racing Icons Car Pack,2015.0,2,1
+Project CARS - Stanceworks Track Expansion,2013.0,2,1
+Tormentum - Dark Sorrow,2013.0,2,1
+VRC PRO,2015.0,2,1
+Magic Barrage - Bitferno,2015.0,2,1
+200% Mixed Juice!,2015.0,2,1
+Transformice,2014.0,1,1
+Transformice,2015.0,35,21
+DARK SOULS™ II: Scholar of the First Sin,2013.0,2,1
+DARK SOULS™ II: Scholar of the First Sin,2014.0,6,3
+DARK SOULS™ II: Scholar of the First Sin,2015.0,19,10
+Brick-Force,2014.0,2,1
+Brick-Force,2015.0,3,2
+Grimoire: Manastorm,2015.0,2,1
+LISA,2014.0,2,1
+LISA,2015.0,9,5
+LEGO Batman 3: Beyond Gotham DLC: Heroines and Villainesses Character Pack,2015.0,2,1
+Dream Of Mirror Online,2015.0,2,1
+Goats on a Bridge,2015.0,1,1
+Rooster Teeth vs. Zombiens,2014.0,2,1
+Rooster Teeth vs. Zombiens,2015.0,2,1
+Bloodsports.TV,2015.0,1,1
+Outcast 1.1,2015.0,2,1
+HIT,2015.0,2,1
+Deus Ex: Mankind Divided,2013.0,4,2
+Deus Ex: Mankind Divided,2014.0,12,6
+Deus Ex: Mankind Divided,2015.0,10,5
+"Dimmdrive :: Gaming Ramdrive @ 10,000+ MB/s",2015.0,2,1
+Axis Game Factory's AGFPRO - Drone Kombat FPS Multiplayer,2015.0,2,1
+Paint the Town Red,2012.0,1,1
+Paint the Town Red,2013.0,2,1
+Paint the Town Red,2014.0,9,5
+Paint the Town Red,2015.0,12,6
+PAYDAY 2: Clover Character Pack,2015.0,2,1
+Avernum 2: Crystal Souls,2015.0,2,1
+The SKIES,2014.0,4,2
+Echoes+,2015.0,10,5
+Expansion - Europa Universalis IV: El Dorado,2015.0,2,1
+Ratz Instagib,2014.0,2,1
+Ratz Instagib,2015.0,26,14
+Warden: Melody of the Undergrowth,2015.0,2,1
+Navy Field 2 : Conqueror of the Ocean,2015.0,3,2
+Fork Parker's Holiday Profit Hike,2014.0,2,1
+Fork Parker's Holiday Profit Hike,2015.0,2,1
+Dead Synchronicity: Tomorrow Comes Today,2015.0,2,1
+ZOMBI,2015.0,1,1
+Strife®,2015.0,12,7
+Castle,2015.0,1,1
+Choice of Robots,2014.0,2,1
+Choice of Robots,2015.0,5,3
+Runestone Keeper,2015.0,2,1
+PAYDAY 2: The Bomb Heists,2014.0,2,1
+Freestyle 2: Street Basketball,2013.0,5,3
+Freestyle 2: Street Basketball,2015.0,9,6
+HuniePop,2013.0,4,2
+HuniePop,2014.0,2,1
+HuniePop,2015.0,58,34
+Uncraft World,2013.0,1,1
+Survivalist,2015.0,2,1
+Basement,2015.0,4,2
+FINAL FANTASY TYPE-0™ HD,2015.0,10,5
+Teddy Floppy Ear - Mountain Adventure,2015.0,2,1
+Teddy Floppy Ear - Kayaking,2015.0,2,1
+Domestic Dog,2015.0,1,1
+Quintet,2015.0,4,2
+Spartans Vs Zombies Defense,2015.0,2,1
+Armed with Wings: Rearmed,2015.0,2,1
+Battle of Empires : 1914-1918 - Russian Empire,2015.0,1,1
+Deepworld,2015.0,6,3
+Mad Games Tycoon,2014.0,4,2
+Mad Games Tycoon,2015.0,4,2
+Greyfox RPG,2015.0,3,2
+Stardust Vanguards,2015.0,2,1
+Among Ripples,2015.0,4,2
+Hatred,2015.0,1,1
+MechWarrior Online™,2015.0,5,3
+Europe at War,2015.0,1,1
+Phantasmal: Survival Horror Roguelike,2014.0,2,1
+Phantasmal: Survival Horror Roguelike,2015.0,2,1
+Airships: Conquer the Skies,2015.0,4,2
+12 Labours of Hercules,2014.0,1,1
+12 Labours of Hercules,2015.0,2,1
+"It came from space, and ate our brains",2015.0,2,1
+Samudai,2015.0,2,1
+Pixel Survivors,2015.0,2,1
+The Mystery of the Druids,2015.0,2,1
+Particula,2015.0,1,1
+Total War: ATTILA - The Last Roman Campaign Pack,2015.0,2,1
+Total War: ATTILA - Age of Charlemagne Campaign Pack,2014.0,2,1
+Bob Was Hungry,2015.0,2,1
+Cat Goes Fishing,2015.0,3,2
+Voxelized,2014.0,1,1
+Voxelized,2015.0,3,2
+PAYDAY 2: Dragan Character Pack,2015.0,1,1
+Goat Simulator: GoatZ,2011.0,2,1
+Princess Evangile All Ages Version,2015.0,2,1
+Reign Of Kings,2013.0,3,2
+Reign Of Kings,2015.0,56,32
+fault - milestone two side:above,2015.0,6,3
+Crystal Story II,2015.0,4,2
+Victor Vran ARPG,2014.0,3,2
+Victor Vran ARPG,2015.0,4,2
+Tasty Blue,2015.0,5,3
+LIGHTNING RETURNS™: FINAL FANTASY® XIII,2015.0,8,4
+TyranoBuilder Visual Novel Studio,2014.0,1,1
+TyranoBuilder Visual Novel Studio,2015.0,4,2
+King's Quest,2013.0,2,1
+King's Quest,2015.0,7,4
+Vapour,2015.0,2,1
+The Fruit of Grisaia,2014.0,1,1
+The Fruit of Grisaia,2015.0,6,3
+Without Within,2015.0,20,10
+Shantae and the Pirate's Curse,2015.0,2,1
+Besiege,2014.0,7,4
+Besiege,2015.0,85,47
+ARK: Survival Evolved,2011.0,2,1
+ARK: Survival Evolved,2012.0,2,1
+ARK: Survival Evolved,2013.0,16,9
+ARK: Survival Evolved,2014.0,49,26
+ARK: Survival Evolved,2015.0,277,152
+Boring Man - Online Tactical Stickman Combat,2014.0,4,2
+Boring Man - Online Tactical Stickman Combat,2015.0,22,11
+Boring Man: Premium!,2015.0,2,1
+David.,2015.0,2,1
+The Old Tree,2013.0,2,1
+The Old Tree,2015.0,9,5
+Hero of the Kingdom II,2015.0,4,2
+AdVenture Capitalist,2013.0,5,3
+AdVenture Capitalist,2014.0,21,12
+AdVenture Capitalist,2015.0,159,97
+Shadowrun: Hong Kong - Extended Edition,2014.0,2,1
+Terra Incognita ~ Chapter One: The Descendant,2014.0,2,1
+Hidden Object Bundle 4 in 1,2015.0,2,1
+Gaokao.Love.100Days,2014.0,1,1
+Gaokao.Love.100Days,2015.0,2,1
+Fairy Fencer F,2013.0,3,2
+Fairy Fencer F,2014.0,2,1
+Fairy Fencer F,2015.0,1,1
+Forsaken Isle,2014.0,2,1
+This War of Mine - War Child Charity DLC,2015.0,2,1
+PAYDAY 2: The OVERKILL Pack,2014.0,2,1
+PAYDAY 2: The OVERKILL Pack,2015.0,6,5
+The Interview,2015.0,2,1
+Bierzerkers,2015.0,1,1
+SAMURAI WARRIORS 4-II,2015.0,4,2
+Beyond Sol,2015.0,2,1
+Voices from the Sea,2015.0,12,6
+Immune - True Survival,2015.0,2,1
+Saint Seiya: Soldiers' Soul,2015.0,2,1
+Odysseus: Long Way Home,2015.0,2,1
+NARUTO SHIPPUDEN: Ultimate Ninja STORM 4,2013.0,4,3
+NARUTO SHIPPUDEN: Ultimate Ninja STORM 4,2014.0,3,2
+NARUTO SHIPPUDEN: Ultimate Ninja STORM 4,2015.0,3,2
+Notrium,2015.0,2,1
+The Black Watchmen,2015.0,2,1
+Modular Combat,2015.0,5,3
+Burstfire,2015.0,1,1
+Romero's Aftermath,2014.0,2,1
+Romero's Aftermath,2015.0,19,10
+Shelter 2 Soundtrack,2015.0,1,1
+PAYDAY 2: The Butcher's Western Pack,2015.0,2,1
+Wolfenstein: The Old Blood,2012.0,2,1
+Wolfenstein: The Old Blood,2014.0,4,2
+Wolfenstein: The Old Blood,2015.0,8,4
+Dead Sea,2015.0,1,1
+BIOS,2015.0,2,1
+Train Fever: USA DLC,2015.0,2,1
+Pixel Puzzles 2: Anime,2013.0,2,1
+Cricket Captain 2015,2015.0,2,1
+Regency Solitaire,2014.0,1,1
+Regency Solitaire,2015.0,2,1
+Survival: Postapocalypse Now,2015.0,13,7
+Awesomenauts - Wraithlord Scoop Announcer,2015.0,2,1
+Quiplash,2015.0,2,1
+Killing Floor: Uncovered,2015.0,16,8
+Eternal Senia,2015.0,23,12
+UnReal World,2013.0,2,1
+Hyperdimension Neptunia Re;Birth2: Sisters Generation / 超次次元ゲイム ネプテューヌRe;Birth2,2015.0,7,4
+Invisible Apartment,2015.0,4,2
+Dev Guy,2015.0,8,5
+PAYDAY 2: The Butcher's AK/CAR Mod Pack,2014.0,2,1
+PAYDAY 2: The Butcher's AK/CAR Mod Pack,2015.0,1,1
+Pregnancy,2015.0,4,2
+Tales of Zestiria,2012.0,2,1
+Tales of Zestiria,2015.0,9,5
+Riff Racer - Race Your Music!,2015.0,2,1
+Axis Game Factory's AGFPRO - Voxel Sculpt DLC,2015.0,2,1
+Locoland,2015.0,2,1
+Spirit of War,2015.0,2,1
+LEGO® Jurassic World,2015.0,2,1
+Dead Realm,2015.0,32,18
+The Silent Age,2015.0,2,1
+Subspace Continuum,2015.0,2,1
+Better Late Than DEAD,2015.0,4,2
+Star Horizon,2015.0,2,1
+Chicken Invaders 5,2015.0,2,1
+Time of Dragons,2014.0,4,2
+Time of Dragons,2015.0,4,2
+Hyperdimension Neptunia Re;Birth3 V Generation / 神次次元ゲイム ネプテューヌRe;Birth3 V CENTURY,2014.0,2,1
+Hyperdimension Neptunia Re;Birth3 V Generation / 神次次元ゲイム ネプテューヌRe;Birth3 V CENTURY,2015.0,7,5
+Love at First Sight,2014.0,2,1
+how do you Do It?,2014.0,2,1
+how do you Do It?,2015.0,10,6
+Steam Controller,2013.0,1,1
+Steam Controller,2014.0,2,1
+Steam Controller,2015.0,6,3
+Steam Link,2015.0,4,2
+Plug &amp; Play,2013.0,2,1
+Plug &amp; Play,2014.0,3,2
+Plug &amp; Play,2015.0,14,8
+Train Valley,2015.0,2,1
+Sid Meier's Civilization: Beyond Earth - Rising Tide,2015.0,1,1
+Five Nights at Freddy's 3,2015.0,33,20
+"Please, Don’t Touch Anything",2013.0,2,1
+"Please, Don’t Touch Anything",2015.0,3,2
+LoveBeat,2014.0,4,2
+LoveBeat,2015.0,2,1
+Assassin’s Creed® Chronicles: China,2014.0,2,1
+Tadpole Treble,2015.0,2,1
+STAR WARS™ - X-Wing Special Edition,2014.0,2,1
+PAYDAY: The Web Series,2015.0,9,5
+The Settlers Online,2015.0,2,1
+MISSING: An Interactive Thriller - Episode One,2015.0,2,1
+GlassWire,2014.0,2,1
+gravilon,2015.0,2,1
+Codename CURE,2013.0,2,1
+Codename CURE,2014.0,7,4
+Codename CURE,2015.0,22,11
+STAR WARS™: TIE Fighter Special Edition,2015.0,1,1
+Survarium,2013.0,4,2
+Survarium,2015.0,16,9
+Age of Mythology EX: Tale of the Dragon,2014.0,2,1
+Commander Cool 2,2015.0,9,5
+Orbit HD,2015.0,2,1
+STAR WARS™ Galactic Battlegrounds Saga,2015.0,4,2
+Soccer Rage,2014.0,1,1
+Soccer Rage,2015.0,3,2
+Port of Call,2014.0,2,1
+Party Hard,2014.0,2,1
+Party Hard,2015.0,7,4
+Spooky's Jump Scare Mansion,2014.0,3,2
+Spooky's Jump Scare Mansion,2015.0,18,11
+UBERMOSH,2014.0,2,1
+UBERMOSH,2015.0,4,2
+Space Beast Terror Fright,2015.0,1,1
+Cobalt,2012.0,1,1
+Cobalt,2014.0,2,1
+Cobalt,2015.0,2,1
+Endless Legend™ - Guardians,2015.0,2,1
+Angry Video Game Nerd: The Movie,2015.0,2,1
+Frozen Free Fall: Snowball Fight,2014.0,2,1
+Frozen Free Fall: Snowball Fight,2015.0,4,2
+Project Explore,2015.0,2,1
+Rogue Continuum,2015.0,2,1
+D4: Dark Dreams Don’t Die -Season One-,2014.0,2,1
+D4: Dark Dreams Don’t Die -Season One-,2015.0,1,1
+The Curious Expedition,2014.0,1,1
+PAYDAY 2: The Butcher's BBQ Pack,2015.0,12,7
+Cosmo's Cosmic Adventure,2015.0,2,1
+Crystal Caves,2015.0,2,1
+Hocus Pocus,2015.0,2,1
+Word Rescue,2015.0,2,1
+Canabalt,2015.0,2,1
+The Music Machine,2015.0,2,1
+Shower With Your Dad Simulator 2015: Do You Still Shower With Your Dad,2013.0,1,1
+Shower With Your Dad Simulator 2015: Do You Still Shower With Your Dad,2014.0,3,2
+Shower With Your Dad Simulator 2015: Do You Still Shower With Your Dad,2015.0,29,18
+Amnesia™: Memories,2015.0,2,1
+Motivational Growth,2014.0,3,2
+Tom Clancy's Rainbow Six® Siege,2013.0,14,9
+Tom Clancy's Rainbow Six® Siege,2014.0,35,22
+Tom Clancy's Rainbow Six® Siege,2015.0,47,26
+Copa Petrobras de Marcas,2015.0,7,4
+FINAL FANTASY X/X-2 HD Remaster,2014.0,1,1
+FINAL FANTASY X/X-2 HD Remaster,2015.0,4,2
+How to Survive 2,2015.0,2,1
+12 Labours of Hercules II: The Cretan Bull,2015.0,3,2
+Cards and Castles,2011.0,2,1
+Cards and Castles,2014.0,2,1
+Cards and Castles,2015.0,2,1
+Downwell,2013.0,2,1
+Downwell,2015.0,7,4
+Ultimate Tic-Tac-Toe,2012.0,2,1
+Ultimate Tic-Tac-Toe,2015.0,4,2
+The Mean Greens - Plastic Warfare,2014.0,2,1
+The Mean Greens - Plastic Warfare,2015.0,4,2
+POSTAL 2: Paradise Lost,2015.0,3,2
+Turmoil,2014.0,2,1
+Depth - Corsair Knife Skin,2015.0,2,1
+Cradle,2015.0,2,1
+404Sight,2015.0,7,4
+Mortal Kombat: Legacy,2015.0,2,1
+Tree of Life,2015.0,2,1
+Mortal Kombat: Legacy II,2015.0,2,1
+Software Inc.,2014.0,2,1
+Software Inc.,2015.0,4,2
+Fran Bow,2015.0,4,2
+RPG Maker 2003,2015.0,1,1
+Black Mesa,2014.0,3,2
+Black Mesa,2015.0,31,17
+Garfield Kart,2013.0,1,1
+O3DX,2015.0,2,1
+Interstellar Rift,2015.0,2,1
+Grave Prosperity: Redux- part 1,2015.0,2,1
+Escape Machines,2015.0,1,1
+RPG Maker MV,2015.0,4,2
+Clicker Heroes,2013.0,7,4
+Clicker Heroes,2014.0,21,11
+Clicker Heroes,2015.0,97,58
+Face It - A game to fight inner demons,2015.0,3,2
+FSX: Steam Edition - Diamond DA40 Add-On,2015.0,2,1
+Total War: WARHAMMER,2012.0,2,1
+Total War: WARHAMMER,2013.0,4,2
+Total War: WARHAMMER,2014.0,24,13
+Total War: WARHAMMER,2015.0,11,6
+Downfall,2013.0,2,1
+Roguelands,2011.0,4,2
+Roguelands,2015.0,2,1
+Freshman Year,2015.0,2,1
+Transcendence,2015.0,2,1
+One Manga Day,2015.0,2,1
+Transmissions: Element 120,2012.0,2,1
+Transmissions: Element 120,2013.0,2,1
+Transmissions: Element 120,2014.0,6,3
+Transmissions: Element 120,2015.0,7,4
+Battle Brothers,2014.0,2,1
+Hacknet,2014.0,7,4
+Hacknet,2015.0,9,6
+Tom Clancy’s The Division™,2012.0,2,1
+Tom Clancy’s The Division™,2013.0,5,3
+Tom Clancy’s The Division™,2014.0,15,9
+Tom Clancy’s The Division™,2015.0,16,9
+OlliOlli2: Welcome to Olliwood,2015.0,2,1
+Blender,2014.0,3,2
+Blender,2015.0,12,6
+Flying Tigers: Shadows Over China,2015.0,2,1
+Iggy's Egg Adventure,2015.0,2,1
+Wurm Unlimited,2015.0,2,1
+Savage Resurrection,2015.0,4,2
+PAYDAY 2: The Alesso Heist,2015.0,6,4
+Adorables,2014.0,2,1
+Call of Duty®: Black Ops III - Season Pass,2014.0,2,1
+Vernon's Legacy,2012.0,2,1
+Seduce Me the Otome,2015.0,10,5
+Angels Fall First,2014.0,1,1
+Pixel Star,2015.0,2,1
+Poly Bridge,2015.0,6,3
+Dragon's Dogma: Dark Arisen,2013.0,4,2
+Dragon's Dogma: Dark Arisen,2014.0,8,5
+Dragon's Dogma: Dark Arisen,2015.0,14,8
+oO,2015.0,4,2
+Hook,2013.0,1,1
+Hook,2014.0,2,1
+Hook,2015.0,11,6
+Controller Companion,2015.0,6,3
+Aero's Quest,2015.0,4,2
+Kingdom: Classic,2013.0,4,2
+Kingdom: Classic,2014.0,8,4
+Kingdom: Classic,2015.0,8,4
+CrossCode,2014.0,4,2
+CrossCode,2015.0,6,3
+60 Seconds!,2015.0,4,2
+Her Story,2011.0,2,1
+Assassin's Creed® Syndicate,2015.0,4,2
+Sirius Online,2015.0,2,1
+No Time To Explain Remastered,2014.0,1,1
+No Time To Explain Remastered,2015.0,4,2
+Obliteracers,2013.0,2,1
+Obliteracers,2014.0,2,1
+Garbage Day,2014.0,2,1
+PAYDAY 2: The OVERKILL B-Sides Soundtrack,2015.0,2,1
+Despair,2015.0,3,2
+Pongo,2015.0,2,1
+Amygdala,2015.0,2,1
+Airport Madness: World Edition,2014.0,2,1
+Adventure Time: Finn and Jake Investigations,2013.0,2,1
+Let the Cat in,2015.0,4,2
+NotGTAV,2015.0,23,14
+Templar Battleforce,2015.0,2,1
+Lilly and Sasha: Nexus of Souls,2015.0,2,1
+LOOP: A Tranquil Puzzle Game,2015.0,2,1
+Ruzh Delta Z,2015.0,2,1
+NBA 2K16,2014.0,4,2
+NBA 2K16,2015.0,4,2
+Season of 12 Colors,2014.0,3,2
+Season of 12 Colors,2015.0,1,1
+TIS-100,2015.0,2,1
+Pixel Galaxy,2015.0,2,1
+Fated Souls,2015.0,1,1
+Waste Walkers,2014.0,2,1
+Super 3-D Noah's Ark,2015.0,2,1
+Making History: The Calm and the Storm Gold Edition,2014.0,2,1
+Halcyon 6: Starbase Commander,2014.0,2,1
+Teddy Floppy Ear - The Race,2015.0,1,1
+Grey Cubes,2015.0,1,1
+Tap Heroes,2015.0,1,1
+Far Cry® Primal,2012.0,2,1
+Far Cry® Primal,2014.0,5,3
+Far Cry® Primal,2015.0,4,2
+Tree of Savior (English Ver.),2012.0,2,1
+Tree of Savior (English Ver.),2013.0,2,1
+Tree of Savior (English Ver.),2014.0,4,3
+Tree of Savior (English Ver.),2015.0,8,4
+Spooky Cats,2015.0,1,1
+The Lost Mythologies,2014.0,2,1
+The Lost Mythologies,2015.0,2,1
+RPG MO,2015.0,4,2
+Kung Fury: Street Rage,2015.0,14,8
+Cast of the Seven Godsends - Redux,2014.0,2,1
+Contradiction - Spot The Liar!,2014.0,4,2
+Contradiction - Spot The Liar!,2015.0,4,2
+Divinity: Original Sin - Enhanced Edition,2014.0,1,1
+Divinity: Original Sin - Enhanced Edition,2015.0,5,3
+LiEat,2014.0,2,1
+LiEat,2015.0,8,4
+Portal Knights,2014.0,2,1
+Portal Knights,2015.0,2,1
+Winter Sports Trilogy Super Pack,2015.0,1,1
+PAYDAY 2: The Golden Grin Casino Heist,2015.0,4,2
+PAYDAY 2: Sokol Character Pack,2013.0,2,1
+PAYDAY 2: Sokol Character Pack,2015.0,5,4
+DARK SOULS™ III,2013.0,13,7
+DARK SOULS™ III,2014.0,35,20
+DARK SOULS™ III,2015.0,25,14
+Kung Fury,2010.0,2,1
+Kung Fury,2013.0,2,1
+Kung Fury,2014.0,4,2
+Kung Fury,2015.0,76,49
+Ember Strike,2014.0,1,1
+Death Tractor,2015.0,2,1
+Bitweb,2015.0,1,1
+New kind of adventure,2015.0,7,4
+Air Brawl,2015.0,8,4
+Human Resource Machine,2015.0,10,5
+Anno 2205™,2015.0,2,1
+Viridi,2014.0,2,1
+Viridi,2015.0,16,10
+100% Orange Juice - Krila &amp; Kae Character Pack,2014.0,1,1
+The Isle,2014.0,2,1
+The Isle,2015.0,5,3
+GUILTY GEAR Xrd -SIGN-,2014.0,2,1
+GUILTY GEAR Xrd -SIGN-,2015.0,2,1
+Big Fish Legend,2015.0,2,1
+WildStar,2012.0,4,2
+WildStar,2015.0,8,4
+Hero Siege - Amazon (Class),2015.0,2,1
+Big Thinkers 1st Grade,2013.0,2,1
+Minecraft: Story Mode - A Telltale Games Series,2013.0,1,1
+Minecraft: Story Mode - A Telltale Games Series,2015.0,26,14
+Tiki Man,2015.0,2,1
+Hide &amp; Hold Out - H2o,2013.0,2,1
+Fallout 4,2012.0,2,1
+Fallout 4,2013.0,13,7
+Fallout 4,2014.0,32,17
+Fallout 4,2015.0,236,134
+Tom Clancy's Rainbow Six® Siege - Ultra HD Texture Pack,2015.0,3,2
+Mushihimesama,2015.0,2,1
+"Warhammer® 40,000™: Dawn of War® II - Retribution - The Last Stand Necron Overlord",2014.0,3,2
+"Warhammer® 40,000™: Dawn of War® II - Retribution - The Last Stand Necron Overlord",2015.0,1,1
+Nomad,2015.0,2,1
+Untamed: Life Of A Cougar,2015.0,2,1
+Blues and Bullets,2015.0,1,1
+Thea: The Awakening,2015.0,2,1
+LISA the Joyful,2014.0,2,1
+FSX: Steam Edition - REX 4 Texture Direct Enhanced Edition Add-On,2014.0,2,1
+FSX: Steam Edition - HD Airport Graphics Add-On,2014.0,2,1
+DOOM,2011.0,2,1
+DOOM,2013.0,15,8
+DOOM,2014.0,51,28
+DOOM,2015.0,27,15
+Panzermadels: Tank Dating Simulator,2013.0,2,1
+Panzermadels: Tank Dating Simulator,2014.0,2,1
+Panzermadels: Tank Dating Simulator,2015.0,2,1
+Fishing Planet,2015.0,13,7
+Teeworlds,2010.0,2,1
+Teeworlds,2015.0,3,2
+Barbara-ian,2014.0,2,1
+Shoppe Keep,2014.0,2,1
+Shoppe Keep,2015.0,8,4
+My Paper Boat,2015.0,2,1
+Dragon Saga,2013.0,2,1
+Dragon Saga,2014.0,2,1
+Eon Altar,2012.0,2,1
+Relic Hunters Zero,2014.0,2,1
+Relic Hunters Zero,2015.0,9,6
+Steve Chong Finds Out That Suicide is a Bad Idea,2015.0,2,1
+FINAL FANTASY V,2015.0,2,1
+Empyrion - Galactic Survival,2014.0,2,1
+Empyrion - Galactic Survival,2015.0,9,5
+Dungeon Souls,2014.0,4,2
+Dungeon Souls,2015.0,2,1
+Hue,2015.0,2,1
+Battle of Empires : 1914-1918 -  British Empire,2015.0,2,1
+Flesh Eaters,2015.0,8,4
+The Ship: Remasted,2013.0,2,1
+The Ship: Remasted,2015.0,2,1
+Firewatch,2013.0,9,5
+Firewatch,2014.0,28,14
+Firewatch,2015.0,39,20
+Rivals of Aether,2011.0,2,1
+Rivals of Aether,2014.0,6,3
+Rivals of Aether,2015.0,10,6
+Cross of the Dutchman,2014.0,2,1
+PAYDAY 2: Yakuza Character Pack,2015.0,6,4
+PAYDAY 2: Gage Ninja Pack,2015.0,5,3
+TeraBlaster,2015.0,3,2
+Prominence Poker,2012.0,2,1
+ABZU,2015.0,6,3
+CPUCores :: Maximize Your FPS,2014.0,2,1
+CPUCores :: Maximize Your FPS,2015.0,2,1
+Dead In Bermuda,2015.0,2,1
+Fingered,2015.0,2,1
+NECROPOLIS: BRUTAL EDITION,2015.0,2,1
+Zombie Party,2014.0,2,1
+Aviary Attorney,2014.0,2,1
+Aviary Attorney,2015.0,2,1
+Battle for Blood - Epic battles within 30 seconds!,2015.0,2,1
+Lamia Must Die,2015.0,2,1
+Stray Cat Crossing,2015.0,2,1
+Астролорды: Облако Оорта,2015.0,2,1
+INK,2015.0,4,2
+WWE 2K16,2013.0,2,1
+WWE 2K16,2014.0,4,2
+WWE 2K16,2015.0,2,2
+NBA 2K17,2014.0,2,1
+NBA 2K17,2015.0,2,1
+Time Clickers,2013.0,2,1
+Time Clickers,2014.0,1,1
+Time Clickers,2015.0,23,12
+Golden Rush,2015.0,2,1
+Scott in Space,2015.0,2,1
+Planetary Annihilation: TITANS,2014.0,5,3
+Planetary Annihilation: TITANS,2015.0,6,3
+Crossout,2013.0,2,1
+SMITE®,2012.0,3,2
+SMITE®,2013.0,6,3
+SMITE®,2014.0,16,10
+SMITE®,2015.0,72,39
+Rake,2015.0,6,3
+Ultimate Chicken Horse,2014.0,2,1
+Ultimate Chicken Horse,2015.0,3,2
+Steel Rain,2015.0,2,1
+Ori and the Blind Forest: Definitive Edition,2014.0,2,1
+Hyperdimension Neptunia U: Action Unleashed,2013.0,4,2
+Hyperdimension Neptunia U: Action Unleashed,2014.0,2,1
+Sol 0: Mars Colonization,2014.0,2,1
+SMITE® - Ultimate God Pack,2014.0,1,1
+SMITE® - Ultimate God Pack,2015.0,2,1
+the static speaks my name,2013.0,1,1
+the static speaks my name,2015.0,16,9
+Scrap Mechanic,2014.0,10,5
+Scrap Mechanic,2015.0,10,6
+Borderless Gaming,2015.0,4,2
+Five Nights at Freddy's 4,2014.0,2,1
+Five Nights at Freddy's 4,2015.0,21,12
+Day of the Tentacle Remastered,2015.0,1,1
+Darksiders II Deathinitive Edition,2014.0,1,1
+Oxenfree,2013.0,2,1
+Oxenfree,2015.0,2,1
+A Lenda do Herói - O Herói desta Canção,2014.0,2,1
+Maximum Override,2013.0,2,1
+Maximum Override,2014.0,2,1
+Wild Animal Racing,2012.0,2,1
+Mitos.is: The Game,2012.0,2,1
+Mitos.is: The Game,2013.0,1,1
+Mitos.is: The Game,2014.0,4,2
+Mitos.is: The Game,2015.0,17,10
+Bulb Boy,2014.0,2,1
+Umbrella Corps™/Biohazard Umbrella Corps™,2014.0,1,1
+Umbrella Corps™/Biohazard Umbrella Corps™,2015.0,2,1
+Rocksmith® 2014 – The Black Keys - “Lonely Boy”,2015.0,2,1
+PewDiePie: Legend of the Brofist,2015.0,4,2
+Steel Ocean,2014.0,2,1
+Steel Ocean,2015.0,8,4
+Sora,2015.0,2,1
+F1 2016,2013.0,2,1
+F1 2016,2014.0,3,2
+F1 2016,2015.0,2,1
+Labyronia RPG,2015.0,2,1
+Fingerbones,2014.0,2,1
+Fingerbones,2015.0,4,2
+WARMODE,2014.0,1,1
+WARMODE,2015.0,15,8
+Undertale,2010.0,2,1
+Undertale,2011.0,2,1
+Undertale,2012.0,6,3
+Undertale,2013.0,24,14
+Undertale,2014.0,64,34
+Undertale,2015.0,231,126
+UNDERTALE Soundtrack,2013.0,1,1
+UNDERTALE Soundtrack,2015.0,2,1
+Rocket League® - Supersonic Fury DLC Pack,2015.0,2,1
+Layers of Fear,2015.0,8,5
+Crashlands,2013.0,2,1
+Crashlands,2014.0,4,2
+Crashlands,2015.0,2,1
+Silver Creek Falls: Chapter 1,2015.0,3,2
+Don't Starve: Shipwrecked,2014.0,4,2
+Don't Starve: Shipwrecked,2015.0,8,4
+Squad,2013.0,4,2
+Squad,2014.0,6,3
+Squad,2015.0,19,10
+World of Soccer online,2014.0,3,2
+World of Soccer online,2015.0,7,4
+Hurtworld,2013.0,2,1
+Hurtworld,2014.0,2,1
+Hurtworld,2015.0,20,12
+Insanity Clicker,2014.0,1,1
+Insanity Clicker,2015.0,2,1
+Burning Man: Beyond Black Rock,2015.0,1,1
+Pretty Girls Mahjong Solitaire,2014.0,2,1
+Pretty Girls Mahjong Solitaire,2015.0,2,1
+Atom Universe,2010.0,1,1
+Battleborn,2012.0,2,1
+Battleborn,2013.0,3,2
+Battleborn,2014.0,7,4
+Battleborn,2015.0,2,1
+Punch Club,2014.0,2,1
+Punch Club,2015.0,4,2
+Hearts of Iron IV,2013.0,2,1
+Hearts of Iron IV,2014.0,11,6
+Hearts of Iron IV,2015.0,6,3
+BattleStick,2014.0,2,1
+HELLDIVERS™,2014.0,4,2
+HELLDIVERS™,2015.0,5,3
+Tower Unite,2013.0,2,1
+Tower Unite,2014.0,6,3
+Tower Unite,2015.0,5,3
+Miracle Fly,2014.0,1,1
+Arma 3 Apex,2014.0,1,1
+Arma 3 Apex,2015.0,4,2
+Ben and Ed,2014.0,2,1
+HELLDIVERS™ - Weapons Pack,2015.0,2,1
+Missing Translation,2015.0,10,5
+Get Rich or Die Gaming,2015.0,2,1
+World's Fastest Pizza,2014.0,2,1
+World's Fastest Pizza,2015.0,1,1
+Battlevoid: Harbinger,2014.0,2,1
+ACE Academy,2015.0,4,2
+Sphere III: Enchanted World,2015.0,2,1
+MachineCraft,2013.0,2,1
+MachineCraft,2014.0,1,1
+SimplePlanes,2011.0,2,1
+SimplePlanes,2013.0,2,1
+SimplePlanes,2014.0,7,4
+SimplePlanes,2015.0,8,4
+Zoombinis,2013.0,2,1
+Zoombinis,2015.0,5,3
+Labyronia RPG 2,2015.0,1,1
+Deus Ex: Revision,2014.0,2,1
+Deus Ex: Revision,2015.0,2,1
+Hyperspace Invaders II: Pixel Edition,2015.0,2,1
+Invasion,2015.0,1,1
+Protoshift,2015.0,2,1
+Highschool Romance,2015.0,4,2
+Timberman,2015.0,6,3
+War of Beach,2015.0,2,1
+Epistory - Typing Chronicles,2014.0,2,1
+Armello - Usurpers Hero Pack,2014.0,2,1
+Dragon's Wake,2015.0,2,1
+Comedy Quest,2015.0,1,1
+Rocket League® - Revenge of the Battle-Cars DLC Pack,2015.0,2,1
+Destiny Warriors RPG,2015.0,4,2
+Awesomenauts - Rockstar Announcer,2015.0,2,1
+Else Heart.Break(),2015.0,2,1
+The Deer,2015.0,1,1
+Heaven Island - VR MMO,2014.0,2,1
+Heaven Island - VR MMO,2015.0,2,1
+MXGP2 - The Official Motocross Videogame,2013.0,2,1
+MXGP2 - The Official Motocross Videogame,2015.0,2,1
+Block N Load - 560 Platinum Bar Pack,2015.0,2,1
+Rabi-Ribi,2013.0,2,1
+Rabi-Ribi,2014.0,2,1
+Dinosaur Hunt,2015.0,8,4
+Poi,2015.0,2,1
+The Binding of Isaac: Afterbirth,2014.0,2,1
+The Binding of Isaac: Afterbirth,2015.0,29,17
+3DMark Fire Strike benchmarks,2014.0,2,1
+Atlas Reactor,2015.0,2,1
+Kindred Spirits on the Roof,2015.0,2,1
+The Coma: Cutting Class,2013.0,2,1
+Crusaders of the Lost Idols,2015.0,4,2
+Draw a Stickman: EPIC 2,2014.0,1,1
+Planetbase,2014.0,6,3
+Planetbase,2015.0,2,1
+Stigmat,2015.0,1,1
+Zero Punctuation: Hatfall - Hatters Gonna Hat Edition,2015.0,2,1
+GabeN: The Final Decision,2015.0,1,1
+ALPAGES : THE FIVE BOOKS,2014.0,2,1
+Fallout 4 Season Pass,2013.0,2,1
+Fallout 4 Season Pass,2014.0,2,1
+Endless Sky,2015.0,8,4
+SC2VN - The eSports Visual Novel,2015.0,8,5
+Bitardia,2015.0,1,1
+Rocket League® - Back to the Future™ Car Pack,2013.0,1,1
+Rocket League® - Back to the Future™ Car Pack,2015.0,11,6
+LEGO® MARVEL's Avengers,2013.0,2,1
+Pony Island,2011.0,2,1
+Pony Island,2012.0,2,1
+Pony Island,2014.0,6,3
+Pony Island,2015.0,6,3
+Turok,2015.0,2,1
+Refunct,2014.0,10,5
+Refunct,2015.0,6,3
+Over the Dream,2014.0,2,1
+Umineko When They Cry - Question Arcs,2014.0,1,1
+Soccer Manager 2016,2014.0,2,1
+Dungeon of the Endless™ - Organic Matters Update,2015.0,2,1
+Legend of Mysteria RPG,2014.0,2,1
+Devilian,2015.0,3,2
+ARK: Survival Of The Fittest,2014.0,2,1
+ARK: Survival Of The Fittest,2015.0,7,4
+Raiden Legacy - Steam Edition,2015.0,2,1
+Guardians of Orion,2011.0,1,1
+Guardians of Orion,2013.0,2,1
+Guardians of Orion,2014.0,2,1
+Guardians of Orion,2015.0,1,1
+Princess Remedy in a World of Hurt,2015.0,2,1
+Unfortunate Spacemen,2014.0,2,1
+Timber and Stone,2015.0,2,1
+"Dr. Langeskov, The Tiger, and The Terribly Cursed Emerald: A Whirlwind Heist",2013.0,2,1
+"Dr. Langeskov, The Tiger, and The Terribly Cursed Emerald: A Whirlwind Heist",2014.0,5,3
+"Dr. Langeskov, The Tiger, and The Terribly Cursed Emerald: A Whirlwind Heist",2015.0,25,14
+Contract,2014.0,2,1
+SnakEscape,2014.0,2,1
+The Fall of the Dungeon Guardians - Enhanced Edition,2015.0,2,1
+Rogue Harvest,2015.0,2,1
+Genesis Online,2015.0,2,1
+KINGDOMS,2015.0,2,1
+Pink Hour,2015.0,6,3
+BioShock™ Remastered,2014.0,2,1
+BioShock™ Remastered,2015.0,6,3
+12 is Better Than 6,2015.0,2,1
+EARTH DEFENSE FORCE 4.1 The Shadow of New Despair,2013.0,2,1
+EARTH DEFENSE FORCE 4.1 The Shadow of New Despair,2014.0,4,2
+EARTH DEFENSE FORCE 4.1 The Shadow of New Despair,2015.0,2,1
+Liftoff,2015.0,6,3
+Suits: A Business RPG,2013.0,2,1
+Suits: A Business RPG,2014.0,2,1
+Suits: A Business RPG,2015.0,2,1
+Angels That Kill Demo,2015.0,2,1
+Starward Rogue,2014.0,2,1
+SHOWTIME 2073,2014.0,2,1
+Dota 2 Player Profiles,2015.0,1,1
+Melty Blood Actress Again Current Code,2013.0,2,1
+Melty Blood Actress Again Current Code,2014.0,1,1
+Reveal The Deep,2015.0,4,2
+Zombie Exodus,2015.0,2,1
+SENRAN KAGURA SHINOVI VERSUS,2014.0,2,1
+TY the Tasmanian Tiger,2014.0,2,1
+Electric Highways,2015.0,3,2
+GASP,2015.0,2,1
+The Black Death,2013.0,2,1
+Metal War Online: Retribution,2015.0,2,1
+STEINS;GATE,2013.0,2,1
+Drift Streets Japan,2013.0,2,1
+Drift Streets Japan,2014.0,7,4
+Drift Streets Japan,2015.0,12,6
+Back to Dinosaur Island,2015.0,1,1
+Stardew Valley,2011.0,2,1
+Stardew Valley,2012.0,4,2
+Stardew Valley,2013.0,28,16
+Stardew Valley,2014.0,52,33
+Stardew Valley,2015.0,60,36
+Metal Assault,2014.0,2,1
+Danganronpa: Trigger Happy Havoc,2013.0,2,1
+Danganronpa: Trigger Happy Havoc,2014.0,4,2
+Danganronpa: Trigger Happy Havoc,2015.0,2,1
+Danganronpa 2: Goodbye Despair,2014.0,2,1
+Danganronpa 2: Goodbye Despair,2015.0,2,1
+CS:GO Player Profiles,2015.0,14,9
+Life is Hard,2013.0,2,1
+Junk Jack,2014.0,2,1
+Junk Jack,2015.0,2,1
+One More Dungeon,2015.0,4,2
+Nyan Cat: Lost In Space,2015.0,5,4
+OmniBus,2015.0,2,1
+Written in the Sky,2015.0,2,1
+Rubber Ducky and the Rainbow Gun,2014.0,1,1
+Diabolical,2015.0,4,2
+Pay2Win: The Tricks Exposed,2014.0,2,1
+Tom Clancy's Rainbow Six® Siege - The Safari Bundle,2015.0,2,1
+Left Alone,2013.0,2,1
+Emily is Away,2012.0,2,1
+Emily is Away,2014.0,8,5
+Emily is Away,2015.0,195,117
+Major\Minor,2015.0,2,1
+Turbo Pug,2015.0,24,13
+Helen's Mysterious Castle,2015.0,2,1
+Wick,2015.0,2,1
+RWBY: Grimm Eclipse,2013.0,5,3
+RWBY: Grimm Eclipse,2014.0,4,2
+RWBY: Grimm Eclipse,2015.0,30,15
+Idle Civilization,2015.0,2,1
+Warhammer: End Times - Vermintide Sigmar's Blessing,2015.0,3,2
+"That Dragon, Cancer",2015.0,2,1
+The Deed,2014.0,2,1
+Plantera,2014.0,2,1
+Plantera,2015.0,1,1
+A Study in Steampunk: Choice by Gaslight,2015.0,2,1
+CUPID - A free to play Visual Novel,2014.0,2,1
+PAYDAY 2: The Point Break Heists,2014.0,3,2
+PAYDAY 2: The Point Break Heists,2015.0,3,2
+Godus Wars,2012.0,2,1
+Godus Wars,2015.0,2,1
+Devil Daggers,2012.0,2,1
+Devil Daggers,2014.0,5,3
+Devil Daggers,2015.0,6,3
+Community College Hero: Trial by Fire,2015.0,2,1
+Furi,2014.0,2,1
+Project Highrise,2015.0,2,1
+Apocalypse Hotel - The Post-Apocalyptic Hotel Simulator!,2015.0,2,1
+Carpe Diem,2013.0,2,1
+Carpe Diem,2014.0,2,2
+Carpe Diem,2015.0,19,12
+Iron Snout,2012.0,2,1
+Iron Snout,2013.0,4,2
+Iron Snout,2014.0,14,9
+Iron Snout,2015.0,9,6
+Wolcen: Lords of Mayhem,2014.0,2,1
+One Piece Burning Blood,2014.0,2,1
+HunieCam Studio,2015.0,3,2
+Fernbus Simulator,2013.0,2,1
+DEAD RISING®,2012.0,2,1
+DEAD RISING®,2015.0,2,1
+8-Bit Armies,2015.0,2,1
+Orcs Must Die! Unchained,2013.0,3,2
+Orcs Must Die! Unchained,2014.0,7,5
+Orcs Must Die! Unchained,2015.0,6,3
+Factorio,2013.0,10,6
+Factorio,2014.0,13,7
+Factorio,2015.0,31,16
+Who's Your Daddy,2013.0,4,2
+Who's Your Daddy,2014.0,7,4
+Who's Your Daddy,2015.0,6,5
+CALENDULA,2015.0,2,1
+Zavix Tower,2015.0,2,1
+The Withering,2015.0,2,1
+TurnOn,2014.0,2,1
+Youtubers Life,2013.0,2,1
+Youtubers Life,2014.0,4,2
+Youtubers Life,2015.0,2,1
+The Quest,2015.0,2,1
+"Linea, the Game",2015.0,2,1
+Feed and Grow: Fish,2015.0,2,1
+Sepia Tears,2014.0,2,1
+Sepia Tears,2015.0,2,1
+The Walking Dead: Michonne - A Telltale Miniseries,2015.0,6,4
+Spellweaver,2013.0,2,1
+Squirbs,2013.0,2,1
+IMSCARED,2013.0,6,3
+Of Kings And Men,2014.0,2,1
+Golf With Your Friends,2012.0,1,1
+Golf With Your Friends,2013.0,6,3
+Golf With Your Friends,2014.0,14,8
+Golf With Your Friends,2015.0,5,4
+Clash of the Monsters,2015.0,2,1
+Mystic Destinies: Serendipity of Aeons,2015.0,2,1
+Hard Room,2015.0,2,1
+Rivalry,2013.0,1,1
+3DRPG,2014.0,2,1
+What's under your blanket !?,2012.0,2,1
+What's under your blanket !?,2013.0,1,1
+What's under your blanket !?,2014.0,3,2
+What's under your blanket !?,2015.0,1,1
+And So It Was,2014.0,2,1
+XCOM 2: Anarchy's Children,2014.0,2,1
+XCOM 2: Anarchy's Children,2015.0,2,1
+XCOM 2: Alien Hunters,2014.0,1,1
+JourneyQuest Season One,2014.0,2,1
+Slime Rancher,2013.0,2,1
+Slime Rancher,2014.0,20,10
+Slime Rancher,2015.0,16,8
+Heliborne,2014.0,2,1
+H1Z1,2013.0,7,4
+H1Z1,2014.0,8,4
+H1Z1,2015.0,10,6
+Bit Blaster XL,2013.0,2,1
+Bit Blaster XL,2014.0,4,2
+Bit Blaster XL,2015.0,6,3
+Last Hope - Tower Defense,2015.0,1,1
+Masked Shooters 2,2013.0,2,1
+My Name is Mayo,2013.0,3,2
+My Name is Mayo,2014.0,6,3
+My Name is Mayo,2015.0,4,3
+Buried: An Interactive Story,2014.0,2,1
+The Chosen RPG,2015.0,2,1
+Blood and Bacon,2012.0,2,1
+Blood and Bacon,2013.0,2,1
+Blood and Bacon,2014.0,6,4
+Blood and Bacon,2015.0,5,3
+Pythagoria,2015.0,2,1
+Half Dead,2013.0,2,1
+Half Dead,2014.0,2,1
+The Renegades of Orion 2.0,2015.0,1,1
+Lost Lands: Mahjong,2014.0,3,2
+The Final Station,2015.0,2,1
+Fallout 4 - Automatron,2012.0,1,1
+Fallout 4 - Automatron,2013.0,2,1
+Fallout 4 - Automatron,2014.0,3,2
+Fallout 4 - Automatron,2015.0,2,1
+Fallout 4 - Wasteland Workshop,2014.0,3,2
+Fallout 4 Far Harbor,2014.0,3,2
+Fallout 4 Far Harbor,2015.0,3,2
+Factorio - Soundtrack,2012.0,2,1
+Expansion - Europa Universalis IV: Mare Nostrum,2015.0,2,1
+Governor of Poker 3,2015.0,3,2
+Gamma Bros 1.5,2014.0,2,1
+Diaries of a Spaceport Janitor,2015.0,2,1
+Line of Sight,2013.0,2,1
+Party Jousting,2015.0,2,1
+Surfingers,2014.0,2,1
+Learn Japanese To Survive! Hiragana Battle,2013.0,2,1
+LEGO® STAR WARS™: The Force Awakens,2014.0,2,1
+LEGO® STAR WARS™: The Force Awakens,2015.0,3,2
+One Troll Army,2013.0,2,1
+Rocket League® - Batman v Superman: Dawn of Justice Car Pack,2015.0,2,1
+Legends of Callasia,2015.0,2,1
+HITMAN™: Episode 3 - Marrakesh,2014.0,2,1
+Warhammer: End Times - Vermintide Last Stand,2015.0,2,1
+Polandball: Can into Space!,2014.0,1,1
+JourneyQuest Season Two,2014.0,2,1
+PAYDAY 2: Wolf Pack,2012.0,2,1
+PAYDAY 2: Wolf Pack,2013.0,2,1
+PAYDAY 2: Wolf Pack,2014.0,2,1
+PAYDAY 2: Wolf Pack,2015.0,1,1
+Elite Dangerous: Pilot Starter Pack,2015.0,2,1
+Fragmented,2014.0,2,1
+I am Setsuna,2014.0,2,1
+OutDrive,2015.0,1,1
+Riders of Icarus,2013.0,2,1
+Riders of Icarus,2014.0,4,2
+Riders of Icarus,2015.0,5,3
+Antenna,2014.0,2,1
+Antenna,2015.0,4,2
+This Is the Police,2015.0,4,2
+Paladins®,2012.0,2,1
+Paladins®,2013.0,4,2
+Paladins®,2014.0,9,5
+Paladins®,2015.0,3,2
+Princess Edge - Dragonstone,2014.0,2,1
+Bloons TD Battles,2015.0,2,1
+Death Stair,2013.0,2,1
+The Average Everyday Adventures of Samantha Browne,2015.0,2,1
+Flowers -Le volume sur printemps- Demo,2015.0,2,1
+Settled,2013.0,2,1
+Jalopy,2013.0,2,1
+Bunker Punks,2013.0,2,1
+New York Taxi Simulator,2015.0,1,1
+IS Defense,2013.0,1,1
+IS Defense,2015.0,4,2
+Overcooked,2014.0,2,1
+Square's Route,2015.0,2,1
+The Bottom of the Well,2014.0,2,1
+Jesus Christ RPG Trilogy,2014.0,3,2
+Rock Paper Scissors Champion,2014.0,1,1
+Istrolid,2014.0,3,2
+Istrolid,2015.0,6,3
+Atulos Online,2014.0,3,2
+There's Poop In My Soup,2014.0,2,1
+There's Poop In My Soup,2015.0,2,1
+Chicken Invaders 2,2015.0,1,1
+REDCON,2012.0,2,1
+Expansion - Crusader Kings II: The Reaper's Due,2015.0,2,1
+PAYDAY 2: Biker Character Pack,2013.0,1,1
+PAYDAY 2: Biker Character Pack,2015.0,2,1
+Ember Kaboom,2015.0,2,1
+[the Sequence],2015.0,2,1
+"Don't Die Dateless, Dummy!",2014.0,1,1
+STAR WARS™: Rogue Squadron 3D,2015.0,1,1
+Rocket League® - Aftershock,2014.0,2,1
+Rocket League® - Masamune,2015.0,2,1
+Moustache Mountain,2015.0,2,1
+March of the Living,2015.0,2,1
+Snooker Nation Championship,2013.0,2,1
+Crush Crush,2014.0,4,2
+Crush Crush,2015.0,4,3
+Megadimension Neptunia VII,2014.0,4,2
+Euro Truck Simulator 2 - Mighty Griffin Tuning Pack,2015.0,2,1
+Massive,2014.0,2,1
+MANDAGON,2013.0,4,2
+MANDAGON,2015.0,6,3
+FPV Air Tracks,2012.0,1,1
+FPV Air Tracks,2014.0,2,1
+AdVenture Communist,2014.0,2,1
+AdVenture Communist,2015.0,2,1
+Farnham Fables,2015.0,2,1
+One Thousand Lies,2013.0,2,1
+One Thousand Lies,2015.0,2,1
+Neon Space ULTRA,2011.0,1,1
+ChuSingura46+1 S,2013.0,1,1
+ChuSingura46+1 S,2015.0,3,2
+Sector Six,2015.0,2,1
+Worm.is: The Game,2014.0,1,1
+Worm.is: The Game,2015.0,4,2
+Zero G Arena,2014.0,6,3
+SWORDY,2014.0,2,1
+PAYDAY 2: Sydney Character Pack,2014.0,2,1
+PAYDAY 2: Sydney Character Pack,2015.0,4,2
+Super Mega Neo Pug,2015.0,1,1
+Ortus Regni,2014.0,2,1
+Elisa: The Innkeeper - Prequel,2015.0,2,1
+Memory Oblivion Box,2014.0,1,1
+The Center - ARK Expansion Map,2014.0,2,1
+The Center - ARK Expansion Map,2015.0,4,3
+The NADI Project,2014.0,2,1
+Reigns,2014.0,2,1
+Reigns,2015.0,2,1
+Picross Touch,2014.0,2,1
+Picross Touch,2015.0,2,1
+Human: Fall Flat,2015.0,2,1
+Space Hole,2014.0,2,1
+Cuties,2011.0,1,1
+Fallout 4 - Contraptions Workshop,2015.0,2,1
+Fallout 4 Vault-Tec Workshop,2015.0,1,1
+Welcome to the Game,2012.0,1,1
+Welcome to the Game,2014.0,4,2
+Runeous: Part One,2014.0,2,1
+Freebie,2015.0,2,1
+Conan the mighty pig,2015.0,2,1
+Just Deserts,2015.0,1,1
+Battle Forever,2015.0,2,1
+Red Trigger,2014.0,4,2
+Red Trigger,2015.0,2,1
+Take Thy Throne,2015.0,1,1
+My Butler,2013.0,1,1
+Montaro,2014.0,1,1
+Montaro,2015.0,3,3
+Dungeon Fighter Online,2014.0,2,1
+Kingdom: New Lands,2014.0,2,1
+Kingdom: New Lands,2015.0,2,1
+Replica,2015.0,1,1
+Street Legal Racing: Redline v2.3.1,2014.0,2,1
+8-Bit Hordes,2015.0,2,1
+Batman - The Telltale Series,2012.0,2,1
+Batman - The Telltale Series,2014.0,4,2
+Batman - The Telltale Series,2015.0,10,5
+ASRECorp,2014.0,2,1
+Dark Parables: The Exiled Prince Collector's Edition,2015.0,2,1
+klocki,2015.0,4,2
+Puppy Dog: Jigsaw Puzzles,2015.0,1,1
+Strike.is: The Game,2014.0,1,1
+The God's Chain,2014.0,2,1
+ROD: Revolt Of Defense,2015.0,2,1
+Unbox: Newbie's Adventure,2015.0,1,1
+ARK: Scorched Earth - Expansion Pack,2015.0,4,2
+Sparky's Hunt,2014.0,2,1
+Everything is Peachy,2015.0,2,1
+American Truck Simulator - Steering Creations Pack,2015.0,2,1
+True or False,2014.0,3,2
+Super Switch,2014.0,2,1
+You Have 10 Seconds 2,2015.0,1,1
+Galactic Storm,2015.0,2,1
+What The Box?,2014.0,2,1

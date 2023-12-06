@@ -1,0 +1,344 @@
+año,genres,playtime_forever
+1983,Action,3582.0
+1983,Adventure,3582.0
+1983,Casual,3582.0
+1984,Action,384.0
+1984,Adventure,384.0
+1984,Casual,384.0
+1987,Adventure,7716.0
+1987,Simulation,235.0
+1988,Action,16243.0
+1988,Adventure,30241.0
+1988,Indie,13998.0
+1988,RPG,13998.0
+1988,Simulation,1.0
+1988,Strategy,13998.0
+1989,Action,607.0
+1989,Adventure,9324.0
+1989,Simulation,5084.0
+1990,Action,18787.0
+1990,Adventure,5538.0
+1990,Simulation,1926.0
+1990,Strategy,60.0
+1991,Action,2502.0
+1991,Adventure,1722.0
+1991,Casual,1355.0
+1991,RPG,0.0
+1991,Simulation,144.0
+1991,Strategy,0.0
+1992,Action,1925.0
+1992,Adventure,23898.0
+1992,Casual,2524.0
+1992,RPG,2164.0
+1992,Simulation,11.0
+1993,Action,24663.0
+1993,Adventure,46811.0
+1993,Casual,22039.0
+1993,Simulation,65.0
+1993,Strategy,187144.0
+1994,Action,121057.0
+1994,Adventure,15890.0
+1994,Casual,45975.0
+1994,RPG,2092.0
+1994,Racing,289.0
+1994,Simulation,9390.0
+1994,Strategy,1169.0
+1995,Action,217813.0
+1995,Adventure,10026.0
+1995,Casual,3562.0
+1995,Indie,3177.0
+1995,Racing,31220.0
+1995,Simulation,980.0
+1995,Sports,31220.0
+1995,Strategy,55249.0
+1996,Action,70061.0
+1996,Adventure,106050.0
+1996,Casual,30711.0
+1996,Free to Play,127.0
+1996,Indie,570.0
+1996,RPG,25505.0
+1996,Racing,1202.0
+1996,Simulation,1918.0
+1996,Strategy,8569.0
+1997,Action,363033.0
+1997,Adventure,329299.0
+1997,Casual,32535.0
+1997,Indie,64814.0
+1997,RPG,366756.0
+1997,Racing,9319.0
+1997,Simulation,4980.0
+1997,Strategy,134989.0
+1998,Action,2935053.0
+1998,Adventure,181142.0
+1998,Casual,13082.0
+1998,Indie,19958.0
+1998,RPG,382964.0
+1998,Racing,15131.0
+1998,Simulation,110263.0
+1998,Strategy,26164.0
+1999,Action,2735338.0
+1999,Adventure,7830.0
+1999,Casual,641897.0
+1999,Free to Play,635875.0
+1999,Indie,635875.0
+1999,RPG,332845.0
+1999,Racing,32.0
+1999,Simulation,130537.0
+1999,Strategy,584384.0
+2000,Action,18643971.0
+2000,Adventure,105666.0
+2000,Casual,53135.0
+2000,Indie,5304.0
+2000,RPG,87613.0
+2000,Racing,3015.0
+2000,Simulation,70187.0
+2000,Strategy,64931.0
+2001,Action,1337303.0
+2001,Adventure,51499.0
+2001,Casual,6332.0
+2001,Free to Play,4965.0
+2001,Indie,89280.0
+2001,RPG,120600.0
+2001,Simulation,249233.0
+2001,Strategy,952213.0
+2002,Action,740382.0
+2002,Adventure,184860.0
+2002,Casual,61625.0
+2002,Indie,38748.0
+2002,RPG,1790818.0
+2002,Simulation,360965.0
+2002,Strategy,494843.0
+2003,Action,11969297.0
+2003,Adventure,5271791.0
+2003,Casual,3048.0
+2003,Free to Play,6002403.0
+2003,Indie,2160287.0
+2003,Massively Multiplayer,6002403.0
+2003,RPG,9087743.0
+2003,Racing,31009.0
+2003,Simulation,1364469.0
+2003,Strategy,7345501.0
+2004,Action,131222294.0
+2004,Adventure,96629.0
+2004,Casual,24490.0
+2004,Indie,43250.0
+2004,RPG,72101.0
+2004,Racing,3477.0
+2004,Simulation,135965.0
+2004,Strategy,3702910.0
+2005,Action,12426135.0
+2005,Adventure,207936.0
+2005,Casual,40786.0
+2005,Free to Play,67388.0
+2005,Indie,338512.0
+2005,RPG,3179564.0
+2005,Racing,215700.0
+2005,Simulation,175054.0
+2005,Sports,69758.0
+2005,Strategy,1018335.0
+2005,Web Publishing,93847.0
+2006,Action,10899167.0
+2006,Adventure,208276.0
+2006,Casual,237151.0
+2006,Free to Play,2595634.0
+2006,Indie,452672790.0
+2006,Photo Editing,173.0
+2006,RPG,1861311.0
+2006,Racing,432945.0
+2006,Simulation,451105400.0
+2006,Sports,11211.0
+2006,Strategy,17455885.0
+2006,Utilities,385375.0
+2006,Video Production,173.0
+2007,Action,17744979.0
+2007,Adventure,406260.0
+2007,Audio Production,11061.0
+2007,Casual,732006.0
+2007,Design &amp; Illustration,11061.0
+2007,Free to Play,213746.0
+2007,Indie,1354415.0
+2007,Massively Multiplayer,117715.0
+2007,Photo Editing,11061.0
+2007,RPG,9607344.0
+2007,Racing,584341.0
+2007,Simulation,1413105.0
+2007,Sports,1308.0
+2007,Strategy,3183899.0
+2007,Utilities,11061.0
+2007,Video Production,11061.0
+2007,Web Publishing,11061.0
+2008,Action,33997164.0
+2008,Adventure,3332268.0
+2008,Animation &amp; Modeling,2059.0
+2008,Casual,577957.0
+2008,Design &amp; Illustration,2059.0
+2008,Education,2059.0
+2008,Free to Play,216903.0
+2008,Indie,5322453.0
+2008,Massively Multiplayer,104548.0
+2008,RPG,10455279.0
+2008,Racing,2431790.0
+2008,Simulation,4756474.0
+2008,Software Training,2059.0
+2008,Sports,98946.0
+2008,Strategy,8187327.0
+2008,Utilities,2059.0
+2009,Action,165437678.0
+2009,Adventure,9766565.0
+2009,Casual,3867427.0
+2009,Free to Play,5301896.0
+2009,Indie,3845181.0
+2009,Massively Multiplayer,4980143.0
+2009,RPG,28852888.0
+2009,Racing,2428522.0
+2009,Simulation,16564304.0
+2009,Sports,250785.0
+2009,Strategy,32180891.0
+2010,Action,182700908.0
+2010,Adventure,25269776.0
+2010,Casual,4807843.0
+2010,Education,9.0
+2010,Free to Play,8678627.0
+2010,Indie,8636982.0
+2010,Massively Multiplayer,7515934.0
+2010,RPG,92891617.0
+2010,Racing,2067673.0
+2010,Simulation,42318075.0
+2010,Software Training,0.0
+2010,Sports,2397026.0
+2010,Strategy,142876869.0
+2011,Action,335808266.0
+2011,Adventure,224347981.0
+2011,Casual,6028047.0
+2011,Free to Play,43610664.0
+2011,Indie,228112239.0
+2011,Massively Multiplayer,43524874.0
+2011,RPG,230779412.0
+2011,Racing,2386979.0
+2011,Simulation,16472745.0
+2011,Sports,930765.0
+2011,Strategy,34944699.0
+2012,Action,1103832059.0
+2012,Adventure,79054288.0
+2012,Animation &amp; Modeling,17914.0
+2012,Casual,20627167.0
+2012,Design &amp; Illustration,1947406.0
+2012,Early Access,3251065.0
+2012,Free to Play,116948787.0
+2012,Indie,124666763.0
+2012,Massively Multiplayer,86022219.0
+2012,Photo Editing,2678.0
+2012,RPG,165542551.0
+2012,Racing,998427.0
+2012,Simulation,29363177.0
+2012,Sports,3608452.0
+2012,Strategy,86556469.0
+2012,Utilities,10338.0
+2012,Video Production,4010.0
+2012,Web Publishing,1947406.0
+2013,Action,420745592.0
+2013,Adventure,152860664.0
+2013,Animation &amp; Modeling,437438.0
+2013,Audio Production,73176.0
+2013,Casual,13251732.0
+2013,Design &amp; Illustration,295027.0
+2013,Early Access,120366296.0
+2013,Education,342804.0
+2013,Free to Play,147751307.0
+2013,Indie,179788582.0
+2013,Massively Multiplayer,134970681.0
+2013,RPG,126887582.0
+2013,Racing,4772921.0
+2013,Simulation,110934507.0
+2013,Software Training,98846.0
+2013,Sports,6257701.0
+2013,Strategy,147649674.0
+2013,Utilities,860746.0
+2013,Video Production,224900.0
+2013,Web Publishing,335849.0
+2014,Action,169215211.0
+2014,Adventure,68289031.0
+2014,Animation &amp; Modeling,79624.0
+2014,Audio Production,466246.0
+2014,Casual,22573947.0
+2014,Design &amp; Illustration,192809.0
+2014,Early Access,11398707.0
+2014,Education,22564.0
+2014,Free to Play,37898990.0
+2014,Indie,93340203.0
+2014,Massively Multiplayer,35839650.0
+2014,Photo Editing,61659.0
+2014,RPG,80218139.0
+2014,Racing,5583569.0
+2014,Simulation,37883231.0
+2014,Software Training,423328.0
+2014,Sports,5605822.0
+2014,Strategy,50915494.0
+2014,Utilities,2725654.0
+2014,Video Production,495578.0
+2014,Web Publishing,33732.0
+2015,Action,265367171.0
+2015,Adventure,182819157.0
+2015,Animation &amp; Modeling,1354685.0
+2015,Audio Production,5060.0
+2015,Casual,82515351.0
+2015,Design &amp; Illustration,1540351.0
+2015,Early Access,13731510.0
+2015,Education,36083.0
+2015,Free to Play,129975970.0
+2015,Indie,175564638.0
+2015,Massively Multiplayer,40943661.0
+2015,Photo Editing,671.0
+2015,RPG,153274502.0
+2015,Racing,37910911.0
+2015,Simulation,92931549.0
+2015,Software Training,36605.0
+2015,Sports,41795973.0
+2015,Strategy,83073870.0
+2015,Utilities,579512.0
+2015,Video Production,1671790.0
+2015,Web Publishing,348861.0
+2016,Action,97106508.0
+2016,Adventure,63004546.0
+2016,Animation &amp; Modeling,115627.0
+2016,Audio Production,459.0
+2016,Casual,44481199.0
+2016,Design &amp; Illustration,113524.0
+2016,Early Access,9908190.0
+2016,Education,2324.0
+2016,Free to Play,23537093.0
+2016,Indie,90806283.0
+2016,Massively Multiplayer,22305897.0
+2016,Photo Editing,39183.0
+2016,RPG,56833910.0
+2016,Racing,3670219.0
+2016,Simulation,36529757.0
+2016,Software Training,481.0
+2016,Sports,4763913.0
+2016,Strategy,31811478.0
+2016,Utilities,117920.0
+2016,Video Production,1380.0
+2016,Web Publishing,136.0
+2017,Action,127855249.0
+2017,Adventure,93938453.0
+2017,Casual,51545965.0
+2017,Design &amp; Illustration,21.0
+2017,Early Access,35951.0
+2017,Education,9713.0
+2017,Free to Play,87312570.0
+2017,Indie,127095775.0
+2017,Massively Multiplayer,64266355.0
+2017,RPG,68349598.0
+2017,Racing,116343.0
+2017,Simulation,24746951.0
+2017,Software Training,9713.0
+2017,Sports,22876.0
+2017,Strategy,5936827.0
+2017,Utilities,9734.0
+2017,Web Publishing,9713.0
+2018,Action,2224.0
+2018,Adventure,21.0
+2018,Early Access,6128.0
+2018,Indie,2327.0
+2018,RPG,3822.0
+2018,Simulation,2203.0
