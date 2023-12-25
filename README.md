@@ -3,9 +3,9 @@
 ## Introducción: ##
 
 En este proyecto trabajé con 3 archivos sobre datos de steam, estos archivos originalmente venian en formato JSON que luego los transforme a CSV. Estos archivos eran:
-  . users_items.json.gz
-  . steam_games.json.gz
-  . user_reviews.json.gz
+  - users_items.json.gz
+  - steam_games.json.gz
+  - user_reviews.json.gz
 
 El objetivo de este proyecto es deployar una API hecha con FastAPI en render con 6 endpoints, 5 de ellos son para consultar datos y 1 es un modelo de recomendación
 
