@@ -22,11 +22,11 @@ Los archivos CSV limpios los subí a un drive de google ya que son muy pesados y
 [Archivos CSV limpios](https://drive.google.com/drive/folders/1NgPKIbytor0SxQnDtnOZLPK3SKXXSCSq?usp=drive_link)
 
 ## EDA: ##
-Realizé un analisis exploratorio de datos para tratar de encontrar patrones y tendencias en los datos y tambien para detectar valores outliers, medias, etc
+Realizé un analisis exploratorio de datos para tratar de encontrar patrones y tendencias en los datos y tambien para detectar valores outliers, medias, etc. Esto lo hice usando graficos de las librerias seaborn y matplotlib
 
-## Endpoints: ##
+## Funciones de la API: ##
 
-Primero prepare los CSV para cada funcion de la api, luego hice las funciones de la api, todo esto en los notebooks que se llaman CSV_Funcion para una mayor comodidad y después adapté las funciones para la API que se encuentran en el archivo **main.py**
+Primero preparé los CSV para cada funcion de la api, luego hice las funciones de la api, todo esto en los notebooks que se llaman CSV_Funcion para una mayor comodidad y después adapté las funciones para la API que se encuentran en el archivo **main.py**
 
 **def PlayTimeGenre( genero : str ):** Debe devolver año con mas horas jugadas para dicho género.
 
