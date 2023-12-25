@@ -13,6 +13,9 @@ El objetivo de este proyecto es deployar una API hecha con FastAPI en render con
 Al principio del proyecto los archivos originalmente venian en formato JSON y venian con errores, lo que provocaba que no se pudieran leer, por lo que tuve que leerlos linea por linea y luego los pasé a formato CSV para optimizar los procesos de ETL y EDA ya que leer los archivos linea por linea consumen demasiado tiempo y recursos.
 También tuve que limpiar los archivos originales eliminando nulos, duplicados y datos irrelevantes para el correcto funcionamiento de los endpoints
 
+## EDA: ##
+Realizé un analisis exploratorio de datos para tratar de encontrar patrones y tendencias en los datos y tambien para detectar valores outliers, medias, etc
+
 ## Endpoints: ##
 
 Los endpoints los hice primero en notebooks separados para una mayor comodidad y después adapté las funciones para la API que se encuentran en el archivo **main.py**
