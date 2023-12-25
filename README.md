@@ -1,12 +1,13 @@
-Proyecto Individual Número 1:
+#Proyecto Individual Número 1:#
 
-Introducción:
+##Introducción:##
 
 En este proyecto trabajé con 3 archivos sobre datos de steam, estos archivos originalmente venian en formato JSON y no se podían leer, por lo que tuve que leerlos linea por linea y luego los pasé a formato CSV para optimizar los procesos de ETL y EDA ya que leer los archivos linea por linea consumen demasiado tiempo y recursos.
 
 El objetivo de este proyecto es deployar una API hecha con FastAPI en render con 6 endpoints, 5 de ellos son para consultar datos y 1 es un modelo de recomendación
 
 Endpoints:
+
 def PlayTimeGenre( genero : str ): Debe devolver año con mas horas jugadas para dicho género.
 
 def UserForGenre( genero : str ): Debe devolver el usuario que acumula más horas jugadas para el género dado y una lista de la acumulación de horas jugadas por año.
