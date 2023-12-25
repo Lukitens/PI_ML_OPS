@@ -9,6 +9,10 @@ En este proyecto trabajé con 3 archivos sobre datos de steam, estos archivos or
 
 El objetivo de este proyecto es deployar una API hecha con FastAPI en render con 6 endpoints, 5 de ellos son para consultar datos y 1 es un modelo de recomendación
 
+Los archivos JSON originales los subí a un drive de google ya que son muy pesados y github no me permite subirlos:
+
+[Archivos JSON](https://drive.google.com/drive/folders/1ho75x6-e320yu06KCBog08ERFh2hIDne?usp=drive_link)
+
 ## ETL: ##
 Al principio del proyecto los archivos originalmente venian en formato JSON y venian con errores, lo que provocaba que no se pudieran leer, por lo que tuve que leerlos linea por linea y luego los pasé a formato CSV para optimizar los procesos de ETL y EDA ya que leer los archivos linea por linea consumen demasiado tiempo y recursos.
 También tuve que limpiar los archivos originales eliminando nulos, duplicados y datos irrelevantes para el correcto funcionamiento de los endpoints
