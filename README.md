@@ -26,7 +26,7 @@ Realizé un analisis exploratorio de datos para tratar de encontrar patrones y t
 
 ## Endpoints: ##
 
-Los endpoints los hice primero en notebooks separados para una mayor comodidad y después adapté las funciones para la API que se encuentran en el archivo **main.py**
+Primero prepare los CSV para cada funcion de la api, luego hice las funciones de la api, todo esto en los notebooks que se llaman CSV_Funcion para una mayor comodidad y después adapté las funciones para la API que se encuentran en el archivo **main.py**
 
 **def PlayTimeGenre( genero : str ):** Debe devolver año con mas horas jugadas para dicho género.
 
