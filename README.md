@@ -2,11 +2,14 @@
 
 ## Introducción: ##
 
-En este proyecto trabajé con 3 archivos sobre datos de steam, estos archivos originalmente venian en formato JSON y no se podían leer, por lo que tuve que leerlos linea por linea y luego los pasé a formato CSV para optimizar los procesos de ETL y EDA ya que leer los archivos linea por linea consumen demasiado tiempo y recursos.
+En este proyecto trabajé con 3 archivos sobre datos de steam, estos archivos originalmente venian en formato JSON que luego los transforme a CSV. Estos archivos eran:
+  . users_items.json.gz
+  . steam_games.json.gz
+  . user_reviews.json.gz
 
 El objetivo de este proyecto es deployar una API hecha con FastAPI en render con 6 endpoints, 5 de ellos son para consultar datos y 1 es un modelo de recomendación
 
-Endpoints:
+## Endpoints: ##
 
 def PlayTimeGenre( genero : str ): Debe devolver año con mas horas jugadas para dicho género.
 
@@ -19,3 +22,7 @@ def UsersNotRecommend( año : int ): Devuelve el top 3 de juegos MENOS recomenda
 def sentiment_analysis( año : int ): Según el año de lanzamiento, se devuelve una lista con la cantidad de registros de reseñas de usuarios que se encuentren categorizados con un análisis de sentimiento.
 
 def recomendacion_juego( id de producto ): Ingresando el id de producto, deberíamos recibir una lista con 5 juegos recomendados similares al ingresado.
+
+## ETL: ##
+Al principio del proyecto los archivos originalmente venian en formato JSON y venian con errores, lo que provocaba que no se pudieran leer, por lo que tuve que leerlos linea por linea y luego los pasé a formato CSV para optimizar los procesos de ETL y EDA ya que leer los archivos linea por linea consumen demasiado tiempo y recursos.
+También tuve que limpiar los archivos originales eliminando nulos, duplicados y datos irrelevantes para el correcto funcionamiento de los endpoints
