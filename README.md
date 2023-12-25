@@ -17,6 +17,10 @@ Los archivos JSON originales los subí a un drive de google ya que son muy pesad
 Al principio del proyecto los archivos originalmente venian en formato JSON y venian con errores, lo que provocaba que no se pudieran leer, por lo que tuve que leerlos linea por linea y luego los pasé a formato CSV para optimizar los procesos de ETL y EDA ya que leer los archivos linea por linea consumen demasiado tiempo y recursos.
 También tuve que limpiar los archivos originales eliminando nulos, duplicados y datos irrelevantes para el correcto funcionamiento de los endpoints
 
+Los archivos CSV limpios los subí a un drive de google ya que son muy pesados y github no me permite subirlos:
+
+[Archivos CSV limpios](https://drive.google.com/drive/folders/1NgPKIbytor0SxQnDtnOZLPK3SKXXSCSq?usp=drive_link)
+
 ## EDA: ##
 Realizé un analisis exploratorio de datos para tratar de encontrar patrones y tendencias en los datos y tambien para detectar valores outliers, medias, etc
 
