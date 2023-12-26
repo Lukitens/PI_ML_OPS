@@ -1,9 +1,6 @@
-<<<<<<< HEAD
 numpy
 pandas
 fastapi
-=======
 numpy
 pandas
 fastapi
->>>>>>> 34bc9c57ba8f0a596426b8857f4772ab857af80a
