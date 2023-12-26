@@ -1,7 +1,6 @@
 # uvicorn main:app --reload
 # http://127.0.0.1:8000/docs Documentacion
 
-
 #Importamos las librerias necesarias
 import numpy as np
 import pandas as pd
@@ -23,9 +22,6 @@ funcion5 = pd.read_csv("Csv_api//funcion5.csv")
 def read_root():
     return {"Bienvenido" : "Bienvenido a mi API del proyecto individual Nº1"}
 
-#Funcion 1 
-# def PlayTimeGenre( genero : str ): Debe devolver año con mas horas jugadas para dicho género.
-# Ejemplo de retorno: {"Año de lanzamiento con más horas jugadas para Género X" : 2013}
 @app.get("/playtime/{genero}") #Establecemos la ruta de la funcion
 def PlayTimeGenre( genero : str ): #Creamos la funcion y le damos su argumento
     """
