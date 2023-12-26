@@ -6,8 +6,6 @@
 import numpy as np
 import pandas as pd
 from fastapi import FastAPI
-import json
-from fastapi.responses import JSONResponse
 
 #Iniciamos la api y la guardamos en la variable app
 app = FastAPI()
@@ -129,21 +127,11 @@ def UsersNotRecommend(año: int):
 # análisis de sentimiento.
 #Ejemplo de retorno: {Negative = 182, Neutral = 120, Positive = 278}
 
-#Detecta si el valor es un Int64 y lo pasa a int, si no lo deja igual
-def convert_numpy_int64(obj):
-    if isinstance(obj, np.int64):
-        return obj.item()
-    return obj
-
 @app.get("/sentimentanalysis/{year}") #Establecemos la ruta de la funcion
 def sentiment_analysis(year: int): #Creamos la funcion y le damos su argumento
     if 2010 <= year <= 2015: #Si el año ingresado esta entre 2010 y 2015 procede con la funcion
         filtro = funcion5[funcion5["year"] == year] #Filtra por el año ingresado
 
-        # Aplicar la conversión de Int64(numpy) a int(python)
-        json_response = filtro.to_dict(orient="records")
-        json_response = json.dumps(json_response, default=convert_numpy_int64)
-
-        return json_response #Devuelve los valores
+        return filtro.to_dict(orient="records") #Devuelve los valores
     else:
         return "Pone un año entre 2010 y 2015"
