@@ -28,6 +28,9 @@ def read_root():
 # Ejemplo de retorno: {"Año de lanzamiento con más horas jugadas para Género X" : 2013}
 @app.get("/playtime/{genero}") #Establecemos la ruta de la funcion
 def PlayTimeGenre( genero : str ): #Creamos la funcion y le damos su argumento
+    """
+    Funcion 1: Se ingresa un genero y devuelve el año con mas horas jugadas en ese genero
+    """
     if genero in funcion1["genres"].values: #Si el genero ingresado está en el csv devuelve el año con mas horas jugadas
         filtro = funcion1[funcion1["genres"] == genero] #Filtra el df dejando solo el genero ingresado
         valor_maximo = filtro["playtime_forever"].max() #Devuelve el valor maximo de las horas
@@ -36,14 +39,12 @@ def PlayTimeGenre( genero : str ): #Creamos la funcion y le damos su argumento
     else:
         return("Tu genero: {} no existe".format(genero)) #Si no se cumple la condicion envia este mensaje
 
-#Funcion 2
-#def UserForGenre( genero : str ): Debe devolver el usuario que acumula más horas 
-# jugadas para el género dado y una lista de la acumulación de horas jugadas por año.
-#Ejemplo de retorno: {"Usuario con más horas jugadas para Género X" : us213ndjss09sdf, 
-# "Horas jugadas":[{Año: 2013, Horas: 203}, {Año: 2012, Horas: 100}, {Año: 2011, Horas: 23}]}
-
 @app.get("/UserForGenre/{genero}")
 def UserForGenre(genero:str):
+    """
+    Funcion 2: Se ingresa un genero y devuelve el usuario que mas horas tiene en el genero ingresado
+    y devuelve las horas que tiene por año
+    """
     if genero in funcion2["genres"].values:
         generosdf = funcion2[funcion2["genres"] == genero]
         horas_por_persona = generosdf.groupby(["user_id", "genres"])["playtime_forever"].sum().reset_index()
@@ -60,14 +61,11 @@ def UserForGenre(genero:str):
     else:
         return ("Selecciona un genero valido")
 
-
-#Funcion 3
-# def UsersRecommend( año : int ): Devuelve el top 3 de juegos MÁS recomendados por usuarios para 
-# el año dado. (reviews.recommend = True y comentarios positivos/neutrales)
-#Ejemplo de retorno: [{"Puesto 1" : X}, {"Puesto 2" : Y},{"Puesto 3" : Z}] 
-
 @app.get("/UsersRecommend/{year}") #Establecemos la ruta de la funcion
 def UsersRecommend( year : int ): #Creamos la funcion y le damos su argumento
+    """
+    Funcion 3: Se ingresa un año y devuelve el top 3 de juegos mas recomendados por usuarios
+    """
     if year >= 2010 and year <= 2015: #Si el año ingresado esta entre 2010 y 2015 procede con la funcion
         filtro = funcion3[funcion3["year"] == year] #Filtra por el año ingresado
         filtro["valoracion"] = filtro["sentiment_analysis"] + filtro["recommend"]
@@ -82,14 +80,11 @@ def UsersRecommend( year : int ): #Creamos la funcion y le damos su argumento
     else:
         return "Selecciona un año ente 2010 y 2015"
 
-#Funcion 4
-# def UsersNotRecommend( año : int ): Devuelve el top 3 de juegos MENOS recomendados por usuarios 
-# para el año dado. (reviews.recommend = False y comentarios negativos)
-#Ejemplo de retorno: [{"Puesto 1" : X}, {"Puesto 2" : Y},{"Puesto 3" : Z}]
-
-
 @app.get("/UsersNotRecommend/{year}")
 def UsersNotRecommend(año: int):
+    """
+    Funcion 4: Se ingresa un año y devuelve el top 3 de juegos menos recomendados por usuarios
+    """
     if 2010 <= año <= 2015:
         # Filtramos los DataFrames por el año ingresado
         filtro = funcion4[funcion4["year"] == año]
@@ -120,15 +115,13 @@ def UsersNotRecommend(año: int):
         return top3.to_dict(orient="records")
     else:
         return "Por favor, ingrese un año válido entre 2011 y 2015."
-    
-#Funcion 5
-#def sentiment_analysis( año : int ): Según el año de lanzamiento, se devuelve una lista 
-# con la cantidad de registros de reseñas de usuarios que se encuentren categorizados con un 
-# análisis de sentimiento.
-#Ejemplo de retorno: {Negative = 182, Neutral = 120, Positive = 278}
 
 @app.get("/sentimentanalysis/{year}") #Establecemos la ruta de la funcion
 def sentiment_analysis(year: int): #Creamos la funcion y le damos su argumento
+    """
+    Funcion 5: Se ingresa un año de lanzamiento y devuelve una lista con la cantidad de
+    reseñas positivas, neutrales y negativas
+    """
     if 2010 <= year <= 2015: #Si el año ingresado esta entre 2010 y 2015 procede con la funcion
         filtro = funcion5[funcion5["year"] == year] #Filtra por el año ingresado
 
