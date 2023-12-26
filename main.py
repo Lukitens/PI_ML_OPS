@@ -22,7 +22,7 @@ funcion5 = pd.read_csv("Csv_api//funcion5.csv")
 def read_root():
     return {"Bienvenido" : "Bienvenido a mi API del proyecto individual Nº1"}
 
-@app.get("/playtime/{genero}") #Establecemos la ruta de la funcion
+@app.get("/PlayTimeGenre/{genero}") #Establecemos la ruta de la funcion
 def PlayTimeGenre( genero : str ): #Creamos la funcion y le damos su argumento
     """
     Funcion 1: Se ingresa un genero y devuelve el año con mas horas jugadas en ese genero
@@ -112,7 +112,7 @@ def UsersNotRecommend(año: int):
     else:
         return "Por favor, ingrese un año válido entre 2011 y 2015."
 
-@app.get("/sentimentanalysis/{year}") #Establecemos la ruta de la funcion
+@app.get("/sentiment_analysis/{year}") #Establecemos la ruta de la funcion
 def sentiment_analysis(year: int): #Creamos la funcion y le damos su argumento
     """
     Funcion 5: Se ingresa un año de lanzamiento y devuelve una lista con la cantidad de
