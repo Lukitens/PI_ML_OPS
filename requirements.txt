@@ -3,4 +3,5 @@ pandas
 fastapi
 numpy
 pandas
+uvicorn
 fastapi
