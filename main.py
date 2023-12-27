@@ -5,6 +5,8 @@
 import numpy as np
 import pandas as pd
 from fastapi import FastAPI
+from sklearn.feature_extraction.text import CountVectorizer
+from sklearn.metrics.pairwise import cosine_similarity
 
 #Iniciamos la api y la guardamos en la variable app
 app = FastAPI()
@@ -17,6 +19,7 @@ funcion3 = pd.read_csv("Csv_api//funcion3.csv")
 funcion4 = pd.read_csv("Csv_api//funcion4.csv")
 funcion4_2 = pd.read_csv("Csv_api//funcion4_2.csv")
 funcion5 = pd.read_csv("Csv_api//funcion5.csv")
+funcion6 = pd.read_csv("Csv_api//funcionML.csv")
 
 @app.get("/")
 def read_root():
@@ -124,3 +127,37 @@ def sentiment_analysis(year: int): #Creamos la funcion y le damos su argumento
         return filtro.to_dict(orient="records") #Devuelve los valores
     else:
         return "Pone un año entre 2010 y 2015"
+    
+@app.get("/recomendacion_juego/{id}")
+def recomendacion_juego(id : int):
+
+    """
+    Funcion 6: Se ingresa el id de un juego y devuelve 5 juegos similares al ingresado
+    """
+
+    if id not in funcion6["id"].values:
+        return "El ID ingresado no existe"
+
+    #Llenamos los valores nulos para poder hacer la vectorizacion
+    funcion6["genres"].fillna(" ", inplace=True)
+
+    #Iniciamos el countvectorizer en una variable para pasar los generos a numero
+    vectorizer = CountVectorizer()
+
+    #Pasamos los generos a numero
+    genres_vectorized = vectorizer.fit_transform(funcion6["genres"]).toarray()
+
+    #Calculamos la similitud del coseno
+    cosine_sim = cosine_similarity(genres_vectorized)
+
+    idx = funcion6[funcion6["id"] == id].index[0]
+
+    #Comparamos la similitud del coseno entre el juego ingresado y los demas juegos
+    evaluacion = cosine_sim[idx]
+    #Selecciono los 5 juegos mas parecidos segun la similitud del coseno
+    juegos = sorted(list(enumerate(evaluacion)), reverse=True, key=lambda x: x[1])[1:6]
+
+    #Se pasa a lista los juegos recomendados
+    juegos_recomendados = [funcion6.iloc[i[0]]['title'] for i in juegos]
+
+    return dict(enumerate(juegos_recomendados))
