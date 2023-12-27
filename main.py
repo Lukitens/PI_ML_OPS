@@ -138,26 +138,6 @@ def recomendacion_juego(id : int):
     if id not in funcion6["id"].values:
         return "El ID ingresado no existe"
 
-    #Llenamos los valores nulos para poder hacer la vectorizacion
-    funcion6["genres"].fillna(" ", inplace=True)
+    filtro = funcion6[funcion6["id"] == id]
 
-    #Iniciamos el countvectorizer en una variable para pasar los generos a numero
-    vectorizer = CountVectorizer()
-
-    #Pasamos los generos a numero
-    genres_vectorized = vectorizer.fit_transform(funcion6["genres"]).toarray()
-
-    #Calculamos la similitud del coseno
-    cosine_sim = cosine_similarity(genres_vectorized)
-
-    idx = funcion6[funcion6["id"] == id].index[0]
-
-    #Comparamos la similitud del coseno entre el juego ingresado y los demas juegos
-    evaluacion = cosine_sim[idx]
-    #Selecciono los 5 juegos mas parecidos segun la similitud del coseno
-    juegos = sorted(list(enumerate(evaluacion)), reverse=True, key=lambda x: x[1])[1:6]
-
-    #Se pasa a lista los juegos recomendados
-    juegos_recomendados = [funcion6.iloc[i[0]]['title'] for i in juegos]
-
-    return dict(enumerate(juegos_recomendados))
+    return [i for i in filtro["juegos"]]
