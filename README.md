@@ -59,7 +59,7 @@ Para este sistema de recomendación utilicé la similitud del coseno en base a l
 ## Deploy de la API: ##
 Para deployar la API y que cualquiera pueda acceder a ella utilicé render [API en render](https://lucas-api-pi.onrender.com/docs).
 
-[Notebook de la API](https://github.com/Lukitens/PI_ML_OPS/blob/main/main.py)
+[Archivo .py de la API](https://github.com/Lukitens/PI_ML_OPS/blob/main/main.py)
 
 Si se quiere deployar la api de manera local hay que:
   1. Tener las librerias necesarias instaladas
