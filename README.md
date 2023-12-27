@@ -1,5 +1,5 @@
 # Proyecto Individual Número 1: #
-
+![Steam Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcomputerhoy.com%2Fnoticias%2Fsoftware%2Ftodo-steam-que-es-como-funciona-que-sirve-10635&psig=AOvVaw2jLwP4IaOHLAQNV6MrEFfQ&ust=1703803642604000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLDHl6vZsIMDFQAAAAAdAAAAABAD)
 ## Introducción: ##
 
 En este proyecto trabajé con 3 archivos sobre datos de steam, estos archivos originalmente venian en formato JSON que luego los transforme a CSV. Estos archivos eran:
