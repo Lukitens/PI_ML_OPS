@@ -29,13 +29,25 @@ Realizé un analisis exploratorio de datos para tratar de encontrar patrones y t
 Primero preparé los CSV para cada funcion de la api, luego hice las funciones de la api, todo esto en los notebooks que se llaman CSV_Funcion para una mayor comodidad y después adapté las funciones para la API que se encuentran en el archivo **main.py**
 
 **def PlayTimeGenre( genero : str ):** Debe devolver año con mas horas jugadas para dicho género.
+[Notebook de PlayTimeGenre](https://github.com/Lukitens/PI_ML_OPS/blob/main/CSV_Funcion1.ipynb)
 
 **def UserForGenre( genero : str ):** Debe devolver el usuario que acumula más horas jugadas para el género dado y una lista de la acumulación de horas jugadas por año.
+[Notebook de UserForGenre](https://github.com/Lukitens/PI_ML_OPS/blob/main/CSV_Funcion2.ipynb)
 
 **def UsersRecommend( año : int ):** Devuelve el top 3 de juegos MÁS recomendados por usuarios para el año dado. (reviews.recommend = True y comentarios positivos/neutrales)
+[Notebook de UsersRecommend](https://github.com/Lukitens/PI_ML_OPS/blob/main/CSV_Funcion3.ipynb)
 
 **def UsersNotRecommend( año : int ):** Devuelve el top 3 de juegos MENOS recomendados por usuarios para el año dado. (reviews.recommend = False y comentarios negativos)
+[Notebook de UsersNotRecommend](https://github.com/Lukitens/PI_ML_OPS/blob/main/CSV_Funcion4.ipynb)
 
 **def sentiment_analysis( año : int ):** Según el año de lanzamiento, se devuelve una lista con la cantidad de registros de reseñas de usuarios que se encuentren categorizados con un análisis de sentimiento.
+[Notebook de sentiment_analysis](https://github.com/Lukitens/PI_ML_OPS/blob/main/CSV_Funcion5.ipynb)
 
 **def recomendacion_juego( id de producto ):** Ingresando el id de producto, deberíamos recibir una lista con 5 juegos recomendados similares al ingresado.
+[Notebook de recomendacion_juego](https://github.com/Lukitens/PI_ML_OPS/blob/main/FuncionML.ipynb)
+
+## Sistema de recomendación: ##
+El sistema de recomendación que hice se basa en recomendar juegos parecidos al que se le ingresa.
+Para este sistema de recomendación utilicé la similitud del coseno en base a los generos de los juegos. Luego apliqué el modelo a todos los juegos del data frame y los guarde en un csv, ya que si ingresaba directamente el modelo de machine learning a render no funcionaba el endpoint ya que consumía demasiados recursos.
+
+[Autor](https://www.linkedin.com/in/lucas-raña-49120a271/)
