@@ -57,7 +57,8 @@ Para este sistema de recomendación utilicé la similitud del coseno en base a l
 [Notebook del modelo de machine learning](https://github.com/Lukitens/PI_ML_OPS/blob/main/FuncionML.ipynb)
 
 ## Deploy de la API: ##
-Para deployar la API y que cualquiera pueda acceder a ella utilicé render. [API en render](https://lucas-api-pi.onrender.com/docs)
+Para deployar la API y que cualquiera pueda acceder a ella utilicé render [API en render](https://lucas-api-pi.onrender.com/docs).
+
 Si se quiere deployar la api de manera local hay que:
   1. Tener las librerias necesarias instaladas
   2. Abrir la terminal de python
