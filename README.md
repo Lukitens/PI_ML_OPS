@@ -17,12 +17,16 @@ Los archivos JSON originales los subí a un drive de google ya que son muy pesad
 Al principio del proyecto los archivos originalmente venian en formato JSON y venian con errores, lo que provocaba que no se pudieran leer, por lo que tuve que leerlos linea por linea y luego los pasé a formato CSV para optimizar los procesos de ETL y EDA ya que leer los archivos linea por linea consumen demasiado tiempo y recursos.
 También tuve que limpiar los archivos originales eliminando nulos, duplicados y datos irrelevantes para el correcto funcionamiento de los endpoints
 
+[Notebook del ETL](https://github.com/Lukitens/PI_ML_OPS/blob/main/limpieza.ipynb)
+
 Los archivos CSV limpios los subí a un drive de google ya que son muy pesados y github no me permite subirlos:
 
 [Archivos CSV limpios](https://drive.google.com/drive/folders/1NgPKIbytor0SxQnDtnOZLPK3SKXXSCSq?usp=drive_link)
 
 ## EDA: ##
-Realizé un analisis exploratorio de datos para tratar de encontrar patrones y tendencias en los datos y tambien para detectar valores outliers, medias, etc. Esto lo hice usando graficos de las librerias seaborn y matplotlib
+Realizé un analisis exploratorio de datos para tratar de encontrar patrones y tendencias en los datos y tambien para detectar valores outliers, medias, etc. Esto lo hice usando graficos de las librerias seaborn y matplotlib.
+
+[Notebook del EDA](https://github.com/Lukitens/PI_ML_OPS/blob/main/eda.ipynb)
 
 ## Funciones de la API: ##
 
@@ -49,5 +53,17 @@ Primero preparé los CSV para cada funcion de la api, luego hice las funciones d
 ## Sistema de recomendación: ##
 El sistema de recomendación que hice se basa en recomendar juegos parecidos al que se le ingresa.
 Para este sistema de recomendación utilicé la similitud del coseno en base a los generos de los juegos. Luego apliqué el modelo a todos los juegos del data frame y los guarde en un csv, ya que si ingresaba directamente el modelo de machine learning a render no funcionaba el endpoint ya que consumía demasiados recursos.
+
+[Notebook del modelo de machine learning](https://github.com/Lukitens/PI_ML_OPS/blob/main/FuncionML.ipynb)
+
+## Deploy de la API: ##
+Para deployar la API y que cualquiera pueda acceder a ella utilicé render. [API en render](https://lucas-api-pi.onrender.com/docs)
+Si se quiere deployar la api de manera local hay que:
+  1. Tener las librerias necesarias instaladas
+  2. Abrir la terminal de python
+  3. Pegar esto en la consola: uvicorn main:app --reload
+  4. Abrir cualquier navegador
+  5. Pegar la ruta que sale en el output de la consola, en mi caso la ruta es: http://127.0.0.1:8000
+  6. Para poder probar todas las funciones agregarle /docs al final de la ruta. ejemplo: http://127.0.0.1:8000/docs
 
 [Autor](https://www.linkedin.com/in/lucas-raña-49120a271/)
