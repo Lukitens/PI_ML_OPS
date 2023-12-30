@@ -69,4 +69,6 @@ Si se quiere deployar la api de manera local hay que:
   5. Pegar la ruta que sale en el output de la consola, en mi caso la ruta es: http://127.0.0.1:8000
   6. Para poder probar todas las funciones agregarle /docs al final de la ruta. ejemplo: http://127.0.0.1:8000/docs
 
+[Video sobre la API](https://drive.google.com/drive/u/1/folders/1ZwmgU3Wbcv3H15_8rsM9vfM4Xw6zE-dL)
+
 [Autor](https://www.linkedin.com/in/lucas-raña-49120a271/)
